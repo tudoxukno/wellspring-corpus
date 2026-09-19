@@ -1,0 +1,43 @@
+{
+ "id": "src:bsb",
+ "type": "scripture",
+ "sourceType": "scripture",
+ "sourceFamily": "biblical",
+ "title": "Berean Standard Bible",
+ "abbreviation": "BSB",
+ "language": "en",
+ "translation": {
+  "id": "bsb",
+  "name": "Berean Standard Bible",
+  "abbreviation": "BSB",
+  "language": "en",
+  "translator": "Bible Hub / Berean Bible translation committee",
+  "edition": "Berean Standard Bible",
+  "date": "2016–2023",
+  "publisher": "Bible Hub"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Released into the public domain (CC0) in 2023 by Bible Hub.",
+ "canonicalStatus": {
+  "protestant": "canonical (66)"
+ },
+ "provenance": {
+  "upstream": "https://ebible.org/Scriptures/engbsb_usfm.zip",
+  "upstreamProject": "eBible.org (Haiola USFM export)",
+  "fetchedAt": "2026-09-17",
+  "sha256": "c065fa11decc416071985692b959dbd49506b188dc354e37805941f248b3da9e",
+  "license": "Berean Standard Bible\n^\nBerean Standard Bible\nBerean Standard Bible\nThe Holy Bible in English: Berean Standard Bible\nPublic Domain\nLanguage: English\nContributor: BSB Publishing, LLC\n2026-08-08\nHTML generated with Haiola by eBible.org 8 Aug 2026 from source files dated 8 Aug 2026\n^\nPublic Domain"
+ },
+ "origin": "primary",
+ "fullTextAvailable": true,
+ "books": 66,
+ "verses": 31086,
+ "citation": "The Holy Bible, Berean Standard Bible, BSB. Public domain (CC0).",
+ "features": {
+  "strongs": false,
+  "footnotes": true,
+  "poetry": true,
+  "supplied": true,
+  "redLetter": false
+ }
+}

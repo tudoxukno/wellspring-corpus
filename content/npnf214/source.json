@@ -1,0 +1,32 @@
+{
+ "id": "src:npnf214",
+ "type": "work",
+ "sourceType": "early-christian",
+ "sourceFamily": "early-christian",
+ "title": "Nicene and Post-Nicene Fathers, Series 2, Volume 14: The Seven Ecumenical Councils",
+ "abbreviation": "NPNF 2.14",
+ "author": "ed. Henry R. Percival, Philip Schaff and Henry Wace",
+ "shortTitle": "Nicene & Post-Nicene Fathers",
+ "coverLine": "Series 2, Vol. 14 · The Seven Ecumenical Councils",
+ "language": "en",
+ "translation": {
+  "id": "npnf214",
+  "name": "Nicene and Post-Nicene Fathers, Series 2, Volume 14: The Seven Ecumenical Councils",
+  "abbreviation": "NPNF 2.14",
+  "language": "en",
+  "translator": "ed. Henry R. Percival, Philip Schaff and Henry Wace",
+  "edition": "CCEL ThML edition",
+  "date": "325–787 (texts); 1900 (edition)"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Text public domain. Digital edition and markup by the Christian Classics Ethereal Library (ccel.org): credit CCEL; check CCEL’s terms before commercial redistribution of its edition.",
+ "rightsFlag": "credit-ccel",
+ "editorialMarkers": "Canons and decrees of Nicaea to Nicaea II with Percival’s notes; the African canons and Carthage appear in the excursus.",
+ "citation": "Schaff, P. and H. Wace, eds. Nicene and Post-Nicene Fathers, series 2, vol. 14 (1900). Public domain; CCEL edition.",
+ "provenance": {
+  "upstream": "https://ccel.org/ccel/schaff/npnf214.xml",
+  "sha256": "4ae3cb29edcb7b8e58bb9246049243c464b6839f88f6730f98b80122770b9bb4",
+  "ingestedAt": "2026-09-18T15:19:58.661Z"
+ },
+ "origin": "primary"
+}

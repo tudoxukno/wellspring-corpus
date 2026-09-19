@@ -1,0 +1,30 @@
+{
+ "id": "src:ebd",
+ "type": "dictionary",
+ "sourceType": "reference",
+ "sourceFamily": "reference",
+ "title": "Easton's Bible Dictionary",
+ "abbreviation": "Easton",
+ "author": "M. G. Easton",
+ "language": "en",
+ "translation": {
+  "id": "ebd",
+  "name": "Easton's Bible Dictionary",
+  "abbreviation": "Easton",
+  "language": "en",
+  "translator": "M. G. Easton",
+  "edition": "CCEL ThML edition",
+  "date": "1897 (3rd ed.)"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Text public domain. Digital edition and markup by the Christian Classics Ethereal Library (ccel.org): credit CCEL; check CCEL’s terms before commercial redistribution of its edition.",
+ "rightsFlag": "credit-ccel",
+ "editorialMarkers": "A Victorian dictionary: useful for names, places and customs; its historical judgments predate a century of scholarship.",
+ "citation": "Easton, M. G. Illustrated Bible Dictionary, 3rd ed. (1897). Public domain; CCEL edition.",
+ "provenance": {
+  "upstream": "https://ccel.org/ccel/easton/ebd2.xml",
+  "sha256": "10e3f432e38ee8197c30a613576dc363af3f29fa4aa90ebd0782533df906e5f1",
+  "ingestedAt": "2026-09-18T05:07:07.330Z"
+ },
+ "origin": "primary"
+}

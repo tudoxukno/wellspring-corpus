@@ -1,0 +1,32 @@
+{
+ "id": "src:npnf101",
+ "type": "work",
+ "sourceType": "early-christian",
+ "sourceFamily": "early-christian",
+ "title": "Nicene and Post-Nicene Fathers, Series 1, Volume 1: Augustine — Confessions and Letters",
+ "abbreviation": "NPNF 1.1",
+ "author": "Augustine of Hippo; ed. Philip Schaff",
+ "language": "en",
+ "translation": {
+  "id": "npnf101",
+  "name": "Nicene and Post-Nicene Fathers, Series 1, Volume 1: Augustine — Confessions and Letters",
+  "abbreviation": "NPNF 1.1",
+  "language": "en",
+  "translator": "Augustine of Hippo; ed. Philip Schaff",
+  "edition": "CCEL ThML edition",
+  "date": "c. 397–430 (texts); 1886 (edition)"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Text public domain. Digital edition and markup by the Christian Classics Ethereal Library (ccel.org): credit CCEL; check CCEL’s terms before commercial redistribution of its edition.",
+ "rightsFlag": "credit-ccel",
+ "editorialMarkers": "Augustine of Hippo (Annaba, Algeria), a Berber African; the Confessions in Pilkington’s translation.",
+ "citation": "Schaff, P., ed. Nicene and Post-Nicene Fathers, series 1, vol. 1 (1886). Public domain; CCEL edition.",
+ "provenance": {
+  "upstream": "https://ccel.org/ccel/schaff/npnf101.xml",
+  "sha256": "5a251ba0e3ef934821f3998ba1e3ab52ea40dae02ced15fbd36bb111fd81afc0",
+  "ingestedAt": "2026-09-18T05:13:23.558Z"
+ },
+ "origin": "primary",
+ "shortTitle": "Nicene & Post-Nicene Fathers",
+ "coverLine": "Series 1, Vol. 1 · Augustine: Confessions, Letters"
+}

@@ -1,0 +1,32 @@
+{
+ "id": "src:anf04",
+ "type": "work",
+ "sourceType": "early-christian",
+ "sourceFamily": "early-christian",
+ "title": "Ante-Nicene Fathers, Volume 4: Tertullian (Part Fourth), Minucius Felix, Commodian, Origen (Parts First and Second)",
+ "abbreviation": "ANF 4",
+ "author": "Tertullian, Minucius Felix, Commodian, Origen; ed. Roberts and Donaldson",
+ "shortTitle": "Ante-Nicene Fathers",
+ "coverLine": "Vol. 4 · Tertullian IV, Minucius Felix, Commodian, Origen",
+ "language": "en",
+ "translation": {
+  "id": "anf04",
+  "name": "Ante-Nicene Fathers, Volume 4: Tertullian (Part Fourth), Minucius Felix, Commodian, Origen (Parts First and Second)",
+  "abbreviation": "ANF 4",
+  "language": "en",
+  "translator": "Tertullian, Minucius Felix, Commodian, Origen; ed. Roberts and Donaldson",
+  "edition": "CCEL ThML edition",
+  "date": "2nd–3rd c. (texts); 1885 (edition)"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Text public domain. Digital edition and markup by the Christian Classics Ethereal Library (ccel.org): credit CCEL; check CCEL’s terms before commercial redistribution of its edition.",
+ "rightsFlag": "credit-ccel",
+ "editorialMarkers": "Origen of Alexandria — De Principiis and Against Celsus — with Tertullian of Carthage’s later treatises.",
+ "citation": "Roberts, A. and J. Donaldson, eds. The Ante-Nicene Fathers, vol. 4 (1885). Public domain; CCEL edition.",
+ "provenance": {
+  "upstream": "https://ccel.org/ccel/schaff/anf04.xml",
+  "sha256": "240b26390c16fb0a7683b6ce6076e86f0d387c4e43fa88f079d9600f385acaf0",
+  "ingestedAt": "2026-09-18T15:19:53.205Z"
+ },
+ "origin": "primary"
+}

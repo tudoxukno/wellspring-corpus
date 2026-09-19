@@ -1,0 +1,48 @@
+{
+ "id": "src:kebra",
+ "type": "work",
+ "sourceType": "ethiopian",
+ "sourceFamily": "ethiopian",
+ "title": "Kebra Nagast",
+ "abbreviation": "Kebra N.",
+ "language": "en",
+ "originalLanguage": "gez",
+ "translation": {
+  "id": "kebra",
+  "name": "Kebra Nagast — E. A. Wallis Budge (14th c. (compilation); 1922 (translation))",
+  "abbreviation": "Kebra N.",
+  "language": "en",
+  "translator": "E. A. Wallis Budge",
+  "edition": "The Queen of Sheba and Her Only Son Menyelek: A Complete Translation of the Kebra Nagast (London: Medici Society, 1922), from Bezold’s Ethiopic text",
+  "date": "14th c. (compilation); 1922 (translation)"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Budge (d. 1934); first edition 1922 — public domain in the US and the UK. (The 1932 OUP edition is not US public domain until 2028.)",
+ "canonicalStatus": {
+  "ethiopianTewahedo": "national epic and charter of the Solomonic dynasty; not Scripture",
+  "protestant": "not scripture"
+ },
+ "editorialMarkers": "Budge’s 1922 translation from Bezold’s edition; chapter numbering follows Budge (117 chapters). OCR from a scan: ornamental opening initials at chapter starts are sometimes missing in the OCR and are left as scanned rather than guessed. OCR could not separate 9 chapter headings (11, 35, 36, 81, 92, 101, 110, 111, 112); their text is present within the preceding chapter — check the scan for exact boundaries.",
+ "citation": "The Kebra Nagast, tr. E. A. Wallis Budge (Medici Society, 1922). Public domain; Internet Archive scan (item kebranagast).",
+ "provenance": {
+  "mergedChapters": [
+   11,
+   35,
+   36,
+   81,
+   92,
+   101,
+   110,
+   111,
+   112
+  ],
+  "upstream": "https://archive.org/details/kebranagast",
+  "ocr": "https://archive.org/download/kebranagast/Kebra%20Nagast_djvu.txt",
+  "sha256": "5b8909b04263d805bf62d1b08f764b3864fd007f1ea4d289d70748a05192ab7a",
+  "ingestedAt": "2026-09-18T12:00:46.892Z",
+  "method": "OCR text of the scan, conservatively cleaned (hyphenation, running headers, page numbers); no words supplied"
+ },
+ "origin": "primary",
+ "books": 1,
+ "verses": 345
+}

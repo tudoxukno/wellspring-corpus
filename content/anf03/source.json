@@ -1,0 +1,32 @@
+{
+ "id": "src:anf03",
+ "type": "work",
+ "sourceType": "early-christian",
+ "sourceFamily": "early-christian",
+ "title": "Ante-Nicene Fathers, Volume 3: Latin Christianity — Tertullian",
+ "abbreviation": "ANF 3",
+ "author": "Tertullian of Carthage; ed. Roberts and Donaldson",
+ "language": "en",
+ "translation": {
+  "id": "anf03",
+  "name": "Ante-Nicene Fathers, Volume 3: Latin Christianity — Tertullian",
+  "abbreviation": "ANF 3",
+  "language": "en",
+  "translator": "Tertullian of Carthage; ed. Roberts and Donaldson",
+  "edition": "CCEL ThML edition",
+  "date": "c. 197–220 (texts); 1885 (edition)"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Text public domain. Digital edition and markup by the Christian Classics Ethereal Library (ccel.org): credit CCEL; check CCEL’s terms before commercial redistribution of its edition.",
+ "rightsFlag": "credit-ccel",
+ "editorialMarkers": "Tertullian wrote in Carthage (Tunisia); the first Christian Latin literature is African.",
+ "citation": "Roberts, A. and J. Donaldson, eds. The Ante-Nicene Fathers, vol. 3 (1885). Public domain; CCEL edition.",
+ "provenance": {
+  "upstream": "https://ccel.org/ccel/schaff/anf03.xml",
+  "sha256": "a6eee75d691b7a3dfe045bb2998ad01c7f1b5c17d46ec58606678e7aeea82a35",
+  "ingestedAt": "2026-09-18T05:13:23.110Z"
+ },
+ "origin": "primary",
+ "shortTitle": "Ante-Nicene Fathers",
+ "coverLine": "Vol. 3 · Tertullian"
+}

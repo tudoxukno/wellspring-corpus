@@ -1,0 +1,34 @@
+{
+ "id": "src:brooks1877",
+ "type": "work",
+ "sourceType": "homiletics",
+ "sourceFamily": "homiletics",
+ "title": "Lectures on Preaching",
+ "shortTitle": "Lectures on Preaching",
+ "coverLine": "Phillips Brooks · Yale · 1877",
+ "abbreviation": "Brooks",
+ "author": "Phillips Brooks",
+ "language": "en",
+ "originalLanguage": "en",
+ "translation": {
+  "id": "brooks1877",
+  "name": "Lectures on Preaching — Phillips Brooks",
+  "abbreviation": "Brooks",
+  "date": "1877",
+  "language": "en"
+ },
+ "rights": "Public domain (published 1877; author d. 1893). Scan and OCR: Internet Archive.",
+ "origin": "https://archive.org/details/lecturesonpreach00brooiala",
+ "scans": [
+  "https://archive.org/details/lecturesonpreach00brooiala"
+ ],
+ "citation": "Brooks, Phillips. Lectures on Preaching, Delivered before the Divinity School of Yale College. New York: E. P. Dutton, 1877. Public domain; Internet Archive scan.",
+ "editorialMarkers": "“Preaching is the bringing of truth through personality” — eight Yale lectures on the preacher rather than the outline. Episcopalian, Boston, 1877; read for the calling, not the method.",
+ "method": "Internet Archive OCR text per volume; treatises open at a capitalised title block (“A TREATISE …”, “THE nth BOOK OF THE TREATISE …”); paragraphs by blank lines; page numbers, lone running heads and volume signatures dropped; hyphenation joined; the index and catalogue matter cut. OCR errors are not corrected.",
+ "counts": {
+  "volumes": 1,
+  "treatises": 9,
+  "units": 727
+ },
+ "ingestedAt": "2026-09-18"
+}

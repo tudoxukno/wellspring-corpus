@@ -1,0 +1,40 @@
+{
+ "id": "src:stern1862",
+ "type": "work",
+ "sourceType": "primary-account",
+ "sourceFamily": "primary-account",
+ "title": "Wanderings among the Falashas in Abyssinia",
+ "abbreviation": "Stern 1862",
+ "language": "en",
+ "originalLanguage": "en",
+ "translation": {
+  "id": "stern1862",
+  "name": "Wanderings among the Falashas in Abyssinia — Henry Aaron Stern (author) (1862)",
+  "abbreviation": "Stern 1862",
+  "language": "en",
+  "translator": "Henry Aaron Stern (author)",
+  "edition": "London: Wertheim, Macintosh and Hunt, 1862",
+  "date": "1862"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Published 1862; public domain worldwide.",
+ "canonicalStatus": {},
+ "editorialMarkers": "A missionary’s record (London Society for Promoting Christianity amongst the Jews) of the Beta Israel in 1860: villages, monasteries, festivals and disputations. The observer’s aim shapes the account; read as a primary source of its date. Chapter summaries are the author’s. OCR from a scan; page numbers and running headers removed. OCR could not separate 2 chapter headings (16, 19); their text is present within the preceding chapter — check the scan for exact boundaries.",
+ "citation": "Stern, H. A. Wanderings among the Falashas in Abyssinia (London, 1862). Public domain; Internet Archive scan.",
+ "provenance": {
+  "mergedChapters": [
+   16,
+   19
+  ],
+  "upstream": "https://archive.org/details/wanderingsamong00stergoog",
+  "ocr": "https://archive.org/download/wanderingsamong00stergoog/wanderingsamong00stergoog_djvu.txt",
+  "sha256": "e514f3172f40ae83b293032489f1fe260dea13352317aace3c35ba279d41dbea",
+  "ingestedAt": "2026-09-18T12:01:03.109Z",
+  "method": "OCR text of the scan, conservatively cleaned (hyphenation, running headers, page numbers); no words supplied"
+ },
+ "origin": "primary",
+ "books": 1,
+ "verses": 271,
+ "shortTitle": "Wanderings among the Falashas",
+ "coverLine": "Henry A. Stern · 1862"
+}

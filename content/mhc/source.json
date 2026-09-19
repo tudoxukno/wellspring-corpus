@@ -1,0 +1,39 @@
+{
+ "id": "src:mhc",
+ "type": "commentary",
+ "sourceType": "commentary",
+ "sourceFamily": "commentary",
+ "title": "Matthew Henry's Commentary on the Whole Bible",
+ "abbreviation": "MHC",
+ "author": "Matthew Henry",
+ "language": "en",
+ "translation": {
+  "id": "mhc",
+  "name": "Matthew Henry's Commentary on the Whole Bible",
+  "abbreviation": "MHC",
+  "language": "en",
+  "translator": "Matthew Henry",
+  "edition": "CCEL ThML edition, six volumes",
+  "date": "1706–1721"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Text public domain. Digital edition and markup by the Christian Classics Ethereal Library (ccel.org): credit CCEL; check CCEL’s terms before commercial redistribution of its edition.",
+ "rightsFlag": "credit-ccel",
+ "editorialMarkers": "The complete (unabridged) commentary; a Nonconformist English pastor’s devotional exposition. An early-modern Protestant interpretation, not the text’s meaning.",
+ "citation": "Henry, Matthew. Commentary on the Whole Bible (1706–1721). Public domain; CCEL edition (mhc1–mhc6).",
+ "provenance": {
+  "upstream": "https://ccel.org/ccel/henry/mhc1.xml … mhc6.xml",
+  "sha256": [
+   "6eb946647f806f46129001f83013d65c51e40ac59b939ac1c51404aa50375971",
+   "673fcb4168ad946ab1e6923c0e331cc61e4adca4498fc0ee34cf1507285aa2f7",
+   "8ba9779eba5d326acbfc9acaccf2ea1fa2d6b5c48b03ab86fc5e80b0bfa5b17e",
+   "7b6ea0800caa1daab6b0c807f5b95c7567fb5d880290bbe91d848048a80486b2",
+   "8b0853b116e9a68215a594bafe29f45502d4c766e1f128cbf5fb050f45cf2518",
+   "296195d09d4fbb1e7516ea77c100dbc87ce37542c3109f9f570c3cf155b594c1"
+  ],
+  "ingestedAt": "2026-09-18T12:10:06.672Z"
+ },
+ "origin": "primary",
+ "shortTitle": "Matthew Henry's Commentary",
+ "coverLine": "On the Whole Bible · 1706–1721"
+}

@@ -1,0 +1,31 @@
+{
+ "id": "src:faitlovitch1920",
+ "type": "work",
+ "sourceType": "primary-account",
+ "sourceFamily": "primary-account",
+ "title": "The Falashas",
+ "shortTitle": "The Falashas",
+ "coverLine": "Jacques Faïtlovitch · 1920",
+ "abbreviation": "Faïtlovitch 1920",
+ "author": "Jacques Faïtlovitch",
+ "language": "en",
+ "translation": {
+  "id": "faitlovitch1920",
+  "name": "The Falashas — Jacques Faïtlovitch",
+  "abbreviation": "Faïtlovitch 1920",
+  "date": "1920",
+  "language": "en"
+ },
+ "rights": "Public domain (published 1920 in the United States; author d. 1955, so also out of copyright in life-plus-70 countries from 2026). Scan and OCR: Internet Archive.",
+ "origin": "https://archive.org/details/falashas00fa",
+ "scan": "https://archive.org/details/falashas00fa",
+ "ocr": "https://archive.org/download/falashas00fa/falashas00fa_djvu.txt",
+ "citation": "Faïtlovitch, Jacques. The Falashas. Philadelphia: Jewish Publication Society of America, 1920. Reprinted from the American Jewish Year Book 5681.",
+ "editorialMarkers": "Faïtlovitch, who visited the Beta Israel from 1904 and founded schools for them, describes their villages, worship, priests and monks, festivals, purity laws and the missionary pressure of the period, and argues for Jewish solidarity with them. An advocate’s account; its claims about origins are his.",
+ "method": "Internet Archive OCR text between the article’s start and end markers; running heads and page numbers dropped; hyphenation joined; paragraphs broken by a page turn rejoined when the next block starts lowercase. OCR errors are not corrected.",
+ "counts": {
+  "units": 29,
+  "chars": 37709
+ },
+ "ingestedAt": "2026-09-18"
+}

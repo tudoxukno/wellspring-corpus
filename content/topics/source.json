@@ -1,0 +1,23 @@
+{
+ "id": "src:topics",
+ "type": "topics",
+ "sourceType": "reference",
+ "sourceFamily": "reference",
+ "title": "Topical index: Nave's Topical Bible and Torrey's New Topical Textbook",
+ "language": "en",
+ "rights": "public-domain",
+ "rightsNote": "Nave (1896) and Torrey (1897) are public domain. The structured JSONL build is from j86schroeder/topical-bible-search (pipeline MIT; errata tracked upstream).",
+ "provenance": {
+  "upstream": "https://github.com/j86schroeder/topical-bible-search",
+  "fetchedAt": "2026-09-17",
+  "sha256": {
+   "nave": "12f3ed2285fc77f20698e4164239b6e1309b029e64a81fdd847a5e51bda4ed9a",
+   "torrey": "8aff1816faf064eb24eaa88c9d9b1d3b4861a377a13429a147fec175a4bb985b"
+  }
+ },
+ "origin": "primary",
+ "topics": 5941,
+ "references": 116553,
+ "citation": "Nave, Orville J. Nave's Topical Bible (1896); Torrey, R. A. The New Topical Textbook (1897). Public domain.",
+ "limitations": "Nineteenth-century Protestant topical indexes: headings reflect their compilers' theology and vocabulary; coverage is KJV-centric; no African or extra-biblical sources. A starting point for finding passages, not an authority on what a topic means."
+}

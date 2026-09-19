@@ -1,0 +1,32 @@
+{
+ "id": "src:calgen2",
+ "type": "commentary",
+ "sourceType": "commentary",
+ "sourceFamily": "commentary",
+ "title": "Calvin's Commentary on Genesis, Volume 2 (Genesis 24–50)",
+ "abbreviation": "Calvin",
+ "author": "John Calvin; tr. John King",
+ "shortTitle": "Calvin on Genesis",
+ "coverLine": "Vol. 2 · Genesis 24–50 · 1554",
+ "language": "en",
+ "translation": {
+  "id": "calgen2",
+  "name": "Calvin's Commentary on Genesis, Volume 2 (Genesis 24–50)",
+  "abbreviation": "Calvin",
+  "language": "en",
+  "translator": "John Calvin; tr. John King",
+  "edition": "CCEL ThML edition",
+  "date": "1554 (Latin); 1850 (King’s translation)"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Text public domain. Digital edition and markup by the Christian Classics Ethereal Library (ccel.org): credit CCEL; check CCEL’s terms before commercial redistribution of its edition.",
+ "rightsFlag": "credit-ccel",
+ "editorialMarkers": "Reformation-era exegesis, verse by verse; the translator’s notes are King’s.",
+ "citation": "Calvin, John. Commentaries on the First Book of Moses called Genesis, vol. 2. Tr. John King. Edinburgh: Calvin Translation Society, 1850. Public domain; CCEL edition.",
+ "provenance": {
+  "upstream": "https://ccel.org/ccel/calvin/calcom02.xml",
+  "sha256": "fa675fccdbe4d1ad0e555069e0c00c46d732974cc1989b1ca3df87bb073f0663",
+  "ingestedAt": "2026-09-18T15:20:33.889Z"
+ },
+ "origin": "primary"
+}

@@ -1,0 +1,30 @@
+{
+ "id": "src:isbe",
+ "type": "dictionary",
+ "sourceType": "reference",
+ "sourceFamily": "reference",
+ "title": "International Standard Bible Encyclopedia",
+ "shortTitle": "International Standard Bible Encyclopedia",
+ "coverLine": "James Orr, ed. · 1915",
+ "abbreviation": "ISBE",
+ "author": "James Orr (general editor) and contributors",
+ "language": "en",
+ "translation": {
+  "id": "isbe",
+  "name": "International Standard Bible Encyclopedia",
+  "abbreviation": "ISBE",
+  "language": "en",
+  "edition": "CrossWire SWORD module (TEI)",
+  "date": "1915 (1st ed.)"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Text public domain (1915). Digital edition: CrossWire Bible Society SWORD module, distributed as public domain.",
+ "origin": "https://www.crosswire.org/ftpmirror/pub/sword/raw/modules/lexdict/zld/isbe/isbe",
+ "citation": "Orr, James, ed. The International Standard Bible Encyclopedia. Chicago: Howard-Severance, 1915. Public domain; CrossWire SWORD module ISBE 2.2 (TEI).",
+ "editorialMarkers": "The largest public-domain Bible encyclopedia: signed articles by early twentieth-century evangelical scholars. Names, places, customs and word studies are useful; historical and critical judgments are the contributors’ and dated, and its treatment of African peoples reflects its era.",
+ "method": "zLD module read directly (index → key → compressed block → TEI entry); TEI reduced to paragraphs; cross-references kept as headwords; scripture references collected from osisRef.",
+ "counts": {
+  "entries": 9349
+ },
+ "ingestedAt": "2026-09-18"
+}

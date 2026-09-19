@@ -1,0 +1,32 @@
+{
+ "id": "src:lexicon-strongs",
+ "type": "lexicon",
+ "sourceType": "linguistic-resource",
+ "sourceFamily": "reference",
+ "title": "Strong's Exhaustive Concordance dictionaries (Hebrew and Greek)",
+ "language": [
+  "he",
+  "arc",
+  "grc",
+  "en"
+ ],
+ "author": "James Strong (1894)",
+ "edition": "Open Scriptures JSON edition (David Instone-Brewer XML; Unicode transliterations by David Troidl)",
+ "rights": "CC-BY-SA-3.0",
+ "rightsNote": "Underlying 1894 dictionaries are public domain; the Open Scriptures JSON edition is CC BY-SA. Attribute Open Scriptures; share modifications of the data under the same license.",
+ "provenance": {
+  "upstream": "https://github.com/openscriptures/strongs",
+  "fetchedAt": "2026-09-17",
+  "sha256": {
+   "hebrew": "5ce6aeed551c709f49bcfa341cadf2f34bc7599b85d9de9e6ac2ecbf60fc3739",
+   "greek": "7624ee738ae47e80f1a352223e28a26d011c9cd4898822cee52f47a010c04efd"
+  }
+ },
+ "origin": "primary",
+ "entries": {
+  "hebrew": 8674,
+  "greek": 5523
+ },
+ "citation": "Strong, James. A Concise Dictionary of the Words in the Hebrew Bible / Greek Testament (1894). Open Scriptures JSON edition, CC BY-SA.",
+ "limitations": "Strong's glosses are 19th-century summaries keyed to KJV renderings; they are a starting point, not a modern lexicon. Aramaic entries are within the Hebrew numbering."
+}

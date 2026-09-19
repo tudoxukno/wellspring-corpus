@@ -1,0 +1,34 @@
+{
+ "id": "src:bookofdead",
+ "type": "work",
+ "sourceType": "comparative",
+ "sourceFamily": "comparative",
+ "title": "The Book of the Dead (Budge, 1920)",
+ "abbreviation": "BoD",
+ "language": "en",
+ "originalLanguage": "egy",
+ "author": "E. A. Wallis Budge",
+ "translation": {
+  "id": "bookofdead",
+  "name": "The Book of the Dead (Budge, 1920) — E. A. Wallis Budge (1920)",
+  "abbreviation": "BoD",
+  "language": "en",
+  "translator": "E. A. Wallis Budge",
+  "edition": "The Book of the Dead: an introduction with translated extracts (British Museum, 1920); Project Gutenberg #7145",
+  "date": "1920"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Budge (d. 1934); published 1920 — public domain. Project Gutenberg transcription.",
+ "canonicalStatus": {},
+ "editorialMarkers": "",
+ "citation": "Budge, E. A. W. The Book of the Dead (London: British Museum, 1920). Public domain.",
+ "provenance": {
+  "upstream": "https://www.gutenberg.org/ebooks/7145",
+  "sha256": "d2766279a7048f12fd9ebdb8f17b2665b72bd6150e04c96f8c53a240dcd0b41e",
+  "ingestedAt": "2026-09-18T12:08:03.989Z",
+  "notes": "An introduction to the Egyptian funerary texts with Budge’s translated extracts (Papyrus of Ani and others). Budge’s Egyptology is a century old; use for the texts, cite modern scholarship for interpretation."
+ },
+ "origin": "primary",
+ "books": 1,
+ "verses": 65
+}

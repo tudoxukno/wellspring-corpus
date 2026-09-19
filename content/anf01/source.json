@@ -1,0 +1,32 @@
+{
+ "id": "src:anf01",
+ "type": "work",
+ "sourceType": "early-christian",
+ "sourceFamily": "early-christian",
+ "title": "Ante-Nicene Fathers, Volume 1: The Apostolic Fathers with Justin Martyr and Irenaeus",
+ "abbreviation": "ANF 1",
+ "author": "Clement of Rome, Ignatius, Polycarp, Justin Martyr, Irenaeus and others; ed. Alexander Roberts and James Donaldson",
+ "language": "en",
+ "translation": {
+  "id": "anf01",
+  "name": "Ante-Nicene Fathers, Volume 1: The Apostolic Fathers with Justin Martyr and Irenaeus",
+  "abbreviation": "ANF 1",
+  "language": "en",
+  "translator": "Clement of Rome, Ignatius, Polycarp, Justin Martyr, Irenaeus and others; ed. Alexander Roberts and James Donaldson",
+  "edition": "CCEL ThML edition",
+  "date": "1st–2nd c. (texts); 1885 (edition)"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Text public domain. Digital edition and markup by the Christian Classics Ethereal Library (ccel.org): credit CCEL; check CCEL’s terms before commercial redistribution of its edition.",
+ "rightsFlag": "credit-ccel",
+ "editorialMarkers": "Nineteenth-century translations; the editors’ introductions and notes are theirs, printed beside the texts.",
+ "citation": "Roberts, A. and J. Donaldson, eds. The Ante-Nicene Fathers, vol. 1 (1885). Public domain; CCEL edition.",
+ "provenance": {
+  "upstream": "https://ccel.org/ccel/schaff/anf01.xml",
+  "sha256": "8012ea0e35b497d2fbd783f9d4fd7b3a27d98c6dc66fd427b50d7312e6dd45af",
+  "ingestedAt": "2026-09-18T05:13:22.307Z"
+ },
+ "origin": "primary",
+ "shortTitle": "Ante-Nicene Fathers",
+ "coverLine": "Vol. 1 · Apostolic Fathers, Justin Martyr, Irenaeus"
+}

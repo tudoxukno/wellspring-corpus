@@ -1,0 +1,32 @@
+{
+ "id": "src:jfb",
+ "type": "commentary",
+ "sourceType": "commentary",
+ "sourceFamily": "commentary",
+ "title": "Jamieson, Fausset and Brown, Commentary Critical and Explanatory on the Whole Bible",
+ "abbreviation": "JFB",
+ "author": "Robert Jamieson, A. R. Fausset, David Brown",
+ "language": "en",
+ "translation": {
+  "id": "jfb",
+  "name": "Jamieson, Fausset and Brown, Commentary Critical and Explanatory on the Whole Bible",
+  "abbreviation": "JFB",
+  "language": "en",
+  "translator": "Robert Jamieson, A. R. Fausset, David Brown",
+  "edition": "CCEL ThML edition",
+  "date": "1871"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Text public domain. Digital edition and markup by the Christian Classics Ethereal Library (ccel.org): credit CCEL; check CCEL’s terms before commercial redistribution of its edition.",
+ "rightsFlag": "credit-ccel",
+ "editorialMarkers": "A nineteenth-century Scottish and English evangelical commentary; its philology is dated and its judgments are its authors’.",
+ "citation": "Jamieson, R., A. R. Fausset and D. Brown. Commentary Critical and Explanatory on the Whole Bible (1871). Public domain; CCEL edition.",
+ "provenance": {
+  "upstream": "https://ccel.org/ccel/jamieson/jfb.xml",
+  "sha256": "ce16900c4795d9bd3dc7f7aaec3fccd395c166d4d9593a14b9aae06869aab9af",
+  "ingestedAt": "2026-09-18T05:12:00.600Z"
+ },
+ "origin": "primary",
+ "shortTitle": "Jamieson, Fausset & Brown",
+ "coverLine": "Commentary on the Whole Bible · 1871"
+}

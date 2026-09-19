@@ -1,0 +1,32 @@
+{
+ "id": "src:npnf204",
+ "type": "work",
+ "sourceType": "early-christian",
+ "sourceFamily": "early-christian",
+ "title": "Nicene and Post-Nicene Fathers, Series 2, Volume 4: Athanasius — Select Works and Letters",
+ "abbreviation": "NPNF 2.4",
+ "author": "Athanasius of Alexandria; ed. Philip Schaff and Henry Wace",
+ "shortTitle": "Nicene & Post-Nicene Fathers",
+ "coverLine": "Series 2, Vol. 4 · Athanasius",
+ "language": "en",
+ "translation": {
+  "id": "npnf204",
+  "name": "Nicene and Post-Nicene Fathers, Series 2, Volume 4: Athanasius — Select Works and Letters",
+  "abbreviation": "NPNF 2.4",
+  "language": "en",
+  "translator": "Athanasius of Alexandria; ed. Philip Schaff and Henry Wace",
+  "edition": "CCEL ThML edition",
+  "date": "c. 318–373 (texts); 1892 (edition)"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Text public domain. Digital edition and markup by the Christian Classics Ethereal Library (ccel.org): credit CCEL; check CCEL’s terms before commercial redistribution of its edition.",
+ "rightsFlag": "credit-ccel",
+ "editorialMarkers": "Athanasius of Alexandria: On the Incarnation, the Life of Antony (the Egyptian desert), the Festal Letters that fixed the canon (367).",
+ "citation": "Schaff, P. and H. Wace, eds. Nicene and Post-Nicene Fathers, series 2, vol. 4 (1892). Public domain; CCEL edition.",
+ "provenance": {
+  "upstream": "https://ccel.org/ccel/schaff/npnf204.xml",
+  "sha256": "bd625a0fa4f5ddd4b2fa13fcee753de8832ea4b316625e0e06454beb81cfa652",
+  "ingestedAt": "2026-09-18T15:19:57.513Z"
+ },
+ "origin": "primary"
+}

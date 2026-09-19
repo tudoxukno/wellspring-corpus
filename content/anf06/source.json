@@ -1,0 +1,32 @@
+{
+ "id": "src:anf06",
+ "type": "work",
+ "sourceType": "early-christian",
+ "sourceFamily": "early-christian",
+ "title": "Ante-Nicene Fathers, Volume 6: Gregory Thaumaturgus, Dionysius the Great, Julius Africanus, Anatolius and Minor Writers, Methodius, Arnobius",
+ "abbreviation": "ANF 6",
+ "author": "Gregory Thaumaturgus, Dionysius of Alexandria, Julius Africanus, Methodius, Arnobius; ed. Roberts and Donaldson",
+ "shortTitle": "Ante-Nicene Fathers",
+ "coverLine": "Vol. 6 · Gregory Thaumaturgus, Dionysius, Julius Africanus, Methodius, Arnobius",
+ "language": "en",
+ "translation": {
+  "id": "anf06",
+  "name": "Ante-Nicene Fathers, Volume 6: Gregory Thaumaturgus, Dionysius the Great, Julius Africanus, Anatolius and Minor Writers, Methodius, Arnobius",
+  "abbreviation": "ANF 6",
+  "language": "en",
+  "translator": "Gregory Thaumaturgus, Dionysius of Alexandria, Julius Africanus, Methodius, Arnobius; ed. Roberts and Donaldson",
+  "edition": "CCEL ThML edition",
+  "date": "3rd–4th c. (texts); 1886 (edition)"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Text public domain. Digital edition and markup by the Christian Classics Ethereal Library (ccel.org): credit CCEL; check CCEL’s terms before commercial redistribution of its edition.",
+ "rightsFlag": "credit-ccel",
+ "editorialMarkers": "Dionysius of Alexandria, Julius Africanus’s chronography and Arnobius of Sicca (Numidia) among them.",
+ "citation": "Roberts, A. and J. Donaldson, eds. The Ante-Nicene Fathers, vol. 6 (1886). Public domain; CCEL edition.",
+ "provenance": {
+  "upstream": "https://ccel.org/ccel/schaff/anf06.xml",
+  "sha256": "620c7626c3ba4120d55bfaf569da947b3d10b440dc72b2239be3cf1985a13a07",
+  "ingestedAt": "2026-09-18T15:19:54.651Z"
+ },
+ "origin": "primary"
+}

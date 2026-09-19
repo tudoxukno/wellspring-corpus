@@ -1,0 +1,23 @@
+{
+ "id": "src:crossrefs-openbible",
+ "type": "crossrefs",
+ "sourceType": "reference",
+ "sourceFamily": "reference",
+ "title": "OpenBible.info cross-references",
+ "language": "en",
+ "rights": "CC-BY-4.0",
+ "rightsNote": "Cross-reference data from openbible.info, CC BY 4.0. Attribute \"openbible.info\". Votes reflect community weighting, not editorial endorsement.",
+ "provenance": {
+  "upstream": "https://a.openbible.info/data/cross-references.zip",
+  "upstreamProject": "openbible.info",
+  "datasetDate": "2026-09-14",
+  "fetchedAt": "2026-09-17",
+  "sha256": "30379be544785f4c2cdf8eba0d83d10dedc04a6903b5dcd0d91d670e90619d6d"
+ },
+ "origin": "primary",
+ "links": 344799,
+ "skipped": 0,
+ "books": 66,
+ "citation": "Cross References, openbible.info (CC BY 4.0).",
+ "limitations": "Links are verse-level associations gathered from public-domain reference works and community submissions; they indicate that readers connected two passages, not that a textual or historical relationship is established."
+}

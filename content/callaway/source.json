@@ -1,0 +1,36 @@
+{
+ "id": "src:callaway",
+ "type": "work",
+ "sourceType": "oral",
+ "sourceFamily": "oral",
+ "title": "The Religious System of the Amazulu",
+ "shortTitle": "The Religious System of the Amazulu",
+ "coverLine": "Henry Callaway · 1868–70 · Zulu with English",
+ "abbreviation": "Callaway",
+ "language": "en",
+ "originalLanguage": "zu",
+ "author": "Henry Callaway (collector); narrators named in the text",
+ "translation": {
+  "id": "callaway",
+  "name": "The Religious System of the Amazulu — Henry Callaway",
+  "abbreviation": "Callaway",
+  "date": "1868–70",
+  "language": "en"
+ },
+ "rights": "Public domain (published 1868–70; collector d. 1890). Scan and OCR: Internet Archive / University of Toronto.",
+ "origin": "https://archive.org/details/relamazulu00calluoft",
+ "scan": "https://archive.org/details/relamazulu00calluoft",
+ "ocr": "https://archive.org/download/relamazulu00calluoft/relamazulu00calluoft_djvu.xml",
+ "citation": "Callaway, Henry. The Religious System of the Amazulu. Springvale, Natal: John A. Blair; London: Trübner, 1868–70. Reprinted for the Folk-Lore Society, 1884.",
+ "editorialMarkers": "A missionary’s collection of accounts dictated by named Zulu narrators, printed with Callaway’s English facing the Zulu. The Zulu is the primary text; the English is Callaway’s translation and carries his footnotes. Narrators’ names follow their accounts as printed.",
+ "method": "Layout-aware OCR (DjVu XML word coordinates): running heads set the parts; lines split into left column, right column and full width by position; paragraphs by indent and vertical gap; Zulu paragraphs paired with the facing English by vertical position; narrators’ centred names attach to the preceding accounts; numbered full-width lines at the foot are footnotes attached to the verse carrying the number; paragraphs continue across pages when the previous does not end in terminal punctuation. OCR errors are not corrected.",
+ "counts": {
+  "parts": 9,
+  "units": 1733,
+  "bilingual": 1324,
+  "withNarrator": 1118,
+  "footnotes": 417,
+  "pagesMergedAcross": 286
+ },
+ "ingestedAt": "2026-09-18"
+}

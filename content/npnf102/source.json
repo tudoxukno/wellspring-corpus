@@ -1,0 +1,32 @@
+{
+ "id": "src:npnf102",
+ "type": "work",
+ "sourceType": "early-christian",
+ "sourceFamily": "early-christian",
+ "title": "Nicene and Post-Nicene Fathers, Series 1, Volume 2: Augustine — The City of God and On Christian Doctrine",
+ "abbreviation": "NPNF 1.2",
+ "author": "Augustine of Hippo; ed. Philip Schaff",
+ "language": "en",
+ "translation": {
+  "id": "npnf102",
+  "name": "Nicene and Post-Nicene Fathers, Series 1, Volume 2: Augustine — The City of God and On Christian Doctrine",
+  "abbreviation": "NPNF 1.2",
+  "language": "en",
+  "translator": "Augustine of Hippo; ed. Philip Schaff",
+  "edition": "CCEL ThML edition",
+  "date": "413–426 (texts); 1887 (edition)"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Text public domain. Digital edition and markup by the Christian Classics Ethereal Library (ccel.org): credit CCEL; check CCEL’s terms before commercial redistribution of its edition.",
+ "rightsFlag": "credit-ccel",
+ "editorialMarkers": "The City of God (Dods’s translation) and On Christian Doctrine — Augustine of Hippo, an African bishop, on history, empire and the reading of Scripture.",
+ "citation": "Schaff, P., ed. Nicene and Post-Nicene Fathers, series 1, vol. 2 (1887). Public domain; CCEL edition.",
+ "provenance": {
+  "upstream": "https://ccel.org/ccel/schaff/npnf102.xml",
+  "sha256": "b8ca21dfa7d553681651f85197064b0fe52ae6c17e5e17252df9301536a4ae2a",
+  "ingestedAt": "2026-09-18T12:09:34.393Z"
+ },
+ "origin": "primary",
+ "shortTitle": "Nicene & Post-Nicene Fathers",
+ "coverLine": "Series 1, Vol. 2 · Augustine: City of God"
+}

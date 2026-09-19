@@ -1,0 +1,32 @@
+{
+ "id": "src:bohnt",
+ "type": "scripture",
+ "sourceType": "scripture",
+ "sourceFamily": "ancient-version",
+ "title": "Bohairic Coptic New Testament",
+ "abbreviation": "Boh NT",
+ "language": "cop",
+ "languageName": "Coptic",
+ "script": "Coptic",
+ "direction": "ltr",
+ "witness": "Bohairic Coptic",
+ "translation": {
+  "id": "bohnt",
+  "name": "Bohairic Coptic New Testament",
+  "abbreviation": "Boh NT",
+  "language": "cop",
+  "date": "4th–9th c. (texts); 2024 (corpus)"
+ },
+ "rights": "CC BY 4.0 (Coptic SCRIPTORIUM; source text Marcion / Hany Takla).",
+ "rightsFlag": "cc-by",
+ "origin": "https://github.com/CopticScriptorium/corpora/tree/master/bohairic.nt",
+ "citation": "Bohairic New Testament. Coptic SCRIPTORIUM, version 6.0 (2024), from the Marcion edition (Hany Takla). CC BY 4.0.",
+ "editorialMarkers": "The Bohairic dialect, the liturgical language of the Coptic Orthodox Church to this day. Tagging is the corpus’s; loanwords marked Greek or Hebrew are recorded as spans.",
+ "method": "Verse text is the corpus’s bound groups (orig_group / <phr>) joined with spaces; loanwords the corpus marks as Greek, Hebrew or Latin are kept as spans (sp.loan) for Word study; no normalisation of spelling.",
+ "counts": {
+  "books": 27,
+  "verses": 7957,
+  "loanwordSpans": 17195
+ },
+ "ingestedAt": "2026-09-18"
+}

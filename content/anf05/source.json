@@ -1,0 +1,32 @@
+{
+ "id": "src:anf05",
+ "type": "work",
+ "sourceType": "early-christian",
+ "sourceFamily": "early-christian",
+ "title": "Ante-Nicene Fathers, Volume 5: Hippolytus, Cyprian, Caius, Novatian, Appendix",
+ "abbreviation": "ANF 5",
+ "author": "Hippolytus, Cyprian of Carthage, Novatian and others; ed. Roberts and Donaldson",
+ "shortTitle": "Ante-Nicene Fathers",
+ "coverLine": "Vol. 5 · Hippolytus, Cyprian, Novatian",
+ "language": "en",
+ "translation": {
+  "id": "anf05",
+  "name": "Ante-Nicene Fathers, Volume 5: Hippolytus, Cyprian, Caius, Novatian, Appendix",
+  "abbreviation": "ANF 5",
+  "language": "en",
+  "translator": "Hippolytus, Cyprian of Carthage, Novatian and others; ed. Roberts and Donaldson",
+  "edition": "CCEL ThML edition",
+  "date": "3rd c. (texts); 1886 (edition)"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Text public domain. Digital edition and markup by the Christian Classics Ethereal Library (ccel.org): credit CCEL; check CCEL’s terms before commercial redistribution of its edition.",
+ "rightsFlag": "credit-ccel",
+ "editorialMarkers": "Cyprian, bishop of Carthage (d. 258): treatises and the letters of the African church under persecution.",
+ "citation": "Roberts, A. and J. Donaldson, eds. The Ante-Nicene Fathers, vol. 5 (1886). Public domain; CCEL edition.",
+ "provenance": {
+  "upstream": "https://ccel.org/ccel/schaff/anf05.xml",
+  "sha256": "a0623805b4c825198bf4542a4976c58f755808a531fb72b7cb481633ebb59744",
+  "ingestedAt": "2026-09-18T15:19:53.854Z"
+ },
+ "origin": "primary"
+}

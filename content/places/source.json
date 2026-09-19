@@ -1,0 +1,21 @@
+{
+ "id": "src:places",
+ "type": "places",
+ "sourceType": "reference",
+ "sourceFamily": "reference",
+ "title": "Bible places (OpenBible.info geocoding data)",
+ "abbreviation": "Places",
+ "language": "en",
+ "rights": "CC BY 4.0 (OpenBible.info Bible Geocoding Data, Stephen Smith); coordinates and geometries derive from OpenStreetMap (ODbL) and Wikidata among seventy modern sources listed in the dataset’s source.jsonl.",
+ "origin": "https://github.com/openbibleinfo/Bible-Geocoding-Data",
+ "citation": "Smith, Stephen. Bible Geocoding Data. OpenBible.info, 2023–. CC BY 4.0.",
+ "editorialMarkers": "Identifications of ancient places with modern locations are the dataset’s, scored by confidence; many are approximate or disputed and the precision is recorded on each. A location is evidence of where a name has been placed on a map, never of a people’s identity.",
+ "method": "ancient.jsonl → one place per record (name, translation names, verse list, first identification); modern.jsonl → the highest-scoring associated location with coordinates, type and precision; a reverse index verses/<osis>.json (chapter → verse → place ids). Geometry files (regions, rivers) are not copied.",
+ "counts": {
+  "places": 1342,
+  "located": 1335,
+  "verseRefs": 8742,
+  "sources": 442
+ },
+ "ingestedAt": "2026-09-18"
+}

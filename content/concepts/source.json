@@ -1,0 +1,21 @@
+{
+ "id": "src:concepts",
+ "type": "concepts",
+ "sourceType": "derived",
+ "sourceFamily": "reference",
+ "title": "Concept ontology (computed)",
+ "abbreviation": "Concepts",
+ "language": "en",
+ "rights": "Derived: Nave’s Topical Bible and Torrey’s New Topical Textbook (public domain), Easton’s Bible Dictionary (public domain), Strong’s dictionaries (Open Scriptures, CC BY-SA), KJV Strong’s tags (public domain). Edges are computed from those sources and from the installed works; no editorial interpretation is added.",
+ "origin": "scripts/ingest/concepts.mjs",
+ "method": "Nodes: topic headings merged on slug, Easton entries attached by slug or alias. Lexical profile: Strong’s numbers over a node’s verses weighted by inverse verse frequency, stop-list of the most common lemmas. Edges: Nave see-also; co-occurrence (≥3 shared verses and Jaccard ≥0.02 or ≥12 shared); shared leading lemma; installed works by unigram/bigram of the head name (generic words and names under four letters skipped).",
+ "counts": {
+  "nodes": 6782,
+  "withVerses": 5045,
+  "withDefinition": 4055,
+  "withLemmas": 3082,
+  "withWorks": 4096
+ },
+ "rightsFlag": "cc-by-sa",
+ "rightsNote": "Lexical profiles derive from the Open Scriptures Strong’s data (CC BY-SA 3.0); this package is therefore CC BY-SA. Attribute Open Scriptures, Nave, Torrey, Easton."
+}

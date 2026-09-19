@@ -1,0 +1,36 @@
+{
+ "id": "src:theal1882",
+ "type": "work",
+ "sourceType": "oral",
+ "sourceFamily": "oral",
+ "title": "Xhosa Tales (Theal, 1882)",
+ "originalTitle": "Kaffir Folk-lore: A Selection from the Traditional Tales Current among the People Living on the Eastern Border of the Cape Colony",
+ "abbreviation": "Theal 1882",
+ "language": "en",
+ "originalLanguage": "xh",
+ "translation": {
+  "id": "theal1882",
+  "name": "Xhosa Tales (Theal, 1882) — George McCall Theal (collector and translator) (1882)",
+  "abbreviation": "Theal 1882",
+  "language": "en",
+  "translator": "George McCall Theal (collector and translator)",
+  "edition": "Kaffir Folk-lore (London: W. Swan Sonnenschein, 1882)",
+  "date": "1882"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Published 1882; public domain worldwide.",
+ "canonicalStatus": {},
+ "editorialMarkers": "Xhosa oral narratives collected from named and unnamed narrators on the Cape eastern frontier and translated into English by a colonial historian; the Xhosa originals are not printed, and Theal’s framing is his own. The book’s original title uses a term that is now a slur in South Africa; Wellspring displays the work as “Xhosa Tales (Theal, 1882)” and records the original title in the edition and citation fields. OCR from a scan; opening ornamental initials may be missing. Each story is a chapter; multi-part stories keep their parts together.",
+ "citation": "Theal, G. M. Kaffir Folk-lore: A Selection from the Traditional Tales Current among the People Living on the Eastern Border of the Cape Colony (London, 1882). Public domain; Internet Archive scan (Cornell).",
+ "provenance": {
+  "mergedChapters": [],
+  "upstream": "https://archive.org/details/cu31924029905019",
+  "ocr": "https://archive.org/download/cu31924029905019/cu31924029905019_djvu.txt",
+  "sha256": "bfd0ed1e94729b2d35d2e97c5be28eee8a03e33baa24b513f9f96dda82b9c5f4",
+  "ingestedAt": "2026-09-18T12:11:11.219Z",
+  "method": "OCR text of the scan, conservatively cleaned (hyphenation, running headers, page numbers); no words supplied"
+ },
+ "origin": "primary",
+ "books": 1,
+ "verses": 669
+}

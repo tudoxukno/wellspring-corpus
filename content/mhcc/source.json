@@ -1,0 +1,32 @@
+{
+ "id": "src:mhcc",
+ "type": "commentary",
+ "sourceType": "commentary",
+ "sourceFamily": "commentary",
+ "title": "Matthew Henry's Concise Commentary",
+ "abbreviation": "MHCC",
+ "author": "Matthew Henry",
+ "language": "en",
+ "translation": {
+  "id": "mhcc",
+  "name": "Matthew Henry's Concise Commentary",
+  "abbreviation": "MHCC",
+  "language": "en",
+  "translator": "Matthew Henry",
+  "edition": "CCEL ThML edition",
+  "date": "1706–1721 (concise edition, 19th c.)"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Text public domain. Digital edition and markup by the Christian Classics Ethereal Library (ccel.org): credit CCEL; check CCEL’s terms before commercial redistribution of its edition.",
+ "rightsFlag": "credit-ccel",
+ "editorialMarkers": "A Nonconformist English pastor’s devotional commentary, abridged. Read as an early-modern Protestant interpretation, not as the text’s meaning.",
+ "citation": "Henry, Matthew. Concise Commentary on the Whole Bible. Public domain; CCEL edition.",
+ "provenance": {
+  "upstream": "https://ccel.org/ccel/henry/mhcc.xml",
+  "sha256": "4a5509ba5064b54572397ae1a796561ff6ce4a1e18f366af0141a09c5d06fcd6",
+  "ingestedAt": "2026-09-18T05:07:06.854Z"
+ },
+ "origin": "primary",
+ "shortTitle": "Matthew Henry's Concise",
+ "coverLine": "Concise Commentary · 19th c."
+}

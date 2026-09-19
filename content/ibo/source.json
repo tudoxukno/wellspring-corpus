@@ -1,0 +1,46 @@
+{
+ "id": "src:ibo",
+ "type": "scripture",
+ "sourceType": "scripture",
+ "sourceFamily": "biblical",
+ "title": "Igbo Bible (Biblica)",
+ "abbreviation": "IBO",
+ "language": "ig",
+ "languageName": "Igbo",
+ "script": "Latn",
+ "direction": "ltr",
+ "translation": {
+  "id": "ibo",
+  "name": "Igbo Bible (Biblica)",
+  "abbreviation": "IBO",
+  "language": "ig",
+  "translator": "Biblica",
+  "edition": "Baibul Nsọ (Igbo)",
+  "date": "2020",
+  "publisher": "Biblica, Inc."
+ },
+ "rights": "CC-BY-SA-4.0",
+ "rightsNote": "CC-BY-SA-4.0 per the eBible.org package copyright page; attribute Biblica, Inc..",
+ "canonicalStatus": {
+  "protestant": "canonical (66)"
+ },
+ "provenance": {
+  "upstream": "https://ebible.org/Scriptures/ibo_usfm.zip",
+  "upstreamProject": "eBible.org (Haiola USFM export)",
+  "fetchedAt": "2026-09-17",
+  "sha256": "b0003050a190f9a7af9f6bc64fcfac115258df1b58a129233469414d61d326d2",
+  "license": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ\n^\nBiblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ\nBiblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ\nThe Holy Bible in the Igbo language of Nigeria: Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ\ncopyright © 2020 Biblica, Inc.\nLanguage: Igbo\nContributor: Biblica, Inc.\nThis work is made available under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA). To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0 or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\nBiblica® is a trademark registered by Biblica, Inc., and use of the Biblica® trademark requires the written permission of Biblica, Inc. Under the terms of the CC BY-SA license, you may copy and redistribute this unmodified work as long as you keep the Biblica® trademark intact. If you modify a copy or translate this work, thereby creating a derivative work, you must remove the Biblica® trademark. On the derivative work, you must indicate what changes you have made and attribute the work as follows: “The original work by Biblica, Inc. is available for free at www.biblica.com and open.bible.”\nNotice of copyright must appear on the title or copyright page of the work as follows:\n‎\nBiblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ‭ ‬‬\nNdị Biblica, Inc. degharịrị ya nʼafọ © 1980, 1988, 2019, 2020\nBiblica® Open Igbo Contemporary Bible™\nCopyright © 1980, 1988, 2019, 2020 by Biblica, Inc.\n“Biblica” bụ akara e ji mara ụlọ ọrụ a, nke edebanyere dịka iwu si kwado nʼụlọ ọrụ dị nʼobodo United States, ebe a na-enye akara a na ikike maka azụm ahịa ndị Biblica, Inc. Ọ bụ ha ka e nyere ikike idenye ya.\n“Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.‎\n‎ You must also make your derivative work available under the same license (CC BY-SA).\nIf you would like to notify Biblica, Inc. regarding your translation of this work, please contact us at https://open.bible/contact-us.\nThis translation is made available to you under the terms of the\nCreative Commons Attribution Share-Alike license 4.0.\nYou have permission to share and redistribute this Bible translation in any format and to make reasonable revisions and adaptations of this translation, provided that:\nYou include the above copyright and source information.\nIf you make any changes to the text, you must indicate that you did so in a way that makes it clear that the original licensor is not necessarily endorsing your changes.\nIf you redistribute this text, you must distribute your contributions under the same license as the original.\nPictures included with Scriptures and other documents on this site are licensed just for use with those Scriptures and documents.\nFor other uses, please contact the respective copyright owners.\nNote that in addition to the rules above, revising and adapting God's Word involves a great responsibility to be true to God's Word. See Revelation 22:18-19.\n2023-04-12\nHTML generated with Haiola by eBible.org 8 Aug 2026 from source files dated 13 Apr 2023\n^\n© 2020 Biblica"
+ },
+ "origin": "primary",
+ "fullTextAvailable": true,
+ "books": 66,
+ "verses": 31104,
+ "citation": "Baibul Nsọ. © Biblica, Inc. CC BY-SA 4.0.",
+ "features": {
+  "strongs": false,
+  "footnotes": true,
+  "poetry": true,
+  "supplied": true,
+  "redLetter": false
+ }
+}

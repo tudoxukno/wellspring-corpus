@@ -1,0 +1,32 @@
+{
+ "id": "src:calgen1",
+ "type": "commentary",
+ "sourceType": "commentary",
+ "sourceFamily": "commentary",
+ "title": "Calvin's Commentary on Genesis, Volume 1 (Genesis 1–23)",
+ "abbreviation": "Calvin",
+ "author": "John Calvin; tr. John King",
+ "shortTitle": "Calvin on Genesis",
+ "coverLine": "Vol. 1 · Genesis 1–23 · 1554",
+ "language": "en",
+ "translation": {
+  "id": "calgen1",
+  "name": "Calvin's Commentary on Genesis, Volume 1 (Genesis 1–23)",
+  "abbreviation": "Calvin",
+  "language": "en",
+  "translator": "John Calvin; tr. John King",
+  "edition": "CCEL ThML edition",
+  "date": "1554 (Latin); 1847 (King’s translation)"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Text public domain. Digital edition and markup by the Christian Classics Ethereal Library (ccel.org): credit CCEL; check CCEL’s terms before commercial redistribution of its edition.",
+ "rightsFlag": "credit-ccel",
+ "editorialMarkers": "Reformation-era exegesis, verse by verse; the translator’s notes are King’s. A named Western framework, printed beside the text and never above it.",
+ "citation": "Calvin, John. Commentaries on the First Book of Moses called Genesis, vol. 1. Tr. John King. Edinburgh: Calvin Translation Society, 1847. Public domain; CCEL edition.",
+ "provenance": {
+  "upstream": "https://ccel.org/ccel/calvin/calcom01.xml",
+  "sha256": "4b700a5aa4f799f9363cc232cde85409a4f2ff58ebba6c82d9c4830ba83c7b33",
+  "ingestedAt": "2026-09-18T15:20:33.175Z"
+ },
+ "origin": "primary"
+}

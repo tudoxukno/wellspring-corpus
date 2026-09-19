@@ -1,0 +1,32 @@
+{
+ "id": "src:sahot",
+ "type": "scripture",
+ "sourceType": "scripture",
+ "sourceFamily": "ancient-version",
+ "title": "Sahidic Old Testament (CoptOT)",
+ "abbreviation": "Sah OT",
+ "language": "cop",
+ "languageName": "Coptic",
+ "script": "Coptic",
+ "direction": "ltr",
+ "witness": "Sahidic Coptic",
+ "translation": {
+  "id": "sahot",
+  "name": "Sahidic Old Testament (CoptOT)",
+  "abbreviation": "Sah OT",
+  "language": "cop",
+  "date": "3rd–5th c. (texts); 2025 (corpus)"
+ },
+ "rights": "CC BY-SA 4.0 (Coptic SCRIPTORIUM / CoptOT, KELLIA; text from CrossWire’s CoptOT). Share alike.",
+ "rightsFlag": "cc-by-sa",
+ "origin": "https://github.com/CopticScriptorium/corpora/tree/master/sahidic.ot",
+ "citation": "CoptOT: The Sahidic Old Testament. Coptic SCRIPTORIUM, KELLIA, version 6.1 (2025). CC BY-SA 4.0.",
+ "editorialMarkers": "The Coptic Old Testament follows the Septuagint (Greek) order and wording; chapter and verse numbers are the corpus’s and may not match the Hebrew. Segmentation and tagging are automatic; Greek loanwords are marked by the corpus.",
+ "method": "Verse text is the corpus’s bound groups (orig_group / <phr>) joined with spaces; loanwords the corpus marks as Greek, Hebrew or Latin are kept as spans (sp.loan) for Word study; no normalisation of spelling.",
+ "counts": {
+  "books": 46,
+  "verses": 20051,
+  "loanwordSpans": 38601
+ },
+ "ingestedAt": "2026-09-18"
+}

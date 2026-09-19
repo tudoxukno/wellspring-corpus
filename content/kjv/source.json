@@ -1,0 +1,45 @@
+{
+ "id": "src:kjv",
+ "type": "scripture",
+ "sourceType": "scripture",
+ "sourceFamily": "biblical",
+ "title": "King James Version",
+ "abbreviation": "KJV",
+ "language": "en",
+ "translation": {
+  "id": "kjv",
+  "name": "King James Version",
+  "abbreviation": "KJV",
+  "language": "en",
+  "translator": "Church of England translators (1611)",
+  "edition": "1769 standardized text (Blayney), with Apocrypha",
+  "date": "1611/1769",
+  "publisher": "Public domain; eBible.org/Crosswire text"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Public domain worldwide except that printing or importing printed copies in the United Kingdom requires permission under the Crown letters patent (Cambridge University Press).",
+ "canonicalStatus": {
+  "protestant": "canonical (66); Apocrypha printed between the Testaments in 1611, non-canonical",
+  "catholic": "see per-book status",
+  "ethiopianTewahedo": "see per-book status"
+ },
+ "provenance": {
+  "upstream": "https://ebible.org/Scriptures/eng-kjv_usfm.zip",
+  "upstreamProject": "eBible.org (Haiola USFM export)",
+  "fetchedAt": "2026-09-17",
+  "sha256": "1165788907a8bbe93c3299d89eb5134d942038e5dca2c0832beb13e8f72441d0",
+  "license": "King James Version + Apocrypha\n^\nKing James Version + Apocrypha\nKing James Version + Apocrypha\nThe King James Version or Authorized Version of the Holy Bible, using the standardized text of 1769, with Apocrypha/Deuterocanon\nPublic Domain\nLanguage: English\nDialect: archaic British\nLetters patent issued by King James with no expiration date means that to print this translation in the United Kingdom or import printed copies into the UK, you need permission. Currently, the Cambridge University Press, the Oxford University Press, and Collins have the exclusive right to print this Bible translation in the UK. This royal decree has no effect outside of the UK, where this work is firmly in the Public Domain. Please see http://www.cambridge.org/about-us/who-we-are/queens-printers-patent and https://en.wikipedia.org/wiki/King_James_Version#Copyright_status for more information.\nThis free text of the King James Version of the Holy Bible is brought to you courtesy of the Crosswire Bible Society and eBible.org.\n2026-08-19\nHTML generated with Haiola by eBible.org 19 Aug 2026 from source files dated 19 Aug 2026\n^\nYou may copy the King James Version of the Holy Bible freely. If you find a typo that is not just an archaic spelling, please report it.\nPublic Domain"
+ },
+ "origin": "primary",
+ "fullTextAvailable": true,
+ "books": 80,
+ "verses": 36824,
+ "citation": "The Holy Bible, King James Version (1769 standard text). Public domain.",
+ "features": {
+  "strongs": true,
+  "footnotes": true,
+  "poetry": true,
+  "supplied": true,
+  "redLetter": true
+ }
+}

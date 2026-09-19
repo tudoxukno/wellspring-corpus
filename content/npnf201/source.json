@@ -1,0 +1,32 @@
+{
+ "id": "src:npnf201",
+ "type": "work",
+ "sourceType": "early-christian",
+ "sourceFamily": "early-christian",
+ "title": "Nicene and Post-Nicene Fathers, Series 2, Volume 1: Eusebius — Church History, Life of Constantine, Oration in Praise of Constantine",
+ "abbreviation": "NPNF 2.1",
+ "author": "Eusebius of Caesarea; ed. Philip Schaff and Henry Wace",
+ "shortTitle": "Nicene & Post-Nicene Fathers",
+ "coverLine": "Series 2, Vol. 1 · Eusebius: Church History, Life of Constantine",
+ "language": "en",
+ "translation": {
+  "id": "npnf201",
+  "name": "Nicene and Post-Nicene Fathers, Series 2, Volume 1: Eusebius — Church History, Life of Constantine, Oration in Praise of Constantine",
+  "abbreviation": "NPNF 2.1",
+  "language": "en",
+  "translator": "Eusebius of Caesarea; ed. Philip Schaff and Henry Wace",
+  "edition": "CCEL ThML edition",
+  "date": "c. 312–339 (texts); 1890 (edition)"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Text public domain. Digital edition and markup by the Christian Classics Ethereal Library (ccel.org): credit CCEL; check CCEL’s terms before commercial redistribution of its edition.",
+ "rightsFlag": "credit-ccel",
+ "editorialMarkers": "The first church history: the Alexandrian catechetical school, the Egyptian martyrs and the Ethiopian eunuch’s tradition are recorded here.",
+ "citation": "Schaff, P. and H. Wace, eds. Nicene and Post-Nicene Fathers, series 2, vol. 1 (1890). Public domain; CCEL edition.",
+ "provenance": {
+  "upstream": "https://ccel.org/ccel/schaff/npnf201.xml",
+  "sha256": "da92679dcdd452c10dab212ee4168be1d37f89f758dae8301821a96d49a261c9",
+  "ingestedAt": "2026-09-18T15:19:56.563Z"
+ },
+ "origin": "primary"
+}

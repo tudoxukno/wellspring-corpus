@@ -1,0 +1,49 @@
+{
+ "id": "src:uhb",
+ "type": "scripture",
+ "sourceType": "scripture",
+ "sourceFamily": "biblical",
+ "title": "Hebrew Bible (unfoldingWord® Hebrew Bible, OSHB/WLC)",
+ "abbreviation": "UHB",
+ "language": "hbo",
+ "script": "Hebr",
+ "direction": "rtl",
+ "original": true,
+ "translation": {
+  "id": "uhb",
+  "name": "Hebrew Bible (unfoldingWord® Hebrew Bible, OSHB/WLC)",
+  "abbreviation": "UHB",
+  "language": "hbo",
+  "translator": "Open Scriptures Hebrew Bible (Westminster Leningrad Codex) with unfoldingWord morphology",
+  "edition": "unfoldingWord® Hebrew Bible v3",
+  "date": "2022–2026",
+  "publisher": "unfoldingWord"
+ },
+ "rights": "CC-BY-SA-4.0",
+ "rightsNote": "CC BY-SA 4.0. Attribute unfoldingWord; the unfoldingWord® trademark must be removed from modified copies.",
+ "canonicalStatus": {
+  "jewishTanakh": "canonical (Masoretic text)",
+  "protestant": "canonical (Old Testament)"
+ },
+ "provenance": {
+  "upstream": "https://git.door43.org/unfoldingWord/hbo_uhb/archive/master.zip",
+  "upstreamProject": "Door43 (unfoldingWord)",
+  "fetchedAt": "2026-09-17",
+  "sha256": "54665865ba1973b1b46299dc28b48f2f25c9219224c58ea705cba5d4324fcf1d",
+  "license": "*unfoldingWord® Hebrew Bible* *Copyright © 2022 by unfoldingWord* This work is made available under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/) or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA. unfoldingWord® is a registered trademark of unfoldingWord. Use of the unfoldingWord name or logo requires the written permission of unfoldingWord. Under the terms of the CC BY-SA license, you may copy and redist"
+ },
+ "origin": "primary",
+ "fullTextAvailable": true,
+ "books": 39,
+ "verses": 23145,
+ "citation": "unfoldingWord® Hebrew Bible, based on the Open Scriptures Hebrew Bible (Westminster Leningrad Codex). CC BY-SA 4.0.",
+ "features": {
+  "strongs": true,
+  "lemma": true,
+  "morphology": true,
+  "footnotes": false,
+  "poetry": true,
+  "supplied": false,
+  "redLetter": false
+ }
+}

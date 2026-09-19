@@ -1,0 +1,46 @@
+{
+ "id": "src:nde",
+ "type": "scripture",
+ "sourceType": "scripture",
+ "sourceFamily": "biblical",
+ "title": "isiNdebele Bible (Biblica)",
+ "abbreviation": "NDE",
+ "language": "nd",
+ "languageName": "isiNdebele",
+ "script": "Latn",
+ "direction": "ltr",
+ "translation": {
+  "id": "nde",
+  "name": "isiNdebele Bible (Biblica)",
+  "abbreviation": "NDE",
+  "language": "nd",
+  "translator": "Biblica",
+  "edition": "IBhayibhili Elingcwele (Zimbabwe Ndebele)",
+  "date": "2003/2022",
+  "publisher": "Biblica, Inc."
+ },
+ "rights": "CC-BY-SA-4.0",
+ "rightsNote": "CC-BY-SA-4.0 per the eBible.org package copyright page; attribute Biblica, Inc..",
+ "canonicalStatus": {
+  "protestant": "canonical (66)"
+ },
+ "provenance": {
+  "upstream": "https://ebible.org/Scriptures/nde_usfm.zip",
+  "upstreamProject": "eBible.org (Haiola USFM export)",
+  "fetchedAt": "2026-09-17",
+  "sha256": "46e056300fa5c7c67d6f767d2cb33e74d12df7a47d0533b2ea10c1debe403e5e",
+  "license": "Biblica® IBhayibhili Elingcwele LesiNdebele Elifinyelelekayo\n^\nBiblica® IBhayibhili Elingcwele LesiNdebele Elifinyelelekayo\nBiblica® IBhayibhili Elingcwele LesiNdebele Elifinyelelekayo\nThe Holy Bible in the Ndebele language of Zimbabwe: Biblica® IBhayibhili Elingcwele LesiNdebele Elifinyelelekayo™\ncopyright © 2003, 2006, 2022 Biblica, Inc.\nLanguage: isiNdebele (Ndebele)\nContributor: Biblica, Inc.\nBiblica® IBhayibhili Elingcwele LesiNdebele Elifinyelelekayo™\nImininingwane Yokukopa © 2003, 2006, 2022 yenziwe yiBiblica, Inc.\nBiblica® Open Ndebele Contemporary Bible™\nCopyright © 2003, 2006, 2022 by Biblica, Inc.\n“Biblica” njalo impawu ze-Biblica zimpawu zokuthengisa ezibhaliswe e-United States ehofisini yezimpawu yi-Biblica, Inc. Lisetshenziswe ngokusemthethweni.\n“Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.\nCreative Commons License\nIbhayibhili leli kumbe “uMsebenzi”, wenziwe watholakala ngaphansi kwe–Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA). Ukuthi ubone ilayisensi, vakatshela ebulenjini kukheli ethi https://creativecommons.org/licenses/by-sa/4.0 kumbe uthumele incwadi kukheli ethi Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\ni“Biblica” luphawu olubhaliswe yiBiblica, Inc. Loba ngasiphi isikhathi usebenzisa uphawu lwe Biblica®, kumele ube lemvumo elotshwe phansi evela eBiblica, Inc. Ulemvumo yokukopa lokusabalalisa umsebenzi lo, kuphela nje nxa ungawuguquli njalo usebenzisa isihloko sinjengokuba, okugoqela uphawu lwe “Biblica®”. Ukuguqula kumbe ukuhumutsha umsebenzi lo kungadala umunye umsebenzi ophuma komunye, okungadinga ukubana ukhiphe uphawu lwe Biblica®. Nxa ungadindisa umsebenzi lo ophuma komunye, kumele utsho uluhlu lwenguquko ozidalileyo lalapho abantu abangazingabona khona, okufana lekhelini lebulenjini. Kumele njalo utshengise lapho okuvela khona umsebenzi wakuqala: “UMsebenzi wakuqala wenziwe yiBiblica, Inc. utholakala mahala kukheli yebulenjini ethi www.biblica.com kanye laku open.bible.”\nKungakhathalekile ukubana usebenzisa uMsebenzi lo kungela nguquko ezenzakeleyo kumbe ukwenza umsebenzi ophuma komunye, umutsho wemininingwane yokukopa kumele ubhalwe esihlokweni kumbe kukhasi lemininingwane yokukopa loMsebenzi kumbe umsebenzi ophuma komunye njengokulandelayo:\nBiblica® IBhayibhili Elingcwele LesiNdebele Elifinyelelekayo™\nImininingwane Yokukopa © 2003, 2006, 2022 yenziwe yiBiblica, Inc.\nBiblica® Open Ndebele Contemporary Bible™\nCopyright © 2003, 2006, 2022 by Biblica, Inc.\n“Biblica” njalo impawu ze-Biblica zimpawu zokuthengisa ezibhaliswe e-United States ehofisini yezimpawu yi-Biblica, Inc. Lisetshenziswe ngokusemthethweni.\n“Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.\nKumele njalo unikeze umsebenzi wakho ophuma komunye usebenzisa ilayisensi (CC BY-SA) kanye lemithetho efananayo.\nNxa ungathanda ukwazisa iBiblica, Inc. mayelana lokuhumutsha okwenze uMsebenzi lo, xhumana lathi kukheli yebulenjini ethi https://open.bible/contact-us.\nThis Bible, or “Work”, is made available under the Creative Commons Attribution-ShareAlike 4‪.0 International License (CC BY-SA). To see this license, visit https://creativecommons.org/licenses/by-sa/4.0 or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\n“Biblica” is a trademark registered by Biblica, Inc. Any time you use the Biblica® trademark, you must have permission in writing from Biblica, Inc. You have permission to copy and distribute this Work, as long as you do not change it and you keep the title as it is, which includes the “Biblica®” trademark. Changing or translating this Work will create a derivative work, which will require you to remove the Biblica® trademark. When you publish this derivative work, you must list what changes you have made where people can see them, such as on a website. You must also show where the original Work is from: “The original Work by Biblica, Inc. is available for free at www.biblica.com and open.bible.”\nWhether you use this Work without changes or make a derivative work, the copyright statement must be written on the title or copyright page of the Work/derivative work as follows:\nBiblica® IBhayibhili Elingcwele LesiNdebele Elifinyelelekayo™\nImininingwane Yokukopa © 2003, 2006, 2022 yenziwe yiBiblica, Inc.\nBiblica® Open Ndebele Contemporary Bible™\nCopyright © 2003, 2006, 2022 by Biblica, Inc.\n“Biblica” njalo impawu ze-Biblica zimpawu zokuthengisa ezibhaliswe e-United States ehofisini yezimpawu yi-Biblica, Inc. Lisetshenziswe ngokusemthethweni.\n“Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.\nYou must also offer your derivative work using the same license (CC BY-SA) and rules.\nIf you would like to notify Biblica, Inc. regarding your translation of this Work, please contact us at https://open.bible/contact-us.\nThis translation is made available to you under the terms of the\nCreative Commons Attribution Share-Alike license 4.0.\nYou have permission to share and redistribute this Bible translation in any format and to make reasonable revisions and adaptations of this translation, provided that:\nYou include the above copyright and source information.\nIf you make any changes to the text, you must indicate that you did so in a way that makes it clear that the original licensor is not necessarily endorsing your changes.\nIf you redistribute this text, you must distribute your contributions under the same license as the original.\nPictures included with Scriptures and other documents on this site are licensed just for use with those Scriptures and documents.\nFor other uses, please contact the respective copyright owners.\nNote that in addition to the rules above, revising and adapting God's Word involves a great responsibility to be true to God's Word. See Revelation 22:18-19.\n2025-05-16\nHTML generated with Haiola by eBible.org 8 Aug 2026 from source files dated 16 May 2025\n^\n© 2003, 2006, 2022 Biblica"
+ },
+ "origin": "primary",
+ "fullTextAvailable": true,
+ "books": 66,
+ "verses": 31103,
+ "citation": "IBhayibhili Elingcwele. © Biblica, Inc. CC BY-SA 4.0.",
+ "features": {
+  "strongs": false,
+  "footnotes": true,
+  "poetry": true,
+  "supplied": true,
+  "redLetter": false
+ }
+}

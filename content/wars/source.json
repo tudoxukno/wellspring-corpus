@@ -1,0 +1,37 @@
+{
+ "id": "src:wars",
+ "type": "work",
+ "sourceType": "ancient-jewish",
+ "sourceFamily": "ancient-jewish",
+ "title": "The Wars of the Jews",
+ "abbreviation": "War",
+ "language": "en",
+ "originalLanguage": "grc",
+ "author": "Flavius Josephus",
+ "translation": {
+  "id": "wars",
+  "name": "The Wars of the Jews — William Whiston (1737)",
+  "abbreviation": "War",
+  "language": "en",
+  "translator": "William Whiston",
+  "edition": "The Wars of the Jews, or the History of the Destruction of Jerusalem, tr. William Whiston (1737); Project Gutenberg #2850",
+  "date": "1737"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Whiston (1737) is public domain; Project Gutenberg transcription.",
+ "canonicalStatus": {
+  "protestant": "not scripture; first-century Jewish history",
+  "jewishTanakh": "not-applicable"
+ },
+ "editorialMarkers": "",
+ "citation": "Josephus, The Wars of the Jews, tr. W. Whiston (1737). Public domain.",
+ "provenance": {
+  "upstream": "https://www.gutenberg.org/ebooks/2850",
+  "sha256": "9a72663aefa6b22bb4398d5f878bb027c6b6de839e7cbe744a34240505fd8d20",
+  "ingestedAt": "2026-09-18T12:08:04.784Z",
+  "notes": "Whiston's footnotes and the translator's dissertations are omitted; section numbering follows Whiston."
+ },
+ "origin": "primary",
+ "books": 8,
+ "verses": 1003
+}

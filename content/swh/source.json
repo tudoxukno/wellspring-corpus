@@ -1,0 +1,46 @@
+{
+ "id": "src:swh",
+ "type": "scripture",
+ "sourceType": "scripture",
+ "sourceFamily": "biblical",
+ "title": "Swahili Bible (Biblica, Neno)",
+ "abbreviation": "SWH",
+ "language": "sw",
+ "languageName": "Kiswahili",
+ "script": "Latn",
+ "direction": "ltr",
+ "translation": {
+  "id": "swh",
+  "name": "Swahili Bible (Biblica, Neno)",
+  "abbreviation": "SWH",
+  "language": "sw",
+  "translator": "Biblica",
+  "edition": "Neno: Bibilia Takatifu",
+  "date": "1984–2015",
+  "publisher": "Biblica, Inc."
+ },
+ "rights": "CC-BY-SA-4.0",
+ "rightsNote": "CC-BY-SA-4.0 per the eBible.org package copyright page; attribute Biblica, Inc..",
+ "canonicalStatus": {
+  "protestant": "canonical (66)"
+ },
+ "provenance": {
+  "upstream": "https://ebible.org/Scriptures/swhonen_usfm.zip",
+  "upstreamProject": "eBible.org (Haiola USFM export)",
+  "fetchedAt": "2026-09-17",
+  "sha256": "8cfd478041324fa091c33b268f3ebad67a935a03e9e75d446dcbc17a22ebdacb",
+  "license": "Biblica® Toleo Wazi Neno: Bibilia Takatifu™\n^\nBiblica® Toleo Wazi Neno: Bibilia Takatifu™\nBiblica® Toleo Wazi Neno: Bibilia Takatifu™\nThe Holy Bible in Swahili, Open Kiswahili Contemporary Version (Neno) 2015: Biblica® Toleo Wazi Neno: Bibilia Takatifu™\ncopyright © 1984, 1989, 2009, 2015 Biblica, Inc.\nLanguage: Kiswahili (Swahili)\nTranslation by: Biblica, Inc.\nThis translation is made available to you under the terms of the\nCreative Commons Attribution Share-Alike license 4.0.\nYou have permission to share and redistribute this Bible translation in any format and to make reasonable revisions and adaptations of this translation, provided that:\nYou include the above copyright and source information.\nIf you make any changes to the text, you must indicate that you did so in a way that makes it clear that the original licensor is not necessarily endorsing your changes.\nIf you redistribute this text, you must distribute your contributions under the same license as the original.\nPictures included with Scriptures and other documents on this site are licensed just for use with those Scriptures and documents.\nFor other uses, please contact the respective copyright owners.\nNote that in addition to the rules above, revising and adapting God's Word involves a great responsibility to be true to God's Word. See Revelation 22:18-19.\n2025-05-21\nHTML generated with Haiola by eBible.org 8 Aug 2026 from source files dated 21 May 2025\n^\n© 1984, 1989, 2009, 2015 Biblica"
+ },
+ "origin": "primary",
+ "fullTextAvailable": true,
+ "books": 66,
+ "verses": 31107,
+ "citation": "Neno: Bibilia Takatifu. © Biblica, Inc. CC BY-SA 4.0.",
+ "features": {
+  "strongs": false,
+  "footnotes": true,
+  "poetry": true,
+  "supplied": true,
+  "redLetter": false
+ }
+}

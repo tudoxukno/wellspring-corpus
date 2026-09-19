@@ -1,0 +1,39 @@
+{
+ "id": "src:quran",
+ "type": "work",
+ "sourceType": "islamic",
+ "sourceFamily": "islamic",
+ "title": "The Meaning of the Glorious Koran",
+ "abbreviation": "Quran",
+ "language": "en",
+ "originalLanguage": "ar",
+ "translation": {
+  "id": "quran",
+  "name": "The Meaning of the Glorious Koran — Marmaduke Pickthall (1930)",
+  "abbreviation": "Quran",
+  "language": "en",
+  "translator": "Marmaduke Pickthall",
+  "edition": "The Meaning of the Glorious Koran (1930)",
+  "date": "1930"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Translation public domain (US from 2026; UK, translator d. 1936). Digital text from Tanzil.net under its non-commercial terms: re-source from a public-domain scan before commercial use.",
+ "rightsFlag": "non-commercial-source",
+ "canonicalStatus": {
+  "islam": "the Quran in English rendering; the Arabic alone is the Quran for Muslims",
+  "protestant": "not-applicable",
+  "jewishTanakh": "not-applicable"
+ },
+ "editorialMarkers": "Parenthetical words are the translator’s. Surah headings give the transliterated Arabic name, the English name, and the traditional place of revelation.",
+ "citation": "Pickthall, M. M. The Meaning of the Glorious Koran (1930). Text via Tanzil.net.",
+ "provenance": {
+  "upstream": "https://tanzil.net/trans/en.pickthall",
+  "metadata": "https://tanzil.net/res/text/metadata/quran-data.xml",
+  "sha256": "4aabbfa9d96796f5a6b0217d2c39dce1a3084f772bf6f2650e37082a774e3cc7",
+  "ingestedAt": "2026-09-17T22:57:45.569Z",
+  "notes": "Included for comparative study of shared figures and narratives (Ibrahim/Abraham, Musa/Moses, Isa/Jesus, Maryam). Inclusion is not endorsement."
+ },
+ "origin": "primary",
+ "books": 1,
+ "verses": 6236
+}

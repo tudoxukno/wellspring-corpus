@@ -1,0 +1,46 @@
+{
+ "id": "src:twi",
+ "type": "scripture",
+ "sourceType": "scripture",
+ "sourceFamily": "biblical",
+ "title": "Twi Bible, Asante (Biblica)",
+ "abbreviation": "TWI",
+ "language": "tw",
+ "languageName": "Asante Twi",
+ "script": "Latn",
+ "direction": "ltr",
+ "translation": {
+  "id": "twi",
+  "name": "Twi Bible, Asante (Biblica)",
+  "abbreviation": "TWI",
+  "language": "tw",
+  "translator": "Biblica",
+  "edition": "Nkwa Asem (Asante Twi)",
+  "date": "1996/2020",
+  "publisher": "Biblica, Inc."
+ },
+ "rights": "CC-BY-SA-4.0",
+ "rightsNote": "CC-BY-SA-4.0 per the eBible.org package copyright page; attribute Biblica, Inc..",
+ "canonicalStatus": {
+  "protestant": "canonical (66)"
+ },
+ "provenance": {
+  "upstream": "https://ebible.org/Scriptures/twiasante_usfm.zip",
+  "upstreamProject": "eBible.org (Haiola USFM export)",
+  "fetchedAt": "2026-09-17",
+  "sha256": "87f4a040d6022a55a1ab21f04133011a608b60670903d3e4092eb337ee970f12",
+  "license": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm\n^\nBiblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm\nBiblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm\nThe Holy Bible in the Asante Twi language of Ghana: Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™\ncopyright © 1996, 2020 Biblica, Inc.\nLanguage: Twi\nDialect: Asante\nContributor: Biblica, Inc.\nAdwuma yi, Creative Commons Attribution-ShareAlike 4‪.0 International License (CC BY-SA) na wɔde baeɛ. Wopɛ sɛ wokenkan kwamma nwoma yi sɛso bi a, kɔhwɛ http://creativecommons.org/licenses/by-sa/4‪.0 anaasɛ twerɛ krataa kɔma Creative Commons, P. O. Box 1866, Mountain View, CA 94042, USA.\nBiblica® yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye, na wopɛ sɛ wode Biblica® ahyɛnsodeɛ yi di dwuma a, gye sɛ Biblica Inc. twerɛ ho kwamma nwoma ma wo. CC BY-SA kwamma nwoma nhyehyɛɛ mu no, wobɛtumi ayɛ adwuma yi sɛso de akɔ mmeaeɛ ahodoɔ wɔ ɛberɛ a wonsesa Biblica® ahyɛnsodeɛ no. Sɛ woyɛ nsakraeɛ anaasɛ wokyerɛ saa adwuma yi ase kɔ kasa foforɔ bi mu ɛfa so nya adwuma foforɔ firi yei mu a, ɛsɛ sɛ woyi Biblica® ahyɛnsodeɛ no firi ho. Nyafirimu adwuma no so no, ɛsɛ sɛ wotwerɛ nsakraeɛ a woayɛ no ne deɛ ɛdidi soɔ yi nso ka ho: “Biblica Inc. adwuma kann no wɔ www.biblica.com ɛnna open.bible a wonhia ɛho kwamma nwoma biara.”\nƐsɛ sɛ wotwerɛ Owurayɛ Tumi no wɔ baabi a nwoma no edin wɔ anaa kratafa a yɛtwerɛ adwuma Owurayɛ Tumi gu no sɛdeɛ ɛdidi soɔ yi:\nBiblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™\nOwurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma.\nBiblica® Open Asante Twi Contemporary Bible™\nCopyright © 1996, 2020 by Biblica, Inc.\n“Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma.\n“Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.\nƐsɛ sɛ wode saa kwamma nwoma (CC BY-SA) yi ara na ɛto wo nyafirimu adwuma no soɔ.\nAdwuma yi a woakyerɛ aseɛ akɔ kasa foforɔ mu yi, sɛ wopɛ sɛ wobɔ Biblica, Inc. amanneɛ a, yɛsrɛ wo, ɛne yɛn nni nkitaho wɔ https://open.bible/contact-us.\nThis work is made available under the Creative Commons Attribution-ShareAlike 4‪.0 International License (CC BY-SA). To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4‪.0 or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\nBiblica® is a trademark registered by Biblica, Inc., and use of the Biblica® trademark requires the written permission of Biblica, Inc. Under the terms of the CC BY-SA license, you may copy and redistribute this unmodified work as long as you keep the Biblica® trademark intact. If you modify a copy or translate this work, thereby creating a derivative work, you must remove the Biblica® trademark. On the derivative work, you must indicate what changes you have made and attribute the work as follows: “The original work by Biblica, Inc. is available for free at www.biblica.com and open.bible.”\n‪Notice of copyright must appear on the title or copyright page of the work as follows:\nBiblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™\nOwurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma.\nBiblica® Open Asante Twi Contemporary Bible™\nCopyright © 1996, 2020 by Biblica, Inc.\n“Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma.\n“Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.\nYou must also make your derivative work available under the same license (CC BY-SA).\nIf you would like to notify Biblica, Inc. regarding your translation of this work, please contact us at https://open.bible/contact-us.\nThis translation is made available to you under the terms of the\nCreative Commons Attribution Share-Alike license 4.0.\nYou have permission to share and redistribute this Bible translation in any format and to make reasonable revisions and adaptations of this translation, provided that:\nYou include the above copyright and source information.\nIf you make any changes to the text, you must indicate that you did so in a way that makes it clear that the original licensor is not necessarily endorsing your changes.\nIf you redistribute this text, you must distribute your contributions under the same license as the original.\nPictures included with Scriptures and other documents on this site are licensed just for use with those Scriptures and documents.\nFor other uses, please contact the respective copyright owners.\nNote that in addition to the rules above, revising and adapting God's Word involves a great responsibility to be true to God's Word. See Revelation 22:18-19.\n2025-05-22\nHTML generated with Haiola by eBible.org 8 Aug 2026 from source files dated 22 May 2025\n^\n© 1996, 2020 Biblica"
+ },
+ "origin": "primary",
+ "fullTextAvailable": true,
+ "books": 66,
+ "verses": 31100,
+ "citation": "Nkwa Asem. © Biblica, Inc. CC BY-SA 4.0.",
+ "features": {
+  "strongs": false,
+  "footnotes": true,
+  "poetry": true,
+  "supplied": true,
+  "redLetter": false
+ }
+}

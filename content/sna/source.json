@@ -1,0 +1,46 @@
+{
+ "id": "src:sna",
+ "type": "scripture",
+ "sourceType": "scripture",
+ "sourceFamily": "biblical",
+ "title": "Shona Bible (Biblica)",
+ "abbreviation": "SNA",
+ "language": "sn",
+ "languageName": "chiShona",
+ "script": "Latn",
+ "direction": "ltr",
+ "translation": {
+  "id": "sna",
+  "name": "Shona Bible (Biblica)",
+  "abbreviation": "SNA",
+  "language": "sn",
+  "translator": "Biblica",
+  "edition": "Bhaibheri Dzvene MuChiShona Chanhasi",
+  "date": "2005/2018",
+  "publisher": "Biblica, Inc."
+ },
+ "rights": "CC-BY-SA-4.0",
+ "rightsNote": "CC-BY-SA-4.0 per the eBible.org package copyright page; attribute Biblica, Inc..",
+ "canonicalStatus": {
+  "protestant": "canonical (66)"
+ },
+ "provenance": {
+  "upstream": "https://ebible.org/Scriptures/sna_usfm.zip",
+  "upstreamProject": "eBible.org (Haiola USFM export)",
+  "fetchedAt": "2026-09-17",
+  "sha256": "233fe05a0077880345f5bccc20e74a9a928b0f26017c0f55f74c28510c642896",
+  "license": "Biblica® Bhaibheri Dzvene Rakasununguka MuChiShona Chanhasi 2017\n^\nBiblica® Bhaibheri Dzvene Rakasununguka MuChiShona Chanhasi 2017\nBiblica® Bhaibheri Dzvene Rakasununguka MuChiShona Chanhasi 2017\nThe Holy Bible in the Shona language of Zimbabwe: Biblica® Bhaibheri Dzvene Rakasununguka MuChiShona Chanhasi 2017\ncopyright © 2005, 2018 Biblica, Inc.\nLanguage: chiShona\nContributor: Biblica, Inc.\nBiblica® Bhaibheri Dzvene Rakasununguka MuChiShona Chanhasi™\nKopakodzero © 2005, 2018 ne Biblica, Inc.\nBiblica® Open Shona Contemporary Bible™\nCopyright © 2005, 2018 by Biblica, Inc.\n“Biblica” chiratidzo chekutengeserana chakanyoreswa mu United States uye chiratidzo chehofisi yeBiblica, Inc. Inoshandiswa zviripamutemo.\n“Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.\nCreative Commons License\nIri basa rinowanikwa pasi peCreative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA). Kuti utarise kopi yeiri rezinesi, shanyira https://creativecommons.org/licenses/by-sa/4.0 kana kutumira tsamba kuCreative Commons, PO Box 1866, Mountain View, CA 94042, USA.\nBiblica® chiratidzo chinozikanwa chakanyorwa neBiblica, Inc., uye kushandiswa kwechiratidzo cheBiblica® kunoda mvumo yakanyorwa yeBiblica, Inc. Pasi pemitemo ye rizinesi re CC BY-SA, unogona kuteedzera uye kugovera patsva basa iri risina kugadziridzwa bedzi kana uchichengetedza chiratidzo che Biblica®. Kana iwe ukachinja kopi kana kushandura iri basa, nokudaro uchigadzira rimwe basa, unofanira kubvisa chiratidzo cheBiblica®. Pabasa rakatorwa, unofanirwa kuratidza shanduko dzawakaita uye woratidza sezvinotevera: “Basa rekutanga reBiblica, Inc. rinowanikwa mahara pa www.biblica.com uye nepa open.bible.”\n‪\nCherechedzo yekopakodzero inofanirwa kuoneka pamusoro wenyaya kana peji rekopakodzero sezvinotevera:\nBiblica® Bhaibheri Dzvene Rakasununguka MuChiShona Chanhasi™\nKopakodzero © 2005, 2018 ne Biblica, Inc.\nBiblica® Open Shona Contemporary Bible™\nCopyright © 2005, 2018 by Biblica, Inc.\n“Biblica” chiratidzo chekutengeserana chakanyoreswa mu United States uye chiratidzo chehofisi yeBiblica, Inc. Inoshandiswa zviripamutemo.\n“Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.\nUnofanirwa zvakare kuita kuti basa rawachinja riwanikwe pasi pe rezinesi yakafanana (CC BY-SA).\nKana iwe uchida kuzivisa Biblica, Inc. maererano neshanduro yako yebasa iri, taura nesu pa https://open.bible/contact-us.\nThis work is made available under the Creative Commons Attribution-ShareAlike 4‪.0 International License (CC BY-SA). To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4‪.0 or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\nBiblica® is a trademark registered by Biblica, Inc., and use of the Biblica® trademark requires the written permission of Biblica, Inc. Under the terms of the CC BY-SA license, you may copy and redistribute this unmodified work as long as you keep the Biblica® trademark intact. If you modify a copy or translate this work, thereby creating a derivative work, you must remove the Biblica® trademark. On the derivative work, you must indicate what changes you have made and attribute the work as follows: “The original work by Biblica, Inc. is available for free at www.biblica.com and open.bible.”\n‪\nNotice of copyright must appear on the title or copyright page of the work as follows:\nBiblica® Bhaibheri Dzvene Rakasununguka MuChiShona Chanhasi™\nKopakodzero © 2005, 2018 ne Biblica, Inc.\nBiblica® Open Shona Contemporary Bible™\nCopyright © 2005, 2018 by Biblica, Inc.\n“Biblica” chiratidzo chekutengeserana chakanyoreswa mu United States uye chiratidzo chehofisi yeBiblica, Inc. Inoshandiswa zviripamutemo.\n“Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.\nYou must also make your derivative work available under the same license (CC BY-SA).\n‪If you would like to notify Biblica, Inc. regarding your translation of this work, please contact us at https://open.bible/contact-us.\nThis translation is made available to you under the terms of the\nCreative Commons Attribution Share-Alike license 4.0.\nYou have permission to share and redistribute this Bible translation in any format and to make reasonable revisions and adaptations of this translation, provided that:\nYou include the above copyright and source information.\nIf you make any changes to the text, you must indicate that you did so in a way that makes it clear that the original licensor is not necessarily endorsing your changes.\nIf you redistribute this text, you must distribute your contributions under the same license as the original.\nPictures included with Scriptures and other documents on this site are licensed just for use with those Scriptures and documents.\nFor other uses, please contact the respective copyright owners.\nNote that in addition to the rules above, revising and adapting God's Word involves a great responsibility to be true to God's Word. See Revelation 22:18-19.\n2023-04-14\nHTML generated with Haiola by eBible.org 8 Aug 2026 from source files dated 21 May 2025\n^\n© 2005, 2018 Biblica"
+ },
+ "origin": "primary",
+ "fullTextAvailable": true,
+ "books": 66,
+ "verses": 31103,
+ "citation": "Bhaibheri Dzvene MuChiShona Chanhasi. © Biblica, Inc. CC BY-SA 4.0.",
+ "features": {
+  "strongs": false,
+  "footnotes": true,
+  "poetry": true,
+  "supplied": true,
+  "redLetter": false
+ }
+}

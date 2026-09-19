@@ -1,0 +1,48 @@
+{
+ "id": "src:lxx",
+ "type": "scripture",
+ "sourceType": "scripture",
+ "sourceFamily": "biblical",
+ "title": "Septuagint (Brenton, Greek)",
+ "abbreviation": "LXX",
+ "language": "grc",
+ "languageName": "Greek",
+ "script": "Grek",
+ "direction": "ltr",
+ "witness": "Septuagint",
+ "translation": {
+  "id": "lxx",
+  "name": "Septuagint (Brenton, Greek)",
+  "abbreviation": "LXX",
+  "language": "grc",
+  "translator": "Greek Old Testament, ed. Lancelot C. L. Brenton",
+  "edition": "Brenton, The Septuagint with Apocrypha: Greek and English (1851), Greek text",
+  "date": "3rd–1st c. BC (text); 1851 (edition)",
+  "publisher": "Samuel Bagster & Sons; eBible.org text"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Public domain (1851 edition).",
+ "canonicalStatus": {
+  "protestant": "Old Testament plus Apocrypha/Deuterocanon as the Greek church received it",
+  "ethiopianTewahedo": "closest ancestor of the Geʿez Old Testament"
+ },
+ "provenance": {
+  "upstream": "https://ebible.org/Scriptures/grcbrent_usfm.zip",
+  "upstreamProject": "eBible.org (Haiola USFM export)",
+  "fetchedAt": "2026-09-17",
+  "sha256": "964b96f1de0d47aabde9e2178a6776ea7851bcab2d6c8c115a94807f61293429",
+  "license": "μετάφραση των εβδομήκοντα\n^\nμετάφραση των εβδομήκοντα\nμετάφραση των εβδομήκοντα\nThe Greek Septuagint with Apocrypha, compiled by Sir Lancelot C. L. Brenton\nPublic Domain\nLanguage: Ἑλληνική (Greek, Ancient)\nDialect: Koine\n2026-04-08\nHTML generated with Haiola by eBible.org 8 Aug 2026 from source files dated 8 Apr 2026\n^\nPublic Domain"
+ },
+ "origin": "primary",
+ "fullTextAvailable": true,
+ "books": 52,
+ "verses": 28597,
+ "citation": "The Septuagint, Greek text, ed. L. C. L. Brenton (1851). Public domain.",
+ "features": {
+  "strongs": false,
+  "footnotes": true,
+  "poetry": true,
+  "supplied": true,
+  "redLetter": false
+ }
+}

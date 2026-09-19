@@ -1,0 +1,32 @@
+{
+ "id": "src:anf07",
+ "type": "work",
+ "sourceType": "early-christian",
+ "sourceFamily": "early-christian",
+ "title": "Ante-Nicene Fathers, Volume 7: Lactantius, Venantius, Asterius, Victorinus, Dionysius, Apostolic Teaching and Constitutions, Homily, and Liturgies",
+ "abbreviation": "ANF 7",
+ "author": "Lactantius and others; ed. Roberts and Donaldson",
+ "shortTitle": "Ante-Nicene Fathers",
+ "coverLine": "Vol. 7 · Lactantius, Apostolic Constitutions, early liturgies",
+ "language": "en",
+ "translation": {
+  "id": "anf07",
+  "name": "Ante-Nicene Fathers, Volume 7: Lactantius, Venantius, Asterius, Victorinus, Dionysius, Apostolic Teaching and Constitutions, Homily, and Liturgies",
+  "abbreviation": "ANF 7",
+  "language": "en",
+  "translator": "Lactantius and others; ed. Roberts and Donaldson",
+  "edition": "CCEL ThML edition",
+  "date": "3rd–4th c. (texts); 1886 (edition)"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Text public domain. Digital edition and markup by the Christian Classics Ethereal Library (ccel.org): credit CCEL; check CCEL’s terms before commercial redistribution of its edition.",
+ "rightsFlag": "credit-ccel",
+ "editorialMarkers": "Lactantius (North Africa), the Apostolic Constitutions and the earliest liturgies, including the Liturgy of St Mark (Alexandria).",
+ "citation": "Roberts, A. and J. Donaldson, eds. The Ante-Nicene Fathers, vol. 7 (1886). Public domain; CCEL edition.",
+ "provenance": {
+  "upstream": "https://ccel.org/ccel/schaff/anf07.xml",
+  "sha256": "2a06bbed738de15a688512d4f51c9f28b6543e33284cfa2c28d55632952e8d83",
+  "ingestedAt": "2026-09-18T15:19:55.497Z"
+ },
+ "origin": "primary"
+}

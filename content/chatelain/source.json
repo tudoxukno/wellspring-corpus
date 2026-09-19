@@ -1,0 +1,38 @@
+{
+ "id": "src:chatelain",
+ "type": "work",
+ "sourceType": "oral",
+ "sourceFamily": "oral",
+ "title": "Folk-Tales of Angola",
+ "shortTitle": "Folk-Tales of Angola",
+ "coverLine": "Héli Chatelain · 1894 · Kimbundu with English",
+ "abbreviation": "Chatelain",
+ "language": "en",
+ "originalLanguage": "kmb",
+ "author": "Héli Chatelain (collector); informants named in the notes",
+ "translation": {
+  "id": "chatelain",
+  "name": "Folk-Tales of Angola — Héli Chatelain",
+  "abbreviation": "Chatelain",
+  "date": "1894",
+  "language": "en"
+ },
+ "rights": "Public domain (published 1894; collector d. 1908). Scan and OCR: Internet Archive.",
+ "origin": "https://archive.org/details/folktalesofangol00chat",
+ "scan": "https://archive.org/details/folktalesofangol00chat",
+ "ocr": "https://archive.org/download/folktalesofangol00chat/folktalesofangol00chat_djvu.xml",
+ "citation": "Chatelain, Héli. Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English Translation, Introduction, and Notes. Memoirs of the American Folk-Lore Society 1. Boston and New York: Houghton, Mifflin, 1894.",
+ "editorialMarkers": "Fifty Mbundu tales dictated to Chatelain in Loanda and along the Kuanza, printed in Kimbundu with his literal English. The Kimbundu is the primary text; the English is deliberately literal. Chatelain’s notes name each tale’s informant.",
+ "method": "Layout-aware OCR (DjVu XML word coordinates): tales open at a centred Roman numeral, first for the Kimbundu text and again for the English; paragraphs by indent and vertical gap, joined across pages when unterminated; Kimbundu and English paragraphs paired by order (tale I, printed interlinear, is split by the language of each line); endnotes “NO. n.” attach Chatelain’s informant note to the tale. Units with no English counterpart keep the Kimbundu as their text. OCR errors are not corrected.",
+ "counts": {
+  "tales": 48,
+  "units": 2138,
+  "bilingual": 520,
+  "interlinearTales": 2,
+  "pairedParagraphs": 390,
+  "unpairedParagraphs": 1566,
+  "endnotes": 577,
+  "taleNotes": 1
+ },
+ "ingestedAt": "2026-09-18"
+}

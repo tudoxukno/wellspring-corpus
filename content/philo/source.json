@@ -1,0 +1,37 @@
+{
+ "id": "src:philo",
+ "type": "work",
+ "sourceType": "ancient-jewish",
+ "sourceFamily": "ancient-jewish",
+ "title": "The Works of Philo Judaeus",
+ "shortTitle": "The Works of Philo",
+ "coverLine": "C. D. Yonge’s translation · 1854–55",
+ "abbreviation": "Philo",
+ "author": "Philo of Alexandria; tr. Charles Duke Yonge",
+ "language": "en",
+ "originalLanguage": "grc",
+ "translation": {
+  "id": "philo",
+  "name": "The Works of Philo Judaeus — Philo of Alexandria",
+  "abbreviation": "Philo",
+  "date": "c. 20 BCE–50 CE (texts); 1854–55 (translation)",
+  "language": "en"
+ },
+ "rights": "Public domain (Yonge d. 1891; published 1854–55). Scan and OCR: Internet Archive, University of Toronto.",
+ "origin": "https://archive.org/details/worksphilojudaeu01philuoft",
+ "scans": [
+  "https://archive.org/details/worksphilojudaeu01philuoft",
+  "https://archive.org/details/worksphilojudaeu02philuoft",
+  "https://archive.org/details/worksphilojudaeu03philuoft",
+  "https://archive.org/details/worksphilojudaeu04philuoft"
+ ],
+ "citation": "Philo Judaeus. The Works of Philo Judaeus, the Contemporary of Josephus. Tr. C. D. Yonge. 4 vols. London: Henry G. Bohn, 1854–55. Public domain; Internet Archive scans (Toronto).",
+ "editorialMarkers": "Philo of Alexandria — the Jewish philosopher of Roman Egypt — in Yonge’s Victorian translation: allegorical commentary on Genesis and Exodus, the Life of Moses, the Special Laws and the historical treatises. Section numbers are Yonge’s; the translation predates the modern Loeb numbering.",
+ "method": "Internet Archive OCR text per volume; treatises open at a capitalised title block (“A TREATISE …”, “THE nth BOOK OF THE TREATISE …”); paragraphs by blank lines; page numbers, lone running heads and volume signatures dropped; hyphenation joined; the index and catalogue matter cut. OCR errors are not corrected.",
+ "counts": {
+  "volumes": 4,
+  "treatises": 50,
+  "units": 11051
+ },
+ "ingestedAt": "2026-09-18"
+}

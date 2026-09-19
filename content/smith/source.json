@@ -1,0 +1,32 @@
+{
+ "id": "src:smith",
+ "type": "dictionary",
+ "sourceType": "reference",
+ "sourceFamily": "reference",
+ "title": "Smith's Bible Dictionary",
+ "abbreviation": "Smith",
+ "author": "William Smith",
+ "shortTitle": "Smith's Bible Dictionary",
+ "coverLine": "William Smith · 1884 ed.",
+ "language": "en",
+ "translation": {
+  "id": "smith",
+  "name": "Smith's Bible Dictionary",
+  "abbreviation": "Smith",
+  "language": "en",
+  "translator": "William Smith",
+  "edition": "CCEL ThML edition",
+  "date": "1863 (1884 ed.)"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Text public domain. Digital edition and markup by the Christian Classics Ethereal Library (ccel.org): credit CCEL; check CCEL’s terms before commercial redistribution of its edition.",
+ "rightsFlag": "credit-ccel",
+ "editorialMarkers": "A Victorian reference: names, places, customs and etymologies are useful; historical judgments are the editors’ and dated.",
+ "citation": "Smith, William. Smith's Bible Dictionary. 1863; rev. ed. 1884. Public domain; CCEL edition.",
+ "provenance": {
+  "upstream": "https://ccel.org/ccel/smith/bibledict.xml",
+  "sha256": "f0aa85b544f70384e24715dcb172ea0b687f8d5646994335e84c8dc44e5aca43",
+  "ingestedAt": "2026-09-18T15:28:38.949Z"
+ },
+ "origin": "primary"
+}

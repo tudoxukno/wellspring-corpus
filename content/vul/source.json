@@ -1,0 +1,47 @@
+{
+ "id": "src:vul",
+ "type": "scripture",
+ "sourceType": "scripture",
+ "sourceFamily": "biblical",
+ "title": "Vulgate (Clementine, Latin)",
+ "abbreviation": "VUL",
+ "language": "la",
+ "languageName": "Latin",
+ "script": "Latn",
+ "direction": "ltr",
+ "witness": "Vulgate",
+ "translation": {
+  "id": "vul",
+  "name": "Vulgate (Clementine, Latin)",
+  "abbreviation": "VUL",
+  "language": "la",
+  "translator": "Jerome (c. 382–405); Clementine recension (1592)",
+  "edition": "Biblia Sacra Vulgata, Clementine edition",
+  "date": "4th–5th c. (text); 1592 (edition)",
+  "publisher": "eBible.org text"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Public domain.",
+ "canonicalStatus": {
+  "catholic": "canonical (73)"
+ },
+ "provenance": {
+  "upstream": "https://ebible.org/Scriptures/latVUC_usfm.zip",
+  "upstreamProject": "eBible.org (Haiola USFM export)",
+  "fetchedAt": "2026-09-17",
+  "sha256": "0ed518ec26617ff80e1d2d9c4562b5a6a0cc79613e72839aa96769453f13e79f",
+  "license": "Bibbia Vulgata Clementina na 1598\n^\nBibbia Vulgata Clementina na 1598\nBibbia Vulgata Clementina na 1598\nClementine Vulgate of 1598 with Glossa Ordinaria Migne edition 1880 in Latin\nPublic Domain\nLanguage: Latine (Latin)\nTranslation by: Jerome\n2014-08-23\nHTML generated with Haiola by eBible.org 8 Aug 2026 from source files dated 12 Dec 2025\n^\nPublic Domain"
+ },
+ "origin": "primary",
+ "fullTextAvailable": true,
+ "books": 73,
+ "verses": 35809,
+ "citation": "Biblia Sacra Vulgatae Editionis (Clementine). Public domain.",
+ "features": {
+  "strongs": false,
+  "footnotes": true,
+  "poetry": true,
+  "supplied": true,
+  "redLetter": false
+ }
+}

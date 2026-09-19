@@ -1,0 +1,32 @@
+{
+ "id": "src:sahnt",
+ "type": "scripture",
+ "sourceType": "scripture",
+ "sourceFamily": "ancient-version",
+ "title": "Sahidica — Sahidic Coptic New Testament",
+ "abbreviation": "Sah NT",
+ "language": "cop",
+ "languageName": "Coptic",
+ "script": "Coptic",
+ "direction": "ltr",
+ "witness": "Sahidic Coptic",
+ "translation": {
+  "id": "sahnt",
+  "name": "Sahidica — Sahidic Coptic New Testament",
+  "abbreviation": "Sah NT",
+  "language": "cop",
+  "date": "3rd–5th c. (texts); 2000–2006 (edition)"
+ },
+ "rights": "Sahidica: A New Edition of the New Testament in Sahidic Coptic, © 2000–2006 J. Warren Wells; free of charge for use in free electronic editions with the full title and copyright credited; written permission required for print. Annotation by Coptic SCRIPTORIUM.",
+ "rightsFlag": "free-electronic-only",
+ "origin": "https://github.com/CopticScriptorium/corpora/tree/master/sahidica.nt",
+ "citation": "Wells, J. Warren, ed. Sahidica: A New Edition of the New Testament in Sahidic Coptic (2000–2006), as annotated by Coptic SCRIPTORIUM.",
+ "editorialMarkers": "A standardised edition of the Sahidic New Testament meant for comparison with the Greek; the editor calls it a work in progress. Not for print or commercial use without permission.",
+ "method": "Verse text is the corpus’s bound groups (orig_group / <phr>) joined with spaces; loanwords the corpus marks as Greek, Hebrew or Latin are kept as spans (sp.loan) for Word study; no normalisation of spelling.",
+ "counts": {
+  "books": 27,
+  "verses": 7906,
+  "loanwordSpans": 17726
+ },
+ "ingestedAt": "2026-09-18"
+}

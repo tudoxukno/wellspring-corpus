@@ -1,0 +1,37 @@
+{
+ "id": "src:apion",
+ "type": "work",
+ "sourceType": "ancient-jewish",
+ "sourceFamily": "ancient-jewish",
+ "title": "Against Apion",
+ "abbreviation": "Ap.",
+ "language": "en",
+ "originalLanguage": "grc",
+ "author": "Flavius Josephus",
+ "translation": {
+  "id": "apion",
+  "name": "Against Apion — William Whiston (1737)",
+  "abbreviation": "Ap.",
+  "language": "en",
+  "translator": "William Whiston",
+  "edition": "Flavius Josephus Against Apion, tr. William Whiston (1737); Project Gutenberg #2849",
+  "date": "1737"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Whiston (1737) is public domain; Project Gutenberg transcription.",
+ "canonicalStatus": {
+  "protestant": "not scripture; first-century Jewish history",
+  "jewishTanakh": "not-applicable"
+ },
+ "editorialMarkers": "",
+ "citation": "Josephus, Against Apion, tr. W. Whiston (1737). Public domain.",
+ "provenance": {
+  "upstream": "https://www.gutenberg.org/ebooks/2849",
+  "sha256": "b6791c018b1033eaf74e49303b071c53f674f392c51b97bc60ec9f7ab68f91d8",
+  "ingestedAt": "2026-09-18T12:08:04.924Z",
+  "notes": "Whiston's footnotes and the translator's dissertations are omitted; section numbering follows Whiston."
+ },
+ "origin": "primary",
+ "books": 2,
+ "verses": 77
+}

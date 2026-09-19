@@ -1,0 +1,31 @@
+{
+ "id": "src:junod1908",
+ "type": "work",
+ "sourceType": "primary-account",
+ "sourceFamily": "primary-account",
+ "title": "The Balemba of the Zoutpansberg (Transvaal)",
+ "shortTitle": "The Balemba of the Zoutpansberg",
+ "coverLine": "Henri A. Junod · Folk-Lore 19 · 1908",
+ "abbreviation": "Junod 1908",
+ "author": "Henri A. Junod",
+ "language": "en",
+ "translation": {
+  "id": "junod1908",
+  "name": "The Balemba of the Zoutpansberg (Transvaal) — Henri A. Junod",
+  "abbreviation": "Junod 1908",
+  "date": "1908",
+  "language": "en"
+ },
+ "rights": "Public domain (published 1908; author d. 1934). Scan and OCR: Internet Archive (IGNCA copy of Folk-Lore vol. XIX).",
+ "origin": "https://archive.org/details/in.gov.ignca.31347",
+ "scan": "https://archive.org/details/in.gov.ignca.31347",
+ "ocr": "https://archive.org/download/in.gov.ignca.31347/31347_djvu.txt",
+ "citation": "Junod, Henri A. “The Balemba of the Zoutpansberg (Transvaal).” Folk-Lore 19, no. 3 (1908): 276–287.",
+ "editorialMarkers": "A Swiss missionary-ethnographer’s field report on the Lemba (Balemba) among the Venda and Tsonga: their separateness, crafts, food and slaughter rules, circumcision, and the “Semitic” comparison he draws. A primary account of its time; its racial vocabulary and comparisons are the author’s.",
+ "method": "Internet Archive OCR text between the article’s start and end markers; running heads and page numbers dropped; hyphenation joined; paragraphs broken by a page turn rejoined when the next block starts lowercase. OCR errors are not corrected.",
+ "counts": {
+  "units": 56,
+  "chars": 21388
+ },
+ "ingestedAt": "2026-09-18"
+}

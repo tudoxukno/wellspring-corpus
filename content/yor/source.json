@@ -1,0 +1,46 @@
+{
+ "id": "src:yor",
+ "type": "scripture",
+ "sourceType": "scripture",
+ "sourceFamily": "biblical",
+ "title": "Yoruba Bible (Biblica)",
+ "abbreviation": "YOR",
+ "language": "yo",
+ "languageName": "Yorùbá",
+ "script": "Latn",
+ "direction": "ltr",
+ "translation": {
+  "id": "yor",
+  "name": "Yoruba Bible (Biblica)",
+  "abbreviation": "YOR",
+  "language": "yo",
+  "translator": "Biblica",
+  "edition": "Bíbélì Mímọ́ ní Èdè Yorùbá Òde-Òní",
+  "date": "2009/2017",
+  "publisher": "Biblica, Inc."
+ },
+ "rights": "CC-BY-SA-4.0",
+ "rightsNote": "CC-BY-SA-4.0 per the eBible.org package copyright page; attribute Biblica, Inc..",
+ "canonicalStatus": {
+  "protestant": "canonical (66)"
+ },
+ "provenance": {
+  "upstream": "https://ebible.org/Scriptures/yor_usfm.zip",
+  "upstreamProject": "eBible.org (Haiola USFM export)",
+  "fetchedAt": "2026-09-17",
+  "sha256": "b44fad007780ac25f25d75c784459b93bce7f52f367a68c50308cb8204bbb186",
+  "license": "Biblica® ní oore ọ̀fẹ́ láti lo Bíbélì Mímọ́ ní Èdè Yorùbá Òde-Òní\n^\nBiblica® ní oore ọ̀fẹ́ láti lo Bíbélì Mímọ́ ní Èdè Yorùbá Òde-Òní\nBiblica® ní oore ọ̀fẹ́ láti lo Bíbélì Mímọ́ ní Èdè Yorùbá Òde-Òní\nYoruba: Biblica® ní oore ọ̀fẹ́ láti lo Bíbélì Mímọ́ ní Èdè Yorùbá Òde-Òní (Bible)\ncopyright © 2009, 2017 Biblica, Inc.\nLanguage: Yorùbá\nContributor: Biblica, Inc.\nA ṣe àgbékalẹ̀ iṣẹ́ yìí lábẹ́ àkóso ti Creative Commons Attribution-ShareAlike 4‪.0 International License (CC BY-SA). Láti rí ẹ̀dà ìwẹ́ àṣẹ, lọ sí http://creativecommons.org/licenses/by-sa/4‪.0 tàbí kí o kọ lẹ́tà ránṣẹ́ sí Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\nBiblica® ni àmì ìdámọ̀ ti Biblica, Inc., lò fún ìforúkọ sílẹ̀, lílo àmì ìdámọ̀ ti Biblica® nílo lẹ́tà ìfààyègbani láti Biblica, Inc. Lábẹ́ àdéhùn ìfààyègbà ti CC BY-SA, o lè ṣe ẹ̀dà ojúlówó iṣẹ́ yìí, kí o sì ṣe àtúnpín rẹ̀ níwọ̀n ìgbà tí o bá ti fi àmì ìdámọ̀ ti Biblica® sílẹ̀ bí ó ṣe wà. Bí o bá ṣe àtúnṣe ẹ̀dà tàbí ìtumọ̀ iṣẹ́ yìí, tí o ń ṣe àtọwọ́dá rẹ̀, o ní láti yọ àmì ìdámọ̀ ti Biblica® kúrò. Lórí iṣẹ́ àtọwọ́dá, o ní láti sàfihàn àwọn àyípadè tí o ti ṣe, kí o sì sàlàyé báyìí pé: A le rí ojúlówó iṣẹ́ náà lọ́fẹ̀ẹ́ láti ọwọ́ Biblica, Inc. ní www.biblica.com and open.bible.”\nÌpàkíyèsí aṣẹ̀dà gbọ́dọ̀ hàn kedere lórí àkọlé tàbí ní ojú ìwé aṣẹ̀dà (copyright page) iṣẹ́ náà báyìí:\nBiblica® ní oore ọ̀fẹ́ láti lo Bíbélì Mímọ́ ní Èdè Yorùbá Òde-Òní™\nẸ̀tọ́ àdàkọ © 2009, 2017 Biblica, Inc.\nBiblica® Open Yoruba Contemporary Bible™\nCopyright © 2009, 2017 by Biblica, Inc.\n‪“Biblica” ni àmì ìdámọ̀ tí Biblica, Inc. fi sílẹ̀ ní United States Patent àti ní ilé iṣẹ́ tí wọ́n ti ń fúnni ní àmì ìdámọ̀. Gba àṣẹ kí o tó lòó.\n“Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.\nÓ sì gbọ́dọ̀ jẹ́ kí iṣẹ́ àtọwọ́dá rẹ wa ní abẹ́ ìfàyègbà kan náà (CC BY-SA).\nBí o bá fẹ́ láti fi tó Biblica, Inc. léti nípa ìṣètumọ̀ iṣẹ́ yìí, Jọ̀wọ́ kàn sí wa ní https://open.bible/contact-us.\nThis work is made available under the Creative Commons Attribution-ShareAlike 4‪.0 International License (CC BY-SA). To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4‪.0 or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\n‪\nBiblica® is a trademark registered by Biblica, Inc., and use of the Biblica® trademark requires the written permission of Biblica, Inc. Under the terms of the CC BY-SA license, you may copy and redistribute this unmodified work as long as you keep the Biblica® trademark intact. If you modify a copy or translate this work, thereby creating a derivative work, you must remove the Biblica® trademark. On the derivative work, you must indicate what changes you have made and attribute the work as follows: “The original work by Biblica, Inc. is available for free at www.biblica.com and open.bible.”\n‪Notice of copyright must appear on the title or copyright page of the work as follows:\nBiblica® ní oore ọ̀fẹ́ láti lo Bíbélì Mímọ́ ní Èdè Yorùbá Òde-Òní™\nẸ̀tọ́ àdàkọ © 2009, 2017 Biblica, Inc.\nBiblica® Open Yoruba Contemporary Bible™\nCopyright © 2009, 2017 by Biblica, Inc.\n“Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.\n‪You must also make your derivative work available under the same license (CC BY-SA).\nIf you would like to notify Biblica, Inc. regarding your translation of this work, please contact us at https://open.bible/contact-us.\nThis translation is made available to you under the terms of the\nCreative Commons Attribution Share-Alike license 4.0.\nYou have permission to share and redistribute this Bible translation in any format and to make reasonable revisions and adaptations of this translation, provided that:\nYou include the above copyright and source information.\nIf you make any changes to the text, you must indicate that you did so in a way that makes it clear that the original licensor is not necessarily endorsing your changes.\nIf you redistribute this text, you must distribute your contributions under the same license as the original.\nPictures included with Scriptures and other documents on this site are licensed just for use with those Scriptures and documents.\nFor other uses, please contact the respective copyright owners.\nNote that in addition to the rules above, revising and adapting God's Word involves a great responsibility to be true to God's Word. See Revelation 22:18-19.\n2025-06-25\nHTML generated with Haiola by eBible.org 8 Aug 2026 from source files dated 25 Jun 2025\n^\n© 2009, 2017 Biblica"
+ },
+ "origin": "primary",
+ "fullTextAvailable": true,
+ "books": 66,
+ "verses": 31087,
+ "citation": "Bíbélì Mímọ́ ní Èdè Yorùbá Òde-Òní. © Biblica, Inc. CC BY-SA 4.0.",
+ "features": {
+  "strongs": false,
+  "footnotes": true,
+  "poetry": true,
+  "supplied": true,
+  "redLetter": false
+ }
+}

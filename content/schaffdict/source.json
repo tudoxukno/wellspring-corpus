@@ -1,0 +1,32 @@
+{
+ "id": "src:schaffdict",
+ "type": "dictionary",
+ "sourceType": "reference",
+ "sourceFamily": "reference",
+ "title": "A Dictionary of the Bible (Schaff)",
+ "abbreviation": "Schaff",
+ "author": "Philip Schaff",
+ "shortTitle": "A Dictionary of the Bible",
+ "coverLine": "Philip Schaff · 1880",
+ "language": "en",
+ "translation": {
+  "id": "schaffdict",
+  "name": "A Dictionary of the Bible (Schaff)",
+  "abbreviation": "Schaff",
+  "language": "en",
+  "translator": "Philip Schaff",
+  "edition": "CCEL ThML edition",
+  "date": "1880"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Text public domain. Digital edition and markup by the Christian Classics Ethereal Library (ccel.org): credit CCEL; check CCEL’s terms before commercial redistribution of its edition.",
+ "rightsFlag": "credit-ccel",
+ "editorialMarkers": "A one-volume Victorian reference with the American Standard Version’s references; historical judgments are the editor’s and dated.",
+ "citation": "Schaff, Philip. A Dictionary of the Bible. Philadelphia: American Sunday-School Union, 1880. Public domain; CCEL edition.",
+ "provenance": {
+  "upstream": "https://ccel.org/ccel/schaff/dict_bible.xml",
+  "sha256": "40a5c8aee33505bb38627c3deeb4875301b0b914584487ddc8c146bce665bd9f",
+  "ingestedAt": "2026-09-18T15:28:39.418Z"
+ },
+ "origin": "primary"
+}

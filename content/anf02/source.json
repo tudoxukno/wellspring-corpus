@@ -1,0 +1,32 @@
+{
+ "id": "src:anf02",
+ "type": "work",
+ "sourceType": "early-christian",
+ "sourceFamily": "early-christian",
+ "title": "Ante-Nicene Fathers, Volume 2: Fathers of the Second Century",
+ "abbreviation": "ANF 2",
+ "author": "Hermas, Tatian, Athenagoras, Theophilus, Clement of Alexandria; ed. Roberts and Donaldson",
+ "language": "en",
+ "translation": {
+  "id": "anf02",
+  "name": "Ante-Nicene Fathers, Volume 2: Fathers of the Second Century",
+  "abbreviation": "ANF 2",
+  "language": "en",
+  "translator": "Hermas, Tatian, Athenagoras, Theophilus, Clement of Alexandria; ed. Roberts and Donaldson",
+  "edition": "CCEL ThML edition",
+  "date": "2nd c. (texts); 1885 (edition)"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Text public domain. Digital edition and markup by the Christian Classics Ethereal Library (ccel.org): credit CCEL; check CCEL’s terms before commercial redistribution of its edition.",
+ "rightsFlag": "credit-ccel",
+ "editorialMarkers": "Includes Clement of Alexandria — the African church’s first great teacher — in nineteenth-century translation.",
+ "citation": "Roberts, A. and J. Donaldson, eds. The Ante-Nicene Fathers, vol. 2 (1885). Public domain; CCEL edition.",
+ "provenance": {
+  "upstream": "https://ccel.org/ccel/schaff/anf02.xml",
+  "sha256": "99cb6b19b1cf7df49546ea73e3b313807ac6d7d84702c1209675a7c34456318a",
+  "ingestedAt": "2026-09-18T05:13:22.694Z"
+ },
+ "origin": "primary",
+ "shortTitle": "Ante-Nicene Fathers",
+ "coverLine": "Vol. 2 · Fathers of the Second Century"
+}

@@ -1,0 +1,34 @@
+{
+ "id": "src:broadus1870",
+ "type": "work",
+ "sourceType": "homiletics",
+ "sourceFamily": "homiletics",
+ "title": "A Treatise on the Preparation and Delivery of Sermons",
+ "shortTitle": "On the Preparation and Delivery of Sermons",
+ "coverLine": "John A. Broadus · 1870",
+ "abbreviation": "Broadus",
+ "author": "John A. Broadus",
+ "language": "en",
+ "originalLanguage": "en",
+ "translation": {
+  "id": "broadus1870",
+  "name": "A Treatise on the Preparation and Delivery of Sermons — John A. Broadus",
+  "abbreviation": "Broadus",
+  "date": "1870",
+  "language": "en"
+ },
+ "rights": "Public domain (published 1870; author d. 1895). Scan and OCR: Internet Archive.",
+ "origin": "https://archive.org/details/treatiseonprepar00broa",
+ "scans": [
+  "https://archive.org/details/treatiseonprepar00broa"
+ ],
+ "citation": "Broadus, John A. A Treatise on the Preparation and Delivery of Sermons. Philadelphia: Smith, English & Co., 1870. Public domain; Internet Archive scan.",
+ "editorialMarkers": "The standard nineteenth-century American manual: the text and its interpretation, materials and arrangement (the three-point outline lives here), style, and delivery. Baptist, Southern, and of its era in every opinion; its method is still the skeleton of most Western preaching.",
+ "method": "Internet Archive OCR text per volume; treatises open at a capitalised title block (“A TREATISE …”, “THE nth BOOK OF THE TREATISE …”); paragraphs by blank lines; page numbers, lone running heads and volume signatures dropped; hyphenation joined; the index and catalogue matter cut. OCR errors are not corrected.",
+ "counts": {
+  "volumes": 1,
+  "treatises": 14,
+  "units": 2291
+ },
+ "ingestedAt": "2026-09-18"
+}

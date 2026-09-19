@@ -1,0 +1,47 @@
+{
+ "id": "src:brenton",
+ "type": "scripture",
+ "sourceType": "scripture",
+ "sourceFamily": "biblical",
+ "title": "Septuagint in English (Brenton)",
+ "abbreviation": "LXX-EN",
+ "language": "en",
+ "languageName": null,
+ "script": "Latn",
+ "direction": "ltr",
+ "witness": "Septuagint",
+ "translation": {
+  "id": "brenton",
+  "name": "Septuagint in English (Brenton)",
+  "abbreviation": "LXX-EN",
+  "language": "en",
+  "translator": "Lancelot C. L. Brenton",
+  "edition": "Brenton, The Septuagint with Apocrypha: Greek and English (1851), English column",
+  "date": "1851",
+  "publisher": "Samuel Bagster & Sons; eBible.org text"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Public domain (1851).",
+ "canonicalStatus": {
+  "protestant": "Old Testament plus Apocrypha/Deuterocanon"
+ },
+ "provenance": {
+  "upstream": "https://ebible.org/Scriptures/eng-Brenton_usfm.zip",
+  "upstreamProject": "eBible.org (Haiola USFM export)",
+  "fetchedAt": "2026-09-17",
+  "sha256": "93496ef23f7ff2427c32f5d353089dee73e82975ab92c80a00663fb333c57e32",
+  "license": "Brenton Septuagint Translation\n^\nBrenton Septuagint Translation\nTranslation of the Greek Septuagint into English by Sir Lancelot Charles Lee Brenton\nPublished in 1851, and now in the Public Domain.\nIf you find errors in the text, please report them so that we can correct them.\nHTML generated with Haiola by eBible.org 8 Aug 2026 from source files dated 12 Dec 2025\n^\nPublic Domain"
+ },
+ "origin": "primary",
+ "fullTextAvailable": true,
+ "books": 53,
+ "verses": 29006,
+ "citation": "The Septuagint with Apocrypha: Greek and English, tr. L. C. L. Brenton (1851). Public domain.",
+ "features": {
+  "strongs": false,
+  "footnotes": true,
+  "poetry": true,
+  "supplied": true,
+  "redLetter": false
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "src:life",
+ "type": "work",
+ "sourceType": "ancient-jewish",
+ "sourceFamily": "ancient-jewish",
+ "title": "The Life of Flavius Josephus",
+ "abbreviation": "Life",
+ "language": "en",
+ "originalLanguage": "grc",
+ "author": "Flavius Josephus",
+ "translation": {
+  "id": "life",
+  "name": "The Life of Flavius Josephus — William Whiston (1737)",
+  "abbreviation": "Life",
+  "language": "en",
+  "translator": "William Whiston",
+  "edition": "The Life of Flavius Josephus, tr. William Whiston (1737); Project Gutenberg #2846",
+  "date": "1737"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Whiston (1737) is public domain; Project Gutenberg transcription.",
+ "canonicalStatus": {
+  "protestant": "not scripture; first-century Jewish history",
+  "jewishTanakh": "not-applicable"
+ },
+ "editorialMarkers": "",
+ "citation": "Josephus, The Life of Flavius Josephus, tr. W. Whiston (1737). Public domain.",
+ "provenance": {
+  "upstream": "https://www.gutenberg.org/ebooks/2846",
+  "sha256": "7c4408526f781f67bf2c6a0af43e0b207d6aaeddb1051636b3cb4186d02c2894",
+  "ingestedAt": "2026-09-18T12:08:05.055Z",
+  "notes": "Whiston's footnotes and the translator's dissertations are omitted; section numbering follows Whiston."
+ },
+ "origin": "primary",
+ "books": 1,
+ "verses": 76
+}
