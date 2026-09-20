@@ -1,0 +1,70 @@
+{
+  "title": "Africa and the text",
+  "note": "Where the African world meets the biblical record, place by place. Each entry is a set of claims anchored to a site, and every claim names the kind of evidence behind it — an inscription that survives, a text that reports, or a tradition that remembers — and the edition it can be read in. Nothing here is a route, a border or a lineage; what the evidence does not show is said as plainly as what it does.",
+  "evidence": {
+    "inscription": "A monument or document from the period, read in a published edition.",
+    "textual": "A later written account — a historian, a church writer, a papyrus archive.",
+    "tradition": "A memory carried by a community or a text without contemporary confirmation."
+  },
+  "sites": [
+    {"id":"karnak","name":"Karnak (Thebes)","modern":"Luxor, Egypt","lon":32.657,"lat":25.719,"era":"kingdoms",
+     "claims":[
+      {"type":"inscription","text":"The Bubastite Portal at Karnak lists about 156 place-names taken by Shoshenq I in a campaign into Canaan, c. 925 BC — the campaign Scripture records under the name Shishak.","refs":["1Kgs.14.25","2Chr.12.2"],"source":"Breasted, Ancient Records of Egypt IV (1906), public domain; plates in Oriental Institute Publications 74 (1954).","limit":"Jerusalem is not among the surviving names. The list shows the campaign’s reach, not a march on the city the text describes."}
+     ]},
+    {"id":"napata","name":"Napata (Jebel Barkal)","modern":"Karima, Sudan","lon":31.83,"lat":18.53,"era":"kingdoms",
+     "claims":[
+      {"type":"inscription","text":"The Victory Stela of Piye, set up at Jebel Barkal, records the Kushite conquest of Egypt c. 725 BC — the beginning of the 25th Dynasty, the kings the prophets call Ethiopia.","refs":["Isa.18.1","Nah.3.9"],"source":"Cairo JE 48862; Breasted, Ancient Records of Egypt IV (1906), public domain.","limit":"The stela names Egyptian towns and rulers; it says nothing of Judah."}
+     ]},
+    {"id":"kawa","name":"Kawa","modern":"near Dongola, Sudan","lon":30.505,"lat":19.126,"era":"assyria-babylon",
+     "claims":[
+      {"type":"inscription","text":"Taharqa — Tirhakah in Kings and Isaiah — built the temple at Kawa; Assyrian records of Esarhaddon and Ashurbanipal name him as their opponent in Egypt.","refs":["2Kgs.19.9","Isa.37.9"],"source":"Luckenbill, Ancient Records of Assyria and Babylonia II (1927), public domain in the United States since 2023. The Kawa stelae edition (Macadam, 1949) is in copyright and is cited, not reproduced.","limit":"No surviving text places Taharqa at Jerusalem; Kings says only that Sennacherib heard he had come out."}
+     ]},
+    {"id":"elephantine","name":"Elephantine (Yeb) and Syene","modern":"Aswan, Egypt","lon":32.89,"lat":24.09,"era":"persia-greek",
+     "claims":[
+      {"type":"textual","text":"Aramaic papyri from the fifth century BC record a Jewish garrison at Yeb with its own temple to YHW, its marriages, contracts and a letter about Passover — a community in Egypt beside the prophets’ Pathros and Syene.","refs":["Jer.44.1","Ezek.29.10","Ezek.30.6"],"source":"Sayce and Cowley, Aramaic Papyri Discovered at Assuan (1906); Cowley, Aramaic Papyri of the Fifth Century B.C. (1923) — both public domain.","limit":"The papyri describe this community’s own practice; they do not say when or why it came."}
+     ]},
+    {"id":"memphis","name":"Memphis (Noph)","modern":"Mit Rahina, Egypt","lon":31.25,"lat":29.85,"era":"assyria-babylon",
+     "claims":[
+      {"type":"textual","text":"Jeremiah addresses Judeans settled at Migdol, Tahpanhes, Noph and in Pathros after the fall of Jerusalem; the prophet himself was taken to Egypt.","refs":["Jer.43.7","Jer.44.1"],"source":"The text of Jeremiah.","limit":"The size and fate of these communities are not recorded; the Elephantine archive is the only one that speaks for itself."}
+     ]},
+    {"id":"alexandria","name":"Alexandria","modern":"Alexandria, Egypt","lon":29.92,"lat":31.20,"era":"church",
+     "claims":[
+      {"type":"textual","text":"Apollos, “born at Alexandria, an eloquent man, and mighty in the scriptures,” taught at Ephesus and Corinth; Alexandrian ships carried Paul toward Rome.","refs":["Acts.18.24","Acts.27.6","Acts.28.11"],"source":"The text of Acts."},
+      {"type":"tradition","text":"Eusebius reports that Mark was the first to be sent to Egypt and founded churches at Alexandria; the Coptic church counts its patriarchs from him.","refs":[],"source":"Eusebius, Ecclesiastical History 2.16 (NPNF2-01, held); Evetts, History of the Patriarchs of the Coptic Church (1904–15), public domain.","limit":"Eusebius writes two and a half centuries later and gives no source; the succession list is the church’s own record of itself."},
+      {"type":"textual","text":"Clement and Origen taught at Alexandria in the late second and third centuries; Athanasius was its bishop. Their works are in the library.","refs":[],"source":"Ante-Nicene Fathers 2 and 4; Nicene and Post-Nicene Fathers II.4 (held)."}
+     ]},
+    {"id":"cyrene","name":"Cyrene","modern":"Shahhat, Libya","lon":21.86,"lat":32.82,"era":"church",
+     "claims":[
+      {"type":"textual","text":"Simon of Cyrene carried the cross; Cyrenians were at Pentecost, in the synagogue that disputed with Stephen, among the first to preach to Greeks at Antioch; Lucius of Cyrene was a prophet and teacher there.","refs":["Mark.15.21","Acts.2.10","Acts.6.9","Acts.11.20","Acts.13.1"],"source":"The texts of Mark and Acts.","limit":"Whether Rufus and Alexander (Mark 15:21) are the Rufus of Romans 16:13 is not stated by either text."}
+     ]},
+    {"id":"carthage","name":"Carthage","modern":"Tunis, Tunisia","lon":10.32,"lat":36.85,"era":"church",
+     "claims":[
+      {"type":"textual","text":"Tertullian wrote at Carthage around 200; Cyprian was its bishop and martyr in 258. Their works, and the account of the martyrs of Scilli and of Perpetua and Felicity, are in the library.","refs":[],"source":"Ante-Nicene Fathers 3–5 (held)."}
+     ]},
+    {"id":"hippo","name":"Hippo Regius","modern":"Annaba, Algeria","lon":7.75,"lat":36.89,"era":"church",
+     "claims":[
+      {"type":"textual","text":"Augustine was bishop of Hippo from 395 to 430; the Confessions and the City of God were written here.","refs":[],"source":"Nicene and Post-Nicene Fathers I.1–2 (held)."}
+     ]},
+    {"id":"aksum","name":"Aksum","modern":"Axum, Ethiopia","lon":38.72,"lat":14.13,"era":"church",
+     "claims":[
+      {"type":"inscription","text":"The inscriptions of Ezana, king of Aksum in the fourth century, move from invoking Mahrem and the gods to the formula of the Christian faith — the kingdom’s conversion recorded in its own stone.","refs":[],"source":"Littmann, Deutsche Aksum-Expedition IV (1913); English in Budge, A History of Ethiopia (1928) — public domain.","limit":"The inscriptions date the conversion of the court; they do not describe how the faith reached it. Rufinus’s story of Frumentius is a later textual account."},
+      {"type":"tradition","text":"The Kebra Nagast tells of the Queen of Sheba’s visit to Solomon and of their son Menelik bringing the Ark to Aksum — the founding story of the Ethiopian monarchy.","refs":["1Kgs.10.1","Matt.12.42"],"source":"Kebra Nagast, tr. Budge (1922), held in the library.","limit":"Tradition. The text of Kings places Sheba’s queen and her gifts; it does not name her country, and the Ark’s later history is not recorded in Scripture."}
+     ]},
+    {"id":"adulis","name":"Adulis","modern":"near Zula, Eritrea","lon":39.66,"lat":15.26,"era":"church",
+     "claims":[
+      {"type":"textual","text":"Cosmas, a merchant who sailed to Adulis in the sixth century, copied the inscriptions he found there — the Monumentum Adulitanum — recording Aksumite campaigns in the third century.","refs":[],"source":"McCrindle, The Christian Topography of Cosmas (1897), public domain.","limit":"The stone itself is lost; the text survives only in Cosmas’s copy."}
+     ]},
+    {"id":"faras","name":"Faras (Pachoras)","modern":"under Lake Nasser, Sudan","lon":31.47,"lat":22.21,"era":"church",
+     "claims":[
+      {"type":"textual","text":"John of Ephesus records the missions of Julian (543) and Longinus (569–575) to Nobatia and the Nubian rulers’ replies; the cathedral of Faras, painted over centuries, was recovered before the lake rose.","refs":["Acts.8.27"],"source":"John of Ephesus, Ecclesiastical History III, tr. Payne Smith (1860); Abu Salih, Churches and Monasteries of Egypt, tr. Evetts (1895) — public domain.","limit":"The Ethiopian eunuch of Acts 8 served the Kandake of Meroë, two centuries and more before these missions; the text does not say what became of him."}
+     ]},
+    {"id":"meroe","name":"Meroë","modern":"Begrawiya, Sudan","lon":33.75,"lat":16.94,"era":"church",
+     "claims":[
+      {"type":"textual","text":"“Candace queen of the Ethiopians” in Acts is a title, Kandake, borne by the ruling queens of Meroë; her treasurer was reading Isaiah on the road from Jerusalem when Philip met him.","refs":["Acts.8.27","Isa.53.7"],"source":"The text of Acts; the title is attested in Meroitic and classical sources (Pliny, Natural History 6.35).","limit":"The eunuch is not named, and no source records his return or a church he founded."}
+     ]},
+    {"id":"tahpanhes","name":"Tahpanhes","modern":"Tell Defenneh, Egypt","lon":32.17,"lat":30.86,"era":"assyria-babylon",
+     "claims":[
+      {"type":"textual","text":"Jeremiah was brought here by the remnant of Judah after Gedaliah’s murder, and here he buried stones in the pavement at Pharaoh’s house as a sign of Nebuchadnezzar’s coming.","refs":["Jer.43.7","Jer.43.9"],"source":"The text of Jeremiah.","limit":"Petrie’s excavation (1886) identified a fortress platform; whether it is the pavement of the sign is not settled."}
+     ]}
+  ]
+}
