@@ -3338,6 +3338,18 @@
    "citation": "Cross References, openbible.info (CC BY 4.0)."
   },
   {
+   "id": "crossrefs-tsk",
+   "kind": "crossrefs",
+   "title": "Treasury of Scripture Knowledge (phrase-anchored)",
+   "abbreviation": "",
+   "family": "reference",
+   "language": "en",
+   "rights": "CC-BY-4.0",
+   "origin": "primary",
+   "rightsNote": "The Treasury of Scripture Knowledge (R. A. Torrey’s edition, 1830s) is public domain; this phrase-anchored, lightly curated edition is CrossReferences.org’s, CC BY 4.0 — attribute CrossReferences.org. Their curation adds, splits, merges or removes well under 1% of references; anchoring is to the KJV wording.",
+   "citation": "Treasury of Scripture Knowledge, phrase-anchored edition by CrossReferences.org (CC BY 4.0)."
+  },
+  {
    "id": "places",
    "kind": "places",
    "title": "Bible places (OpenBible.info geocoding data)",
