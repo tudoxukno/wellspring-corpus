@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-20",
+ "generatedAt": "2026-09-21",
  "packages": [
   {
    "id": "kjv",
@@ -3254,6 +3254,42 @@
    "rightsFlag": "credit-ccel",
    "rightsNote": "Text public domain. Digital edition and markup by the Christian Classics Ethereal Library (ccel.org): credit CCEL; check CCEL’s terms before commercial redistribution of its edition.",
    "citation": "Smith, William. Smith's Bible Dictionary. 1863; rev. ed. 1884. Public domain; CCEL edition."
+  },
+  {
+   "id": "lexicon-abbott-smith",
+   "kind": "lexicon",
+   "title": "Abbott-Smith, A Manual Greek Lexicon of the New Testament",
+   "abbreviation": "",
+   "family": "reference",
+   "language": [
+    "grc",
+    "en"
+   ],
+   "rights": "CC-BY-4.0",
+   "origin": "primary",
+   "author": "G. Abbott-Smith (1922)",
+   "rightsNote": "Abbott-Smith (1922) is public domain; the STEPBible edition is CC BY 4.0 — credit STEPBible.org and Tyndale House, refer readers to github.com/STEPBible as the source, and note any changes. Extended numbers (a letter after the number) distinguish senses and homonyms; Wellspring shows every entry under the base Strong’s number.",
+   "citation": "Abbott-Smith, A Manual Greek Lexicon of the New Testament (1922); STEPBible/Tyndale House edition, CC BY 4.0.",
+   "entries": 11035
+  },
+  {
+   "id": "lexicon-bdb",
+   "kind": "lexicon",
+   "title": "Brown–Driver–Briggs Hebrew and English Lexicon",
+   "abbreviation": "",
+   "family": "reference",
+   "language": [
+    "he",
+    "arc",
+    "en"
+   ],
+   "rights": "CC-BY-4.0",
+   "origin": "primary",
+   "author": "Francis Brown, S. R. Driver, Charles A. Briggs (1906)",
+   "rightsNote": "The 1906 lexicon is public domain; the Open Scriptures XML edition and index are CC BY 4.0 — credit Open Scriptures. Strong’s keying is the index’s, which adds letters where BDB divides a word more finely.",
+   "citation": "Brown, Driver and Briggs, A Hebrew and English Lexicon of the Old Testament (Oxford, 1906); Open Scriptures edition, CC BY 4.0.",
+   "limits": "The Open Scriptures transcription is in progress: about a third of entries carry BDB’s full text with its references; the rest are outlines — the senses in order without BDB’s examples. Each entry says which, with its page in the 1906 edition.",
+   "entries": 11845
   },
   {
    "id": "lexicon-strongs",

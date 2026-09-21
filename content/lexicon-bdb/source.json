@@ -1,0 +1,25 @@
+{
+ "id": "src:lexicon-bdb",
+ "type": "lexicon",
+ "sourceType": "linguistic-resource",
+ "sourceFamily": "reference",
+ "title": "Brown–Driver–Briggs Hebrew and English Lexicon",
+ "language": [
+  "he",
+  "arc",
+  "en"
+ ],
+ "author": "Francis Brown, S. R. Driver, Charles A. Briggs (1906)",
+ "edition": "Open Scriptures Hebrew Lexicon XML edition, keyed to Strong’s numbers through the Open Scriptures Lexical Index",
+ "rights": "CC-BY-4.0",
+ "rightsNote": "The 1906 lexicon is public domain; the Open Scriptures XML edition and index are CC BY 4.0 — credit Open Scriptures. Strong’s keying is the index’s, which adds letters where BDB divides a word more finely.",
+ "limits": "The Open Scriptures transcription is in progress: about a third of entries carry BDB’s full text with its references; the rest are outlines — the senses in order without BDB’s examples. Each entry says which, with its page in the 1906 edition.",
+ "provenance": {
+  "upstream": "https://github.com/openscriptures/HebrewLexicon",
+  "fetchedAt": "2026-09-21"
+ },
+ "origin": "primary",
+ "entries": 11845,
+ "keyed": 8673,
+ "citation": "Brown, Driver and Briggs, A Hebrew and English Lexicon of the Old Testament (Oxford, 1906); Open Scriptures edition, CC BY 4.0."
+}
