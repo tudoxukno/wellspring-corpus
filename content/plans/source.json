@@ -1,0 +1,43 @@
+{
+ "id": "src:plans",
+ "type": "plans",
+ "sourceType": "reference",
+ "sourceFamily": "reference",
+ "title": "Reading plans (orders from named sources)",
+ "language": "en",
+ "rights": "Mixed; see each plan",
+ "rightsNote": "M’Cheyne’s calendar (1842) is public domain, transcribed from Haslam’s PDF with two recorded corrections. The chronological arrangement is Wellspring’s own (CC0). The “order written” list uses dates tabled in Wikipedia’s “Dating the Bible” as facts. The Septuagint order is Rahlfs’s as printed in NETS; the 1611 order is Barker’s contents table. No plan carries devotional text.",
+ "provenance": {
+  "fetchedAt": "2026-09-21"
+ },
+ "origin": "primary",
+ "citation": "Wellspring reading plans; each plan names its source on its card.",
+ "plans": [
+  {
+   "id": "mcheyne",
+   "title": "M’Cheyne’s calendar",
+   "days": 365,
+   "source": "Robert Murray M’Cheyne, Daily Bread: being a calendar for reading through the Word of God in a year (Dundee, 30 December 1842), as printed in Memoir and Remains (1892), pp. 618–628"
+  },
+  {
+   "id": "chronological",
+   "title": "Chronological",
+   "source": "Wellspring’s arrangement (2026). Placements follow the text’s own headings where it has them — a psalm’s superscription, a prophet’s named kings, Ezra 5:1 — and are listed where it does not."
+  },
+  {
+   "id": "written",
+   "title": "Order written",
+   "source": "“Dating the Bible”, Wikipedia (Tables I, II and IV), which tables the dates most widely held in critical scholarship, citing Brown, Coogan, Collins, Carr, Day, Nelson and others"
+  },
+  {
+   "id": "septuagint",
+   "title": "The Septuagint’s order",
+   "source": "The order of Rahlfs’s Septuaginta, as printed in A New English Translation of the Septuagint (NETS, 2007), contents"
+  },
+  {
+   "id": "kjv-1611",
+   "title": "The 1611 order",
+   "source": "The Holy Bible (Robert Barker, 1611), contents table “The Bookes called Apocrypha”"
+  }
+ ]
+}

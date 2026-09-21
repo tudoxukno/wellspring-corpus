@@ -3362,6 +3362,18 @@
    "citation": "Smith, Stephen. Bible Geocoding Data. OpenBible.info, 2023–. CC BY 4.0."
   },
   {
+   "id": "plans",
+   "kind": "plans",
+   "title": "Reading plans (orders from named sources)",
+   "abbreviation": "",
+   "family": "reference",
+   "language": "en",
+   "rights": "Mixed; see each plan",
+   "origin": "primary",
+   "rightsNote": "M’Cheyne’s calendar (1842) is public domain, transcribed from Haslam’s PDF with two recorded corrections. The chronological arrangement is Wellspring’s own (CC0). The “order written” list uses dates tabled in Wikipedia’s “Dating the Bible” as facts. The Septuagint order is Rahlfs’s as printed in NETS; the 1611 order is Barker’s contents table. No plan carries devotional text.",
+   "citation": "Wellspring reading plans; each plan names its source on its card."
+  },
+  {
    "id": "topics",
    "kind": "topics",
    "title": "Topical index: Nave's Topical Bible and Torrey's New Topical Textbook",
