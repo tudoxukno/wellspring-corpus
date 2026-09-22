@@ -1,0 +1,29 @@
+{
+ "id": "src:geez",
+ "type": "scripture",
+ "sourceType": "scripture",
+ "sourceFamily": "ancient-version",
+ "title": "Ge’ez Bible (Ethiopian and Eritrean canon)",
+ "abbreviation": "Ge’ez",
+ "language": "gez",
+ "languageName": "Ge’ez",
+ "script": "Ethiopic",
+ "direction": "ltr",
+ "witness": "Ethiopic",
+ "translation": {
+  "id": "geez",
+  "name": "Ge’ez Bible (Ethiopian and Eritrean canon)",
+  "abbreviation": "Ge’ez",
+  "language": "gez",
+  "date": "manuscripts, 14th c. onward; TEI editions 2016–"
+ },
+ "rights": "CC BY-SA 4.0",
+ "rightsFlag": "cc-by-sa",
+ "rightsNote": "Text © Beta maṣāḥǝft (Hiob Ludolf Centre for Ethiopian Studies, Universität Hamburg), licensed CC BY-SA 4.0 — the licence is stated in their own TEI. Any derivative of this file carries the same licence.",
+ "citation": "Beta maṣāḥǝft: Manuscripts of Ethiopia and Eritrea. Hiob Ludolf Centre for Ethiopian Studies, Universität Hamburg. betamasaheft.eu. Text licensed CC BY-SA 4.0; verse arrangement after github.com/LPettay/ethiopian-bible, under the same licence.",
+ "editorialMarkers": "Chapter and verse numbers follow the Ethiopian tradition and may differ from Hebrew, Greek or English editions; a book is present only where Beta maṣāḥǝft has an edition of it. Word-level transliterations exist upstream and are not taken here. Nothing in this package is equated with a book of another canon except where the text itself is the same book.",
+ "books": 36,
+ "verses": 18296,
+ "sha256": "e4edaa74d59faf4a0c49031ee2c07657958a8297fb2e3cbf08e672305c4f76b2",
+ "fetchedAt": "2026-09-22T18:40:33.608Z"
+}

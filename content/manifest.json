@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-21",
+ "generatedAt": "2026-09-22",
  "packages": [
   {
    "id": "kjv",
@@ -340,6 +340,67 @@
    },
    "rightsNote": "Released into the public domain (CC0) in 2023 by Bible Hub.",
    "citation": "The Holy Bible, Berean Standard Bible, BSB. Public domain (CC0)."
+  },
+  {
+   "id": "geez",
+   "kind": "scripture",
+   "title": "Ge’ez Bible (Ethiopian and Eritrean canon)",
+   "abbreviation": "Ge’ez",
+   "family": "ancient-version",
+   "language": "gez",
+   "rights": "CC BY-SA 4.0",
+   "direction": "ltr",
+   "languageName": "Ge’ez",
+   "script": "Ethiopic",
+   "witness": "Ethiopic",
+   "books": 36,
+   "verses": 18296,
+   "bookIds": [
+    "1En",
+    "Jub",
+    "3Meq",
+    "4Bar",
+    "KN",
+    "Lef",
+    "MysHE",
+    "TestLd",
+    "Teach",
+    "Sinod",
+    "Synax",
+    "Tob",
+    "Jdt",
+    "Sir",
+    "Wis",
+    "1Meq",
+    "Lam",
+    "Gen",
+    "Exod",
+    "Lev",
+    "Num",
+    "Deut",
+    "Josh",
+    "Judg",
+    "Ruth",
+    "2Kgs",
+    "Job",
+    "Prov",
+    "Eccl",
+    "Song",
+    "Isa",
+    "Joel",
+    "Jonah",
+    "Clem",
+    "Ezra",
+    "ApEz"
+   ],
+   "translation": {
+    "name": "Ge’ez Bible (Ethiopian and Eritrean canon)",
+    "date": "manuscripts, 14th c. onward; TEI editions 2016–"
+   },
+   "editorialMarkers": "Chapter and verse numbers follow the Ethiopian tradition and may differ from Hebrew, Greek or English editions; a book is present only where Beta maṣāḥǝft has an edition of it. Word-level transliterations exist upstream and are not taken here. Nothing in this package is equated with a book of another canon except where the text itself is the same book.",
+   "rightsFlag": "cc-by-sa",
+   "rightsNote": "Text © Beta maṣāḥǝft (Hiob Ludolf Centre for Ethiopian Studies, Universität Hamburg), licensed CC BY-SA 4.0 — the licence is stated in their own TEI. Any derivative of this file carries the same licence.",
+   "citation": "Beta maṣāḥǝft: Manuscripts of Ethiopia and Eritrea. Hiob Ludolf Centre for Ethiopian Studies, Universität Hamburg. betamasaheft.eu. Text licensed CC BY-SA 4.0; verse arrangement after github.com/LPettay/ethiopian-bible, under the same licence."
   },
   {
    "id": "hau",
@@ -2207,6 +2268,37 @@
    },
    "editorialMarkers": "Faïtlovitch, who visited the Beta Israel from 1904 and founded schools for them, describes their villages, worship, priests and monks, festivals, purity laws and the missionary pressure of the period, and argues for Jewish solidarity with them. An advocate’s account; its claims about origins are his.",
    "citation": "Faïtlovitch, Jacques. The Falashas. Philadelphia: Jewish Publication Society of America, 1920. Reprinted from the American Jewish Year Book 5681."
+  },
+  {
+   "id": "jubilees",
+   "kind": "work",
+   "title": "Jubilees",
+   "abbreviation": "Jub.",
+   "family": "extra-biblical",
+   "language": "en",
+   "rights": "public-domain",
+   "origin": "primary",
+   "originalLanguage": "gez",
+   "features": {
+    "strongs": false,
+    "footnotes": false,
+    "poetry": true,
+    "supplied": true
+   },
+   "books": 1,
+   "verses": 1307,
+   "bookIds": [
+    "Jub"
+   ],
+   "translation": {
+    "name": "Jubilees — R. H. Charles (1917)",
+    "translator": "R. H. Charles",
+    "edition": "The Book of Jubilees, or The Little Genesis, translated from the Ethiopic (London: SPCK, 1917 popular edition)",
+    "date": "1917"
+   },
+   "editorialMarkers": "Charles’s notation is preserved: † † marks text he judged corrupt; [ ] marks interpolations; ( ) marks words supplied by the translator. His footnotes, his introduction and the Prologue are not included. Chapter and verse numbers are Charles’s own; the Ge’ez edition of Jubilees held here numbers its verses differently, as Ethiopic editions do.",
+   "rightsNote": "Charles (d. 1931); 1917 publication. Public domain in the US and UK.",
+   "citation": "Charles, R. H. The Book of Jubilees, or The Little Genesis. London: SPCK, 1917 (popular edition). Public domain. Internet Sacred Text Archive transcription."
   },
   {
    "id": "junod1908",

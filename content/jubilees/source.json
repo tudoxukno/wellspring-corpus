@@ -1,0 +1,50 @@
+{
+ "id": "src:jubilees",
+ "type": "work",
+ "sourceType": "extra-biblical",
+ "sourceFamily": "extra-biblical",
+ "title": "Jubilees",
+ "abbreviation": "Jub.",
+ "language": "en",
+ "originalLanguage": "gez",
+ "translation": {
+  "id": "jubilees",
+  "name": "Jubilees — R. H. Charles (1917)",
+  "abbreviation": "Jub.",
+  "language": "en",
+  "translator": "R. H. Charles",
+  "edition": "The Book of Jubilees, or The Little Genesis, translated from the Ethiopic (London: SPCK, 1917 popular edition)",
+  "date": "1917"
+ },
+ "rights": "public-domain",
+ "rightsNote": "Charles (d. 1931); 1917 publication. Public domain in the US and UK.",
+ "canonicalStatus": {
+  "ethiopianTewahedo": "canonical",
+  "protestant": "pseudepigraphal",
+  "catholic": "pseudepigraphal",
+  "easternOrthodox": "pseudepigraphal",
+  "jewishTanakh": "not-applicable"
+ },
+ "editorialMarkers": "Charles’s notation is preserved: † † marks text he judged corrupt; [ ] marks interpolations; ( ) marks words supplied by the translator. His footnotes, his introduction and the Prologue are not included. Chapter and verse numbers are Charles’s own; the Ge’ez edition of Jubilees held here numbers its verses differently, as Ethiopic editions do.",
+ "provenance": {
+  "upstream": "https://sacred-texts.com/bib/jub/",
+  "upstreamProject": "Internet Sacred Text Archive (John Bruno Hare, 2004), read through the Internet Archive Wayback Machine",
+  "pages": "jub12-jub87",
+  "corrections": 10,
+  "correctionsCheckedAgainst": "Charles 1902 (Internet Archive scan bookofjubileesor00char)",
+  "fetchedAt": "2026-09-22",
+  "sha256": "bd0ddbd7ca8ef7c27188f8eefaa1d621dc7c984e427bde2612b0ea6497916a88"
+ },
+ "origin": "primary",
+ "fullTextAvailable": true,
+ "books": 1,
+ "chapters": 50,
+ "verses": 1307,
+ "citation": "Charles, R. H. The Book of Jubilees, or The Little Genesis. London: SPCK, 1917 (popular edition). Public domain. Internet Sacred Text Archive transcription.",
+ "features": {
+  "strongs": false,
+  "footnotes": false,
+  "poetry": true,
+  "supplied": true
+ }
+}
