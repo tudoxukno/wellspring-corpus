@@ -1,0 +1,49 @@
+{
+ "id": "src:ult",
+ "type": "scripture",
+ "sourceType": "scripture",
+ "sourceFamily": "biblical",
+ "title": "unfoldingWord® Literal Text",
+ "abbreviation": "ULT",
+ "language": "en",
+ "script": "Latn",
+ "direction": "ltr",
+ "original": false,
+ "translation": {
+  "id": "ult",
+  "name": "unfoldingWord® Literal Text",
+  "abbreviation": "ULT",
+  "language": "en",
+  "translator": "unfoldingWord",
+  "edition": "unfoldingWord® Literal Text v90, an open-licensed update of the American Standard Version (1901)",
+  "date": "2026",
+  "publisher": "unfoldingWord"
+ },
+ "rights": "CC-BY-SA-4.0",
+ "rightsNote": "CC BY-SA 4.0. Attribute unfoldingWord; the unfoldingWord® trademark must be removed from modified copies.",
+ "canonicalStatus": {
+  "protestant": "canonical"
+ },
+ "editorialMarkers": "A form-centric translation: it follows the word order and structure of the Hebrew and Greek closely, so the English shows how the original is built. Every word is aligned to the word it stands for in the unfoldingWord Hebrew Bible and Greek New Testament, which is where its Strong’s numbers, lemmas and morphology come from.",
+ "provenance": {
+  "upstream": "https://git.door43.org/unfoldingWord/en_ult/archive/master.zip",
+  "upstreamProject": "Door43 (unfoldingWord)",
+  "fetchedAt": "2026-09-22",
+  "sha256": "4ea949345ba96cb7a55f6f5c6c5d9acadb276c6895e4cba09c7be38c2df0deef",
+  "license": "*unfoldingWord® Literal Text* *Copyright © 2026 by unfoldingWord* This work is made available under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/) or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA. unfoldingWord® is a registered trademark of unfoldingWord. Use of the unfoldingWord name or logo requires the written permission of unfoldingWord. Under the terms of the CC BY-SA license, you may copy and redist"
+ },
+ "origin": "primary",
+ "fullTextAvailable": true,
+ "books": 66,
+ "verses": 31101,
+ "citation": "unfoldingWord® Literal Text (ULT), an open-licensed update of the ASV. CC BY-SA 4.0.",
+ "features": {
+  "strongs": true,
+  "lemma": false,
+  "morphology": false,
+  "footnotes": true,
+  "poetry": true,
+  "supplied": false,
+  "redLetter": false
+ }
+}

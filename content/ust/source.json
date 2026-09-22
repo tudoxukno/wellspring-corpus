@@ -1,0 +1,49 @@
+{
+ "id": "src:ust",
+ "type": "scripture",
+ "sourceType": "scripture",
+ "sourceFamily": "biblical",
+ "title": "unfoldingWord® Simplified Text",
+ "abbreviation": "UST",
+ "language": "en",
+ "script": "Latn",
+ "direction": "ltr",
+ "original": false,
+ "translation": {
+  "id": "ust",
+  "name": "unfoldingWord® Simplified Text",
+  "abbreviation": "UST",
+  "language": "en",
+  "translator": "unfoldingWord",
+  "edition": "unfoldingWord® Simplified Text v90",
+  "date": "2026",
+  "publisher": "unfoldingWord"
+ },
+ "rights": "CC-BY-SA-4.0",
+ "rightsNote": "CC BY-SA 4.0. Attribute unfoldingWord; the unfoldingWord® trademark must be removed from modified copies.",
+ "canonicalStatus": {
+  "protestant": "canonical"
+ },
+ "editorialMarkers": "A meaning-based translation: it states in plain English what the text is saying, and renders theological terms as descriptive phrases rather than as single words. Read beside the Literal Text it shows the same verse twice — once in the shape of the original, once in the sense of it. Words in {curly braces} are information the translators judged implied rather than stated; anything longer than a phrase they put in a footnote instead. Every word is aligned to the original it stands for.",
+ "provenance": {
+  "upstream": "https://git.door43.org/unfoldingWord/en_ust/archive/master.zip",
+  "upstreamProject": "Door43 (unfoldingWord)",
+  "fetchedAt": "2026-09-22",
+  "sha256": "aff9a008ee268145754b6234a5c97d50f09908762bae5467471743ebc6f73891",
+  "license": "*unfoldingWord® Simplified Text* *Copyright © 2026 by unfoldingWord* This work is made available under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/) or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA. unfoldingWord® is a registered trademark of unfoldingWord. Use of the unfoldingWord name or logo requires the written permission of unfoldingWord. Under the terms of the CC BY-SA license, you may copy and red"
+ },
+ "origin": "primary",
+ "fullTextAvailable": true,
+ "books": 66,
+ "verses": 30976,
+ "citation": "unfoldingWord® Simplified Text (UST). CC BY-SA 4.0.",
+ "features": {
+  "strongs": true,
+  "lemma": false,
+  "morphology": false,
+  "footnotes": true,
+  "poetry": true,
+  "supplied": false,
+  "redLetter": false
+ }
+}
