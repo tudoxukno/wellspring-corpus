@@ -2447,6 +2447,37 @@
    "citation": "Charles, R. H. The Book of Enoch. Oxford: Clarendon Press, 1917 (SPCK popular edition). Public domain. Wikisource transcription."
   },
   {
+   "id": "enoch2",
+   "kind": "work",
+   "title": "2 Enoch",
+   "abbreviation": "2 En.",
+   "family": "extra-biblical",
+   "language": "en",
+   "rights": "public-domain",
+   "origin": "primary",
+   "originalLanguage": "cu",
+   "features": {
+    "strongs": false,
+    "footnotes": false,
+    "poetry": true,
+    "supplied": true
+   },
+   "books": 1,
+   "verses": 321,
+   "bookIds": [
+    "2En"
+   ],
+   "translation": {
+    "name": "2 Enoch — N. Forbes and R. H. Charles (1913)",
+    "translator": "N. Forbes and R. H. Charles",
+    "edition": "2 Enoch, or The Book of the Secrets of Enoch, translated from the Slavonic, in R. H. Charles (ed.), The Apocrypha and Pseudepigrapha of the Old Testament, vol. 2 (Oxford, 1913); reprinted in R. H. Platt (ed.), The Forgotten Books of Eden (1926)",
+    "date": "1913"
+   },
+   "editorialMarkers": "Survives only in Slavonic, in a longer and a shorter recension; this is the longer, as Forbes and Charles printed it. Wikisource’s page credits R. H. Platt as translator, which he was not — he edited the 1926 volume that reprints the 1913 translation, and the translators are named above. Not part of the Ethiopian canon: 1 Enoch is, 2 Enoch is not.",
+   "rightsNote": "N. Forbes (1883–1929) and R. H. Charles (d. 1931), published 1913. Public domain in the United States, and in the United Kingdom and the EU since 2002.",
+   "citation": "Forbes, N., and R. H. Charles. “2 Enoch, or the Book of the Secrets of Enoch.” In The Apocrypha and Pseudepigrapha of the Old Testament, ed. R. H. Charles, vol. 2. Oxford: Clarendon Press, 1913. Public domain. Wikisource transcription of the 1926 reprint."
+  },
+  {
    "id": "faitlovitch1920",
    "kind": "work",
    "title": "The Falashas",
