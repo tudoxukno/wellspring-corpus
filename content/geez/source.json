@@ -19,11 +19,11 @@
  },
  "rights": "CC BY-SA 4.0",
  "rightsFlag": "cc-by-sa",
- "rightsNote": "Text © Beta maṣāḥǝft (Hiob Ludolf Centre for Ethiopian Studies, Universität Hamburg), licensed CC BY-SA 4.0 — the licence is stated in their own TEI. Any derivative of this file carries the same licence.",
- "citation": "Beta maṣāḥǝft: Manuscripts of Ethiopia and Eritrea. Hiob Ludolf Centre for Ethiopian Studies, Universität Hamburg. betamasaheft.eu. Text licensed CC BY-SA 4.0; verse arrangement after github.com/LPettay/ethiopian-bible, under the same licence.",
- "editorialMarkers": "Chapter and verse numbers follow the Ethiopian tradition and may differ from Hebrew, Greek or English editions; a book is present only where Beta maṣāḥǝft has an edition of it. Word-level transliterations exist upstream and are not taken here. Nothing in this package is equated with a book of another canon except where the text itself is the same book.",
- "books": 36,
- "verses": 18296,
- "sha256": "e4edaa74d59faf4a0c49031ee2c07657958a8297fb2e3cbf08e672305c4f76b2",
- "fetchedAt": "2026-09-22T18:40:33.608Z"
+ "rightsNote": "Text © Beta maṣāḥǝft (Hiob Ludolf Centre for Ethiopian Studies, Universität Hamburg), licensed CC BY-SA 4.0 in their own TEI. Any derivative of this package carries the same licence. Two books carry a further restriction of their own: the Kebra Nagast and 4 Baruch come from the 1995 Library of Ethiopic Texts of Michal Jerabek, whose notice inside the same file reads “Permission to use, copy, and distribute this text, for any NONCOMMERCIAL purpose is hereby granted without fee… This text cannot be sold under any circumstances.” Wellspring is free and sells nothing, so it may hold them; anyone taking them onward is bound by that notice as well as by CC BY-SA.",
+ "citation": "Beta maṣāḥǝft: Manuscripts of Ethiopia and Eritrea. Hiob Ludolf Centre for Ethiopian Studies, Universität Hamburg. betamasaheft.eu — text licensed CC BY-SA 4.0 in their TEI. Taken here through the verse-keyed arrangement at github.com/LPettay/ethiopian-bible, which names the same source and carries no licence file of its own.",
+ "editorialMarkers": "Chapter and verse numbers follow the Ethiopian tradition and may differ from Hebrew, Greek or English editions; a book is present only where Beta maṣāḥǝft has an edition of it and that edition holds Ge’ez, so a work catalogued but not yet transcribed is absent rather than present and empty. Nine books are recorded one unit to the chapter rather than verse by verse — the Kebra Nagast among them — so a reference into those reaches a chapter. Where only part of a work is held, the name and the numbering say so rather than implying the whole: 3 Ezra begins at its eleventh chapter because its eleventh is where this text begins, and 2 Meqabyan is the first ten of its twenty-one. Word-level transliterations exist upstream and are not taken here. Nothing in this package is equated with a book of another canon except where the text itself is the same book. The provenance of each book, and the corrections made to three of them, are recorded in the project’s corpus register.",
+ "books": 33,
+ "verses": 18185,
+ "sha256": "dd1108967de4e92b2e32f0619513201e0addd7624e6dccb5a758019d340baa50",
+ "fetchedAt": "2026-09-24T13:18:04.616Z"
 }

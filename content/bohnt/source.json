@@ -21,12 +21,12 @@
  "rightsFlag": "cc-by",
  "origin": "https://github.com/CopticScriptorium/corpora/tree/master/bohairic.nt",
  "citation": "Bohairic New Testament. Coptic SCRIPTORIUM, version 6.0 (2024), from the Marcion edition (Hany Takla). CC BY 4.0.",
- "editorialMarkers": "The Bohairic dialect, the liturgical language of the Coptic Orthodox Church to this day. Tagging is the corpus’s; loanwords marked Greek or Hebrew are recorded as spans.",
+ "editorialMarkers": "The Bohairic dialect, the liturgical language of the Coptic Orthodox Church to this day. Tagging is the corpus’s; loanwords marked Greek or Hebrew are recorded as spans. Where this witness does not carry a verse — Acts 8:37 and Mark 9:46 among them, verses absent from most early manuscripts — the edition marks the place rather than dropping the verse, and Wellspring writes every such mark the same way, as “[—]”, so that the gap is visible and the numbering stays true. That marker is the edition’s own and is reproduced here unchanged: it means the verse is not in this manuscript tradition, not that the text is unknown.",
  "method": "Verse text is the corpus’s bound groups (orig_group / <phr>) joined with spaces; loanwords the corpus marks as Greek, Hebrew or Latin are kept as spans (sp.loan) for Word study; no normalisation of spelling.",
  "counts": {
   "books": 27,
   "verses": 7957,
   "loanwordSpans": 17195
  },
- "ingestedAt": "2026-09-18"
+ "ingestedAt": "2026-09-24"
 }

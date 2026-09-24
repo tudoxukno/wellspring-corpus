@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-22",
+ "generatedAt": "2026-09-24",
  "packages": [
   {
    "id": "kjv",
@@ -157,7 +157,7 @@
     "name": "Bohairic Coptic New Testament",
     "date": "4th–9th c. (texts); 2024 (corpus)"
    },
-   "editorialMarkers": "The Bohairic dialect, the liturgical language of the Coptic Orthodox Church to this day. Tagging is the corpus’s; loanwords marked Greek or Hebrew are recorded as spans.",
+   "editorialMarkers": "The Bohairic dialect, the liturgical language of the Coptic Orthodox Church to this day. Tagging is the corpus’s; loanwords marked Greek or Hebrew are recorded as spans. Where this witness does not carry a verse — Acts 8:37 and Mark 9:46 among them, verses absent from most early manuscripts — the edition marks the place rather than dropping the verse, and Wellspring writes every such mark the same way, as “[—]”, so that the gap is visible and the numbering stays true. That marker is the edition’s own and is reproduced here unchanged: it means the verse is not in this manuscript tradition, not that the text is unknown.",
    "rightsFlag": "cc-by",
    "citation": "Bohairic New Testament. Coptic SCRIPTORIUM, version 6.0 (2024), from the Marcion edition (Hany Takla). CC BY 4.0."
   },
@@ -353,19 +353,15 @@
    "languageName": "Ge’ez",
    "script": "Ethiopic",
    "witness": "Ethiopic",
-   "books": 36,
-   "verses": 18296,
+   "books": 33,
+   "verses": 18185,
    "bookIds": [
     "1En",
     "Jub",
-    "3Meq",
+    "2Meq",
     "4Bar",
     "KN",
-    "Lef",
-    "MysHE",
-    "TestLd",
     "Teach",
-    "Sinod",
     "Synax",
     "Tob",
     "Jdt",
@@ -391,16 +387,17 @@
     "Jonah",
     "Clem",
     "Ezra",
+    "3Ezr",
     "ApEz"
    ],
    "translation": {
     "name": "Ge’ez Bible (Ethiopian and Eritrean canon)",
     "date": "manuscripts, 14th c. onward; TEI editions 2016–"
    },
-   "editorialMarkers": "Chapter and verse numbers follow the Ethiopian tradition and may differ from Hebrew, Greek or English editions; a book is present only where Beta maṣāḥǝft has an edition of it. Word-level transliterations exist upstream and are not taken here. Nothing in this package is equated with a book of another canon except where the text itself is the same book.",
+   "editorialMarkers": "Chapter and verse numbers follow the Ethiopian tradition and may differ from Hebrew, Greek or English editions; a book is present only where Beta maṣāḥǝft has an edition of it and that edition holds Ge’ez, so a work catalogued but not yet transcribed is absent rather than present and empty. Nine books are recorded one unit to the chapter rather than verse by verse — the Kebra Nagast among them — so a reference into those reaches a chapter. Where only part of a work is held, the name and the numbering say so rather than implying the whole: 3 Ezra begins at its eleventh chapter because its eleventh is where this text begins, and 2 Meqabyan is the first ten of its twenty-one. Word-level transliterations exist upstream and are not taken here. Nothing in this package is equated with a book of another canon except where the text itself is the same book. The provenance of each book, and the corrections made to three of them, are recorded in the project’s corpus register.",
    "rightsFlag": "cc-by-sa",
-   "rightsNote": "Text © Beta maṣāḥǝft (Hiob Ludolf Centre for Ethiopian Studies, Universität Hamburg), licensed CC BY-SA 4.0 — the licence is stated in their own TEI. Any derivative of this file carries the same licence.",
-   "citation": "Beta maṣāḥǝft: Manuscripts of Ethiopia and Eritrea. Hiob Ludolf Centre for Ethiopian Studies, Universität Hamburg. betamasaheft.eu. Text licensed CC BY-SA 4.0; verse arrangement after github.com/LPettay/ethiopian-bible, under the same licence."
+   "rightsNote": "Text © Beta maṣāḥǝft (Hiob Ludolf Centre for Ethiopian Studies, Universität Hamburg), licensed CC BY-SA 4.0 in their own TEI. Any derivative of this package carries the same licence. Two books carry a further restriction of their own: the Kebra Nagast and 4 Baruch come from the 1995 Library of Ethiopic Texts of Michal Jerabek, whose notice inside the same file reads “Permission to use, copy, and distribute this text, for any NONCOMMERCIAL purpose is hereby granted without fee… This text cannot be sold under any circumstances.” Wellspring is free and sells nothing, so it may hold them; anyone taking them onward is bound by that notice as well as by CC BY-SA.",
+   "citation": "Beta maṣāḥǝft: Manuscripts of Ethiopia and Eritrea. Hiob Ludolf Centre for Ethiopian Studies, Universität Hamburg. betamasaheft.eu — text licensed CC BY-SA 4.0 in their TEI. Taken here through the verse-keyed arrangement at github.com/LPettay/ethiopian-bible, which names the same source and carries no licence file of its own."
   },
   {
    "id": "hau",
@@ -828,7 +825,7 @@
     "name": "Sahidica — Sahidic Coptic New Testament",
     "date": "3rd–5th c. (texts); 2000–2006 (edition)"
    },
-   "editorialMarkers": "A standardised edition of the Sahidic New Testament meant for comparison with the Greek; the editor calls it a work in progress. Not for print or commercial use without permission.",
+   "editorialMarkers": "A standardised edition of the Sahidic New Testament meant for comparison with the Greek; the editor calls it a work in progress. Not for print or commercial use without permission. Where this witness does not carry a verse — Acts 8:37 and Mark 9:46 among them, verses absent from most early manuscripts — the edition marks the place rather than dropping the verse, and Wellspring writes every such mark the same way, as “[—]”, so that the gap is visible and the numbering stays true. That marker is the edition’s own and is reproduced here unchanged: it means the verse is not in this manuscript tradition, not that the text is unknown.",
    "rightsFlag": "free-electronic-only",
    "citation": "Wells, J. Warren, ed. Sahidica: A New Edition of the New Testament in Sahidic Coptic (2000–2006), as annotated by Coptic SCRIPTORIUM."
   },
@@ -898,7 +895,7 @@
     "name": "Sahidic Old Testament (CoptOT)",
     "date": "3rd–5th c. (texts); 2025 (corpus)"
    },
-   "editorialMarkers": "The Coptic Old Testament follows the Septuagint (Greek) order and wording; chapter and verse numbers are the corpus’s and may not match the Hebrew. Segmentation and tagging are automatic; Greek loanwords are marked by the corpus.",
+   "editorialMarkers": "The Coptic Old Testament follows the Septuagint (Greek) order and wording; chapter and verse numbers are the corpus’s and may not match the Hebrew. Segmentation and tagging are automatic; Greek loanwords are marked by the corpus. Where this witness does not carry a verse — Acts 8:37 and Mark 9:46 among them, verses absent from most early manuscripts — the edition marks the place rather than dropping the verse, and Wellspring writes every such mark the same way, as “[—]”, so that the gap is visible and the numbering stays true. That marker is the edition’s own and is reproduced here unchanged: it means the verse is not in this manuscript tradition, not that the text is unknown.",
    "rightsFlag": "cc-by-sa",
    "citation": "CoptOT: The Sahidic Old Testament. Coptic SCRIPTORIUM, KELLIA, version 6.1 (2025). CC BY-SA 4.0."
   },
