@@ -27,7 +27,7 @@
   "upstream": "https://archive.org/details/cu31924029905019",
   "ocr": "https://archive.org/download/cu31924029905019/cu31924029905019_djvu.txt",
   "sha256": "bfd0ed1e94729b2d35d2e97c5be28eee8a03e33baa24b513f9f96dda82b9c5f4",
-  "ingestedAt": "2026-09-26T15:22:57.041Z",
+  "ingestedAt": "2026-09-26T15:38:29.916Z",
   "method": "OCR text of the scan, conservatively cleaned (hyphenation, running headers, page numbers). The scan’s own damage is repaired through scripts/ingest/repair.mjs: the translator’s footnotes and the publisher’s catalogue, which are not the author’s text; words split by the gutter; and letters the scanner misread where the printed word is not in doubt — a token no lexicon knows with exactly one candidate. Anything ambiguous is left as scanned, and every repair is counted in this record.",
   "corrections": {
    "headings": 0,
