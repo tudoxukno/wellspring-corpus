@@ -39,7 +39,7 @@
   "upstream": "https://archive.org/details/kebranagast",
   "ocr": "https://archive.org/download/kebranagast/Kebra%20Nagast_djvu.txt",
   "sha256": "5b8909b04263d805bf62d1b08f764b3864fd007f1ea4d289d70748a05192ab7a",
-  "ingestedAt": "2026-09-26T14:03:16.713Z",
+  "ingestedAt": "2026-09-26T14:13:42.741Z",
   "method": "OCR text of the scan, conservatively cleaned (hyphenation, running headers, page numbers). The scan’s own damage is repaired through scripts/ingest/repair.mjs: the translator’s footnotes and the publisher’s catalogue, which are not the author’s text; words split by the gutter; and letters the scanner misread where the printed word is not in doubt — a token no lexicon knows with exactly one candidate. Anything ambiguous is left as scanned, and every repair is counted in this record.",
   "corrections": {
    "headings": 0,
