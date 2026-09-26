@@ -1,0 +1,80 @@
+{
+ "id": "src:jasher",
+ "type": "work",
+ "sourceType": "extra-biblical",
+ "sourceFamily": "extra-biblical",
+ "title": "Jasher",
+ "shortTitle": "Jasher",
+ "abbreviation": "Jasher",
+ "coverLine": "The 1840 translation · New York: Noah",
+ "language": "en",
+ "originalLanguage": "heb",
+ "witness": "Hebrew (Venice, 1625)",
+ "translation": {
+  "id": "jasher",
+  "name": "Jasher — the 1840 translation",
+  "abbreviation": "Jasher",
+  "language": "en",
+  "translator": "Attributed to Moses Samuel, unsigned in the edition",
+  "edition": "The Book of Jasher, referred to in Joshua and Second Samuel (New York: M. M. Noah & A. S. Gould, 1840)",
+  "date": "1840"
+ },
+ "rights": "public-domain",
+ "rightsFlag": "pd",
+ "rightsNote": "Published 1840; the Internet Archive records the scan as not in copyright.",
+ "transmission": "Joshua 10:13 and 2 Samuel 1:18 both name a book of Jasher and neither quotes it, so what that book contained is unknown. This is the 1840 English translation of the Hebrew Sefer haYashar printed at Venice in 1625, a retelling of Genesis and Exodus whose own preface claims the older book. The claim is recorded here, not endorsed: read it as what it is, a seventeenth-century Hebrew work in a nineteenth-century English dress.",
+ "editorialMarkers": "None. The 1840 setting carries no editorial apparatus in its text.",
+ "provenance": {
+  "upstream": "https://archive.org/details/thebookofjasherr00unknuoft",
+  "upstreamProject": "Internet Archive (djvu text layer)",
+  "ocrCheck": "0.03% of words in a 9,817-word sample carry a stray digit",
+  "headingsMisread": [
+   "chapter 11 is headed X",
+   "chapter 42 is headed XLI",
+   "chapter 52 is headed LIL",
+   "chapter 58 is headed LVIIL",
+   "chapter 62 is headed LXI"
+  ],
+  "versesMisnumbered": 184,
+  "falseVerseMarksRejected": 56,
+  "falseVerseMarkExamples": [
+   "3: \"23.\" after 23",
+   "6: \"6.\" after 17",
+   "7: \"33.\" after 33",
+   "11: \"30.\" after 37",
+   "14: \"16.\" after 26",
+   "19: \"11.\" after 19"
+  ],
+  "versesMisnumberedExamples": [
+   "2:11 is printed 1",
+   "6:12 is printed 2",
+   "8:23 is printed 3",
+   "8:24 is printed 4",
+   "8:25 is printed 5",
+   "8:26 is printed 6",
+   "8:27 is printed 7",
+   "8:28 is printed 8"
+  ],
+  "lineBreaksRejoined": "216 words the 1840 setting broke across a line are rejoined",
+  "footnoteMarkers": "209 asterisks removed; the edition’s footnotes are not carried"
+ },
+ "origin": "primary",
+ "fullTextAvailable": true,
+ "canonicalStatus": {
+  "ethiopianTewahedo": "not canonical",
+  "protestant": "not canonical",
+  "catholic": "not canonical",
+  "easternOrthodox": "not canonical",
+  "jewishTanakh": "not canonical"
+ },
+ "books": 1,
+ "chapters": 91,
+ "verses": 3847,
+ "citation": "The Book of Jasher, referred to in Joshua and Second Samuel. New York: M. M. Noah & A. S. Gould, 1840. Public domain. Internet Archive scan thebookofjasherr00unknuoft.",
+ "features": {
+  "strongs": false,
+  "footnotes": false,
+  "poetry": false,
+  "supplied": false
+ }
+}
