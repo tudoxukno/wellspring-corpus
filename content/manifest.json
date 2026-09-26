@@ -2453,6 +2453,8 @@
    "rights": "public-domain",
    "origin": "primary",
    "originalLanguage": "gez",
+   "witness": "Ethiopic",
+   "transmission": "The Ethiopic is the only complete surviving witness. Aramaic fragments were found at Qumran and portions survive in Greek, but the whole book comes down through the Ethiopian church, which kept it canonical when every other tradition let it go. Charles translated from that Ethiopic.",
    "features": {
     "strongs": false,
     "footnotes": false,
@@ -2538,6 +2540,8 @@
    "rights": "public-domain",
    "origin": "primary",
    "originalLanguage": "gez",
+   "witness": "Ethiopic",
+   "transmission": "The Ethiopic is the only complete surviving witness. Hebrew fragments were found at Qumran and portions survive in Greek, Latin and Syriac, but the whole book comes down through the Ethiopian church, which kept it canonical. Charles translated from that Ethiopic.",
    "features": {
     "strongs": false,
     "footnotes": false,
