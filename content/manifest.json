@@ -2362,9 +2362,10 @@
    "coverLine": "John A. Broadus · 1870",
    "corrections": {
     "headings": 5,
-    "words": 745,
+    "words": 609,
+    "notesRepaired": 36,
     "unitsDropped": {
-     "footnote": 98
+     "footnote": 22
     }
    },
    "books": 1,
@@ -2393,7 +2394,8 @@
    "coverLine": "Phillips Brooks · Yale · 1877",
    "corrections": {
     "headings": 2,
-    "words": 130,
+    "words": 127,
+    "notesRepaired": 0,
     "unitsDropped": {}
    },
    "books": 1,
@@ -2422,7 +2424,7 @@
    "coverLine": "Henry Callaway · 1868–70 · Zulu with English",
    "corrections": {
     "headings": 0,
-    "words": 948,
+    "words": 957,
     "unitsDropped": {}
    },
    "books": 1,
@@ -2451,7 +2453,7 @@
    "coverLine": "Héli Chatelain · 1894 · Kimbundu with English",
    "corrections": {
     "headings": 1,
-    "words": 334,
+    "words": 522,
     "unitsDropped": {}
    },
    "books": 1,
@@ -2645,7 +2647,7 @@
    "coverLine": "Henri A. Junod · Folk-Lore 19 · 1908",
    "corrections": {
     "headings": 0,
-    "words": 40,
+    "words": 52,
     "unitsDropped": {}
    },
    "books": 1,
@@ -2671,10 +2673,8 @@
    "originalLanguage": "gez",
    "corrections": {
     "headings": 0,
-    "words": 235,
-    "unitsDropped": {
-     "footnote": 1
-    }
+    "words": 250,
+    "unitsDropped": {}
    },
    "books": 1,
    "verses": 344,
@@ -3123,10 +3123,11 @@
    "coverLine": "C. D. Yonge’s translation · 1854–55",
    "corrections": {
     "headings": 20,
-    "words": 2794,
+    "words": 2965,
+    "notesRepaired": 39,
     "unitsDropped": {
-     "footnote": 500,
-     "catalogue": 47
+     "catalogue": 47,
+     "footnote": 1
     }
    },
    "books": 4,
@@ -3184,9 +3185,9 @@
    "coverLine": "C. H. Spurgeon · first series · 1875",
    "corrections": {
     "headings": 1,
-    "words": 396,
+    "words": 382,
+    "notesRepaired": 6,
     "unitsDropped": {
-     "footnote": 4,
      "catalogue": 13
     }
    },
@@ -3215,7 +3216,7 @@
    "coverLine": "Henry A. Stern · 1862",
    "corrections": {
     "headings": 0,
-    "words": 253,
+    "words": 349,
     "unitsDropped": {}
    },
    "books": 1,
@@ -3245,7 +3246,7 @@
    "originalLanguage": "xh",
    "corrections": {
     "headings": 0,
-    "words": 53,
+    "words": 55,
     "unitsDropped": {}
    },
    "books": 1,

@@ -27,15 +27,20 @@
  "method": "Internet Archive OCR text per volume; treatises open at a capitalised title block (“A TREATISE …”, “THE nth BOOK OF THE TREATISE …”); paragraphs by blank lines; page numbers, lone running heads and volume signatures dropped; hyphenation joined; the index and catalogue matter cut. The scan’s own damage is repaired: headings whose letters the scanner misread, the translator’s footnotes standing as paragraphs of the work, the publisher’s sales catalogue, and words split by the gutter. A letter is corrected only where the printed word is not in doubt — a token no lexicon knows with exactly one candidate; anything ambiguous is left as scanned.",
  "counts": {
   "volumes": 1,
-  "treatises": 14,
-  "units": 2193
+  "treatises": 12,
+  "units": 1349
  },
  "corrections": {
   "headings": 5,
-  "words": 745,
+  "words": 609,
+  "notesRepaired": 36,
   "unitsDropped": {
-   "footnote": 98
+   "footnote": 22
   }
+ },
+ "notes": {
+  "lifted": 317,
+  "attached": 298
  },
  "ingestedAt": "2026-09-26"
 }

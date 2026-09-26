@@ -31,11 +31,11 @@
   "upstream": "https://archive.org/details/wanderingsamong00stergoog",
   "ocr": "https://archive.org/download/wanderingsamong00stergoog/wanderingsamong00stergoog_djvu.txt",
   "sha256": "e514f3172f40ae83b293032489f1fe260dea13352317aace3c35ba279d41dbea",
-  "ingestedAt": "2026-09-26T15:38:29.023Z",
+  "ingestedAt": "2026-09-26T16:27:09.803Z",
   "method": "OCR text of the scan, conservatively cleaned (hyphenation, running headers, page numbers). The scan’s own damage is repaired through scripts/ingest/repair.mjs: the translator’s footnotes and the publisher’s catalogue, which are not the author’s text; words split by the gutter; and letters the scanner misread where the printed word is not in doubt — a token no lexicon knows with exactly one candidate. Anything ambiguous is left as scanned, and every repair is counted in this record.",
   "corrections": {
    "headings": 0,
-   "words": 253,
+   "words": 349,
    "unitsDropped": {}
   }
  },

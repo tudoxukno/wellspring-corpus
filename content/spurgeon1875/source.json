@@ -28,15 +28,19 @@
  "counts": {
   "volumes": 1,
   "treatises": 12,
-  "units": 844
+  "units": 600
  },
  "corrections": {
   "headings": 1,
-  "words": 396,
+  "words": 382,
+  "notesRepaired": 6,
   "unitsDropped": {
-   "footnote": 4,
    "catalogue": 13
   }
+ },
+ "notes": {
+  "lifted": 24,
+  "attached": 24
  },
  "ingestedAt": "2026-09-26"
 }
