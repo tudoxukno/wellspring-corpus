@@ -23,7 +23,7 @@
  "ocr": "https://archive.org/download/folktalesofangol00chat/folktalesofangol00chat_djvu.xml",
  "citation": "Chatelain, Héli. Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English Translation, Introduction, and Notes. Memoirs of the American Folk-Lore Society 1. Boston and New York: Houghton, Mifflin, 1894.",
  "editorialMarkers": "Fifty Mbundu tales dictated to Chatelain in Loanda and along the Kuanza, printed in Kimbundu with his literal English. The Kimbundu is the primary text; the English is deliberately literal. Chatelain’s notes name each tale’s informant.",
- "method": "Layout-aware OCR (DjVu XML word coordinates): tales open at a centred Roman numeral, first for the Kimbundu text and again for the English; paragraphs by indent and vertical gap, joined across pages when unterminated; Kimbundu and English paragraphs paired by order (tale I, printed interlinear, is split by the language of each line); endnotes “NO. n.” attach Chatelain’s informant note to the tale. Units with no English counterpart keep the Kimbundu as their text. OCR errors are not corrected.",
+ "method": "Layout-aware OCR (DjVu XML word coordinates): tales open at a centred Roman numeral, first for the Kimbundu text and again for the English; paragraphs by indent and vertical gap, joined across pages when unterminated; Kimbundu and English paragraphs paired by order (tale I, printed interlinear, is split by the language of each line); endnotes “NO. n.” attach Chatelain’s informant note to the tale. Units with no English counterpart keep the Kimbundu as their text. The scan’s own damage is repaired through scripts/ingest/repair.mjs: the translator’s footnotes and the publisher’s catalogue, which are not the author’s text; words split by the gutter; and letters the scanner misread where the printed word is not in doubt — a token no lexicon knows with exactly one candidate. Anything ambiguous is left as scanned, and every repair is counted in this record..",
  "counts": {
   "tales": 48,
   "units": 2138,
@@ -34,5 +34,10 @@
   "endnotes": 577,
   "taleNotes": 1
  },
- "ingestedAt": "2026-09-18"
+ "corrections": {
+  "headings": 1,
+  "words": 280,
+  "unitsDropped": {}
+ },
+ "ingestedAt": "2026-09-26"
 }

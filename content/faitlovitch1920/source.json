@@ -22,10 +22,15 @@
  "ocr": "https://archive.org/download/falashas00fa/falashas00fa_djvu.txt",
  "citation": "Faïtlovitch, Jacques. The Falashas. Philadelphia: Jewish Publication Society of America, 1920. Reprinted from the American Jewish Year Book 5681.",
  "editorialMarkers": "Faïtlovitch, who visited the Beta Israel from 1904 and founded schools for them, describes their villages, worship, priests and monks, festivals, purity laws and the missionary pressure of the period, and argues for Jewish solidarity with them. An advocate’s account; its claims about origins are his.",
- "method": "Internet Archive OCR text between the article’s start and end markers; running heads and page numbers dropped; hyphenation joined; paragraphs broken by a page turn rejoined when the next block starts lowercase. OCR errors are not corrected.",
+ "method": "Internet Archive OCR text between the article’s start and end markers; running heads and page numbers dropped; hyphenation joined; paragraphs broken by a page turn rejoined when the next block starts lowercase. The scan’s own damage is repaired through scripts/ingest/repair.mjs: the translator’s footnotes and the publisher’s catalogue, which are not the author’s text; words split by the gutter; and letters the scanner misread where the printed word is not in doubt — a token no lexicon knows with exactly one candidate. Anything ambiguous is left as scanned, and every repair is counted in this record..",
  "counts": {
   "units": 29,
   "chars": 37709
  },
- "ingestedAt": "2026-09-18"
+ "corrections": {
+  "headings": 0,
+  "words": 12,
+  "unitsDropped": {}
+ },
+ "ingestedAt": "2026-09-26"
 }

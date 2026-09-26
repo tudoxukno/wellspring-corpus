@@ -27,11 +27,19 @@
  ],
  "citation": "Philo Judaeus. The Works of Philo Judaeus, the Contemporary of Josephus. Tr. C. D. Yonge. 4 vols. London: Henry G. Bohn, 1854–55. Public domain; Internet Archive scans (Toronto).",
  "editorialMarkers": "Philo of Alexandria — the Jewish philosopher of Roman Egypt — in Yonge’s Victorian translation: allegorical commentary on Genesis and Exodus, the Life of Moses, the Special Laws and the historical treatises. Section numbers are Yonge’s; the translation predates the modern Loeb numbering.",
- "method": "Internet Archive OCR text per volume; treatises open at a capitalised title block (“A TREATISE …”, “THE nth BOOK OF THE TREATISE …”); paragraphs by blank lines; page numbers, lone running heads and volume signatures dropped; hyphenation joined; the index and catalogue matter cut. OCR errors are not corrected.",
+ "method": "Internet Archive OCR text per volume; treatises open at a capitalised title block (“A TREATISE …”, “THE nth BOOK OF THE TREATISE …”); paragraphs by blank lines; page numbers, lone running heads and volume signatures dropped; hyphenation joined; the index and catalogue matter cut. The scan’s own damage is repaired: headings whose letters the scanner misread, the translator’s footnotes standing as paragraphs of the work, the publisher’s sales catalogue, and words split by the gutter. A letter is corrected only where the printed word is not in doubt — a token no lexicon knows with exactly one candidate; anything ambiguous is left as scanned.",
  "counts": {
   "volumes": 4,
   "treatises": 50,
-  "units": 11051
+  "units": 10504
  },
- "ingestedAt": "2026-09-18"
+ "corrections": {
+  "headings": 14,
+  "words": 2726,
+  "unitsDropped": {
+   "footnote": 500,
+   "catalogue": 47
+  }
+ },
+ "ingestedAt": "2026-09-26"
 }

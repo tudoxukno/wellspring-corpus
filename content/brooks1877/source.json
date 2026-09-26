@@ -24,11 +24,16 @@
  ],
  "citation": "Brooks, Phillips. Lectures on Preaching, Delivered before the Divinity School of Yale College. New York: E. P. Dutton, 1877. Public domain; Internet Archive scan.",
  "editorialMarkers": "“Preaching is the bringing of truth through personality” — eight Yale lectures on the preacher rather than the outline. Episcopalian, Boston, 1877; read for the calling, not the method.",
- "method": "Internet Archive OCR text per volume; treatises open at a capitalised title block (“A TREATISE …”, “THE nth BOOK OF THE TREATISE …”); paragraphs by blank lines; page numbers, lone running heads and volume signatures dropped; hyphenation joined; the index and catalogue matter cut. OCR errors are not corrected.",
+ "method": "Internet Archive OCR text per volume; treatises open at a capitalised title block (“A TREATISE …”, “THE nth BOOK OF THE TREATISE …”); paragraphs by blank lines; page numbers, lone running heads and volume signatures dropped; hyphenation joined; the index and catalogue matter cut. The scan’s own damage is repaired: headings whose letters the scanner misread, the translator’s footnotes standing as paragraphs of the work, the publisher’s sales catalogue, and words split by the gutter. A letter is corrected only where the printed word is not in doubt — a token no lexicon knows with exactly one candidate; anything ambiguous is left as scanned.",
  "counts": {
   "volumes": 1,
   "treatises": 9,
   "units": 727
  },
- "ingestedAt": "2026-09-18"
+ "corrections": {
+  "headings": 0,
+  "words": 129,
+  "unitsDropped": {}
+ },
+ "ingestedAt": "2026-09-26"
 }

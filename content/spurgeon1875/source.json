@@ -24,11 +24,19 @@
  ],
  "citation": "Spurgeon, C. H. Lectures to My Students: A Selection from Addresses Delivered to the Students of the Pastors’ College, Metropolitan Tabernacle. First series. London: Passmore & Alabaster, 1875. Public domain; Internet Archive scan.",
  "editorialMarkers": "Spurgeon to his own students: the call, prayer, the voice, the choice of text, spiritualising, the ministry’s depressions. Plain, Baptist, London, 1875; the most-read English manual on the preacher’s life.",
- "method": "Internet Archive OCR text per volume; treatises open at a capitalised title block (“A TREATISE …”, “THE nth BOOK OF THE TREATISE …”); paragraphs by blank lines; page numbers, lone running heads and volume signatures dropped; hyphenation joined; the index and catalogue matter cut. OCR errors are not corrected.",
+ "method": "Internet Archive OCR text per volume; treatises open at a capitalised title block (“A TREATISE …”, “THE nth BOOK OF THE TREATISE …”); paragraphs by blank lines; page numbers, lone running heads and volume signatures dropped; hyphenation joined; the index and catalogue matter cut. The scan’s own damage is repaired: headings whose letters the scanner misread, the translator’s footnotes standing as paragraphs of the work, the publisher’s sales catalogue, and words split by the gutter. A letter is corrected only where the printed word is not in doubt — a token no lexicon knows with exactly one candidate; anything ambiguous is left as scanned.",
  "counts": {
   "volumes": 1,
   "treatises": 12,
-  "units": 861
+  "units": 844
  },
- "ingestedAt": "2026-09-18"
+ "corrections": {
+  "headings": 1,
+  "words": 254,
+  "unitsDropped": {
+   "footnote": 4,
+   "catalogue": 13
+  }
+ },
+ "ingestedAt": "2026-09-26"
 }

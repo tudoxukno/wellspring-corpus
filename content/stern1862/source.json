@@ -4,6 +4,8 @@
  "sourceType": "primary-account",
  "sourceFamily": "primary-account",
  "title": "Wanderings among the Falashas in Abyssinia",
+ "shortTitle": "Wanderings among the Falashas",
+ "coverLine": "Henry A. Stern · 1862",
  "abbreviation": "Stern 1862",
  "language": "en",
  "originalLanguage": "en",
@@ -29,12 +31,15 @@
   "upstream": "https://archive.org/details/wanderingsamong00stergoog",
   "ocr": "https://archive.org/download/wanderingsamong00stergoog/wanderingsamong00stergoog_djvu.txt",
   "sha256": "e514f3172f40ae83b293032489f1fe260dea13352317aace3c35ba279d41dbea",
-  "ingestedAt": "2026-09-18T12:01:03.109Z",
-  "method": "OCR text of the scan, conservatively cleaned (hyphenation, running headers, page numbers); no words supplied"
+  "ingestedAt": "2026-09-26T14:03:17.768Z",
+  "method": "OCR text of the scan, conservatively cleaned (hyphenation, running headers, page numbers). The scan’s own damage is repaired through scripts/ingest/repair.mjs: the translator’s footnotes and the publisher’s catalogue, which are not the author’s text; words split by the gutter; and letters the scanner misread where the printed word is not in doubt — a token no lexicon knows with exactly one candidate. Anything ambiguous is left as scanned, and every repair is counted in this record.",
+  "corrections": {
+   "headings": 0,
+   "words": 253,
+   "unitsDropped": {}
+  }
  },
  "origin": "primary",
  "books": 1,
- "verses": 271,
- "shortTitle": "Wanderings among the Falashas",
- "coverLine": "Henry A. Stern · 1862"
+ "verses": 271
 }

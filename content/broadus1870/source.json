@@ -24,11 +24,18 @@
  ],
  "citation": "Broadus, John A. A Treatise on the Preparation and Delivery of Sermons. Philadelphia: Smith, English & Co., 1870. Public domain; Internet Archive scan.",
  "editorialMarkers": "The standard nineteenth-century American manual: the text and its interpretation, materials and arrangement (the three-point outline lives here), style, and delivery. Baptist, Southern, and of its era in every opinion; its method is still the skeleton of most Western preaching.",
- "method": "Internet Archive OCR text per volume; treatises open at a capitalised title block (“A TREATISE …”, “THE nth BOOK OF THE TREATISE …”); paragraphs by blank lines; page numbers, lone running heads and volume signatures dropped; hyphenation joined; the index and catalogue matter cut. OCR errors are not corrected.",
+ "method": "Internet Archive OCR text per volume; treatises open at a capitalised title block (“A TREATISE …”, “THE nth BOOK OF THE TREATISE …”); paragraphs by blank lines; page numbers, lone running heads and volume signatures dropped; hyphenation joined; the index and catalogue matter cut. The scan’s own damage is repaired: headings whose letters the scanner misread, the translator’s footnotes standing as paragraphs of the work, the publisher’s sales catalogue, and words split by the gutter. A letter is corrected only where the printed word is not in doubt — a token no lexicon knows with exactly one candidate; anything ambiguous is left as scanned.",
  "counts": {
   "volumes": 1,
   "treatises": 14,
-  "units": 2291
+  "units": 2193
  },
- "ingestedAt": "2026-09-18"
+ "corrections": {
+  "headings": 1,
+  "words": 736,
+  "unitsDropped": {
+   "footnote": 98
+  }
+ },
+ "ingestedAt": "2026-09-26"
 }

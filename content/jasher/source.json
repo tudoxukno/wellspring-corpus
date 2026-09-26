@@ -35,25 +35,25 @@
    "chapter 58 is headed LVIIL",
    "chapter 62 is headed LXI"
   ],
-  "versesMisnumbered": 184,
-  "falseVerseMarksRejected": 56,
+  "versesMisnumbered": 88,
+  "falseVerseMarksRejected": 22,
   "falseVerseMarkExamples": [
    "3: \"23.\" after 23",
-   "6: \"6.\" after 17",
    "7: \"33.\" after 33",
    "11: \"30.\" after 37",
    "14: \"16.\" after 26",
-   "19: \"11.\" after 19"
+   "19: \"11.\" after 19",
+   "19: \"12.\" after 19"
   ],
   "versesMisnumberedExamples": [
    "2:11 is printed 1",
    "6:12 is printed 2",
-   "8:23 is printed 3",
-   "8:24 is printed 4",
-   "8:25 is printed 5",
-   "8:26 is printed 6",
-   "8:27 is printed 7",
-   "8:28 is printed 8"
+   "8:11 is printed 1",
+   "8:12 is printed 2",
+   "8:14 is printed 4",
+   "9:11 is printed 1",
+   "9:17 is printed 7",
+   "10:11 is printed 1"
   ],
   "lineBreaksRejoined": "216 words the 1840 setting broke across a line are rejoined",
   "footnoteMarkers": "209 asterisks removed; the edition’s footnotes are not carried"
@@ -69,7 +69,12 @@
  },
  "books": 1,
  "chapters": 91,
- "verses": 3847,
+ "verses": 3867,
+ "corrections": {
+  "headings": 0,
+  "words": 281,
+  "unitsDropped": {}
+ },
  "citation": "The Book of Jasher, referred to in Joshua and Second Samuel. New York: M. M. Noah & A. S. Gould, 1840. Public domain. Internet Archive scan thebookofjasherr00unknuoft.",
  "features": {
   "strongs": false,

@@ -22,10 +22,15 @@
  "ocr": "https://archive.org/download/in.gov.ignca.31347/31347_djvu.txt",
  "citation": "Junod, Henri A. “The Balemba of the Zoutpansberg (Transvaal).” Folk-Lore 19, no. 3 (1908): 276–287.",
  "editorialMarkers": "A Swiss missionary-ethnographer’s field report on the Lemba (Balemba) among the Venda and Tsonga: their separateness, crafts, food and slaughter rules, circumcision, and the “Semitic” comparison he draws. A primary account of its time; its racial vocabulary and comparisons are the author’s.",
- "method": "Internet Archive OCR text between the article’s start and end markers; running heads and page numbers dropped; hyphenation joined; paragraphs broken by a page turn rejoined when the next block starts lowercase. OCR errors are not corrected.",
+ "method": "Internet Archive OCR text between the article’s start and end markers; running heads and page numbers dropped; hyphenation joined; paragraphs broken by a page turn rejoined when the next block starts lowercase. The scan’s own damage is repaired through scripts/ingest/repair.mjs: the translator’s footnotes and the publisher’s catalogue, which are not the author’s text; words split by the gutter; and letters the scanner misread where the printed word is not in doubt — a token no lexicon knows with exactly one candidate. Anything ambiguous is left as scanned, and every repair is counted in this record..",
  "counts": {
   "units": 56,
   "chars": 21388
  },
- "ingestedAt": "2026-09-18"
+ "corrections": {
+  "headings": 0,
+  "words": 40,
+  "unitsDropped": {}
+ },
+ "ingestedAt": "2026-09-26"
 }

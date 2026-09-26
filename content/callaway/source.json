@@ -23,7 +23,7 @@
  "ocr": "https://archive.org/download/relamazulu00calluoft/relamazulu00calluoft_djvu.xml",
  "citation": "Callaway, Henry. The Religious System of the Amazulu. Springvale, Natal: John A. Blair; London: Trübner, 1868–70. Reprinted for the Folk-Lore Society, 1884.",
  "editorialMarkers": "A missionary’s collection of accounts dictated by named Zulu narrators, printed with Callaway’s English facing the Zulu. The Zulu is the primary text; the English is Callaway’s translation and carries his footnotes. Narrators’ names follow their accounts as printed.",
- "method": "Layout-aware OCR (DjVu XML word coordinates): running heads set the parts; lines split into left column, right column and full width by position; paragraphs by indent and vertical gap; Zulu paragraphs paired with the facing English by vertical position; narrators’ centred names attach to the preceding accounts; numbered full-width lines at the foot are footnotes attached to the verse carrying the number; paragraphs continue across pages when the previous does not end in terminal punctuation. OCR errors are not corrected.",
+ "method": "Layout-aware OCR (DjVu XML word coordinates): running heads set the parts; lines split into left column, right column and full width by position; paragraphs by indent and vertical gap; Zulu paragraphs paired with the facing English by vertical position; narrators’ centred names attach to the preceding accounts; numbered full-width lines at the foot are footnotes attached to the verse carrying the number; paragraphs continue across pages when the previous does not end in terminal punctuation. The scan’s own damage is repaired through scripts/ingest/repair.mjs: the translator’s footnotes and the publisher’s catalogue, which are not the author’s text; words split by the gutter; and letters the scanner misread where the printed word is not in doubt — a token no lexicon knows with exactly one candidate. Anything ambiguous is left as scanned, and every repair is counted in this record..",
  "counts": {
   "parts": 9,
   "units": 1733,
@@ -32,5 +32,10 @@
   "footnotes": 417,
   "pagesMergedAcross": 286
  },
- "ingestedAt": "2026-09-18"
+ "corrections": {
+  "headings": 0,
+  "words": 572,
+  "unitsDropped": {}
+ },
+ "ingestedAt": "2026-09-26"
 }
