@@ -1,0 +1,47 @@
+{
+ "id": "src:tsn",
+ "type": "scripture",
+ "sourceType": "scripture",
+ "sourceFamily": "biblical",
+ "title": "Setswana New Testament (Biblica)",
+ "abbreviation": "TSN",
+ "language": "tn",
+ "languageName": "Setswana",
+ "script": "Latn",
+ "direction": "ltr",
+ "witness": null,
+ "translation": {
+  "id": "tsn",
+  "name": "Setswana New Testament (Biblica)",
+  "abbreviation": "TSN",
+  "language": "tn",
+  "translator": "Biblica",
+  "edition": "Lefoko: La Botshelo Kgolagano e Ntsha",
+  "date": "1993",
+  "publisher": "Biblica, Inc."
+ },
+ "rights": "CC-BY-SA-4.0",
+ "rightsNote": "CC-BY-SA-4.0 per the eBible.org package copyright page; attribute Biblica, Inc..",
+ "canonicalStatus": {
+  "protestant": "New Testament only (27); no Setswana Old Testament has been released under this licence"
+ },
+ "provenance": {
+  "upstream": "https://ebible.org/Scriptures/tsn_usfm.zip",
+  "upstreamProject": "eBible.org (Haiola USFM export)",
+  "fetchedAt": "2026-09-27",
+  "sha256": "07a46213ac44ac58503347247bfe1e2a0414c2c6a8bd956b9d4f2e8ac2ac37fa",
+  "license": "Biblica® Open Lefoko: La Botshelo Kgolagano e Ntsha\n^\nBiblica® Open Lefoko: La Botshelo Kgolagano e Ntsha\nBiblica® Open Lefoko: La Botshelo Kgolagano e Ntsha\nThe Living New Testament in the Tswana language of Botswana: Biblica® Open Lefoko: La Botshelo Kgolagano e Ntsha\ncopyright © 1993 Biblica, Inc.\nLanguage: Tswana (Setswana)\nContributor: Biblica, Inc.\nBiblica® Open Tswana Living New Testament™\nBiblica® Open Lefoko: La Botshelo Kgolagano e Ntsha™\nCopyright © 1993 by Biblica, Inc.\n“Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.\n――――――\nThis work is made available under the Creative Commons Attribution-ShareAlike 4‪.0 International License (CC BY-SA). To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4‪.0 or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\nBiblica® is a trademark registered by Biblica, Inc., and use of the Biblica® trademark requires the written permission of Biblica, Inc. Under the terms of the CC BY-SA license, you may copy and redistribute this unmodified work as long as you keep the Biblica® trademark intact. If you modify a copy or translate this work, thereby creating a derivative work, you must remove the Biblica® trademark. On the derivative work, you must indicate what changes you have made and attribute the work as follows: “The original work by Biblica, Inc. is available for free at www.biblica.com and open.bible.”\n‪\nNotice of copyright must appear on the title or copyright page of the work as follows:\nBiblica® Open Tswana Living New Testament™\nBiblica® Open Lefoko: La Botshelo Kgolagano e Ntsha™\nCopyright © 1993 by Biblica, Inc.\n“Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.\nYou must also make your derivative work available under the same license (CC BY-SA).\n‪If you would like to notify Biblica, Inc. regarding your translation of this work, please contact us at https://open.bible/contact-us.\nThis translation is made available to you under the terms of the\nCreative Commons Attribution Share-Alike license 4.0.\nYou have permission to share and redistribute this Bible translation in any format and to make reasonable revisions and adaptations of this translation, provided that:\nYou include the above copyright and source information.\nIf you make any changes to the text, you must indicate that you did so in a way that makes it clear that the original licensor is not necessarily endorsing your changes.\nIf you redistribute this text, you must distribute your contributions under the same license as the original.\nPictures included with Scriptures and other documents on this site are licensed just for use with those Scriptures and documents.\nFor other uses, please contact the respective copyright owners.\nNote that in addition to the rules above, revising and adapting God's Word involves a great responsibility to be true to God's Word. See Revelation 22:18-19.\n2025-05-21\nHTML generated with Haiola by eBible.org 8 Aug 2026 from source files dated 21 May 2025\n^\n© 1993 Biblica"
+ },
+ "origin": "primary",
+ "fullTextAvailable": true,
+ "books": 27,
+ "verses": 7586,
+ "citation": "Lefoko: La Botshelo Kgolagano e Ntsha. © Biblica, Inc. CC BY-SA 4.0.",
+ "features": {
+  "strongs": false,
+  "footnotes": true,
+  "poetry": true,
+  "supplied": true,
+  "redLetter": false
+ }
+}

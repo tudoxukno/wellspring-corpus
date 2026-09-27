@@ -1,0 +1,47 @@
+{
+ "id": "src:ewe",
+ "type": "scripture",
+ "sourceType": "scripture",
+ "sourceFamily": "biblical",
+ "title": "Eʋegbe Bible (Biblica)",
+ "abbreviation": "EWE",
+ "language": "ee",
+ "languageName": "Eʋegbe",
+ "script": "Latn",
+ "direction": "ltr",
+ "witness": null,
+ "translation": {
+  "id": "ewe",
+  "name": "Eʋegbe Bible (Biblica)",
+  "abbreviation": "EWE",
+  "language": "ee",
+  "translator": "Biblica",
+  "edition": "Agbenya La",
+  "date": "1988–2020",
+  "publisher": "Biblica, Inc."
+ },
+ "rights": "CC-BY-SA-4.0",
+ "rightsNote": "CC-BY-SA-4.0 per the eBible.org package copyright page; attribute Biblica, Inc..",
+ "canonicalStatus": {
+  "protestant": "canonical (66)"
+ },
+ "provenance": {
+  "upstream": "https://ebible.org/Scriptures/ewe_usfm.zip",
+  "upstreamProject": "eBible.org (Haiola USFM export)",
+  "fetchedAt": "2026-09-27",
+  "sha256": "12ce261dacbfbc2ef66b44b7bd3c0c27b0afb4e729e488929b1ec73cf68e97e8",
+  "license": "Biblica® Se aɖeke mebla Biblia zazã o Agbenya La™\n^\nBiblica® Se aɖeke mebla Biblia zazã o Agbenya La™\nBiblica® Se aɖeke mebla Biblia zazã o Agbenya La™\nÉwé: Biblica® Se aɖeke mebla Biblia zazã o Agbenya La™ (Bible) of Ghana\ncopyright © 1988, 2006, 2020 Biblica, Inc.\nLanguage: eʋegbe\nContributor: Biblica, Inc.\nDɔwɔƒe si na wò asi ka agbalẽ sia lae nye Creative Commons Attribution-ShareAlike 4‪.0 International License (CC BY-SA). Ne èdi be yeakpɔ laisensi alo mɔɖegbalẽ sia la, yi ɖe http://creativecommons.org/licenses/by-sa/4‪.0 alo ŋlɔ agbalẽ na Creative Commons Dɔwɔƒea to adrɛsi sia dzi: Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\nBiblica, Inc. na wode Biblica® kple eƒe dzesidenu agbalẽ me, eye woaŋlɔ agbalẽ axɔ mɔɖeɖe tso Biblica, Inc. gbɔ hafi woawɔ Biblica® ƒe dzesidenu la ŋu dɔ. Le CC BY-SA ƒe mɔɖeɖe ƒe sewo nu la, àte ŋu azã agbalẽ sia me nyawo le dɔ bubuwo wɔwɔ me gake ele be nàde dzesi Biblica ƒe dzesidenu la abe ale si wòle ene. Ne ètrɔ asi le agbalẽ sia ŋu alo zãe le mɔ bubu nu la, ele be nàɖe Biblica® ƒe dzesidenu la ɖa. Ele be nàde dzesi tɔtrɔ siwo nèwɔ la ɖe agbalẽ la me eye nàde dzesii be: “Àte ŋu akpɔ Biblica, Inc. ƒe dɔ gbãtɔ le www.biblica.com kple open.bible femaxee.”\nEle be nutɔnyenye ƒe dzeside nadze le agbalẽ la ƒe axa si tanya alo nutɔnyenye ƒe dzesi nɔna la ale:\nBiblica® Se aɖeke mebla Biblia zazã o Agbenya La™\nNutɔnyenye © 1988, 2006, 2020 Biblica, Inc.\nBiblica® Open Ewe Contemporary Scriptures™\nCopyright © 1988, 2006, 2020 by Biblica, Inc.\nBiblica, Inc. na Dɔwɔƒe si Kpɔa Nutɔnyenye kple Adzɔdodo ƒe Nyawo dzi le Amerika la de “Biblica” kple eƒe dzesidenu agbalẽ me. Woaxɔ mɔɖeɖe na ezazã.\n“Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.\nEle be nàna míaƒe asi naka wò agbalẽ la le laisensi alo mɔɖeɖe ƒe se (CC BY-SA) sia nu.\nNe èdi be yeana nyanya Biblica, Inc. tso agbalẽ sia zazã ŋu la, anyo be nàdo ta ɖe mía gbɔ le https://open.bible/contact-us.\nThis work is made available under the Creative Commons Attribution-ShareAlike 4‪.0 International License (CC BY-SA). To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4‪.0 or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\nBiblica® is a trademark registered by Biblica, Inc., and use of the Biblica® trademark requires the written permission of Biblica, Inc. Under the terms of the CC BY-SA license, you may copy and redistribute this unmodified work as long as you keep the Biblica® trademark intact. If you modify a copy or translate this work, thereby creating a derivative work, you must remove the Biblica® trademark. On the derivative work, you must indicate what changes you have made and attribute the work as follows: “The original work by Biblica, Inc. is available for free at www.biblica.com and open.bible.”\nNotice of copyright must appear on the title or copyright page of the work as follows:\nBiblica® Se aɖeke mebla Biblia zazã o Agbenya La™\nNutɔnyenye © 1988, 2006, 2020 Biblica, Inc.\nBiblica® Open Ewe Contemporary Scriptures™\nCopyright © 1988, 2006, 2020 by Biblica, Inc.\nBiblica, Inc. na Dɔwɔƒe si Kpɔa Nutɔnyenye kple Adzɔdodo ƒe Nyawo dzi le Amerika la de “Biblica” kple eƒe dzesidenu agbalẽ me. Woaxɔ mɔɖeɖe na ezazã.\n“Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.\nYou must also make your derivative work available under the same license (CC BY-SA).\n‪If you would like to notify Biblica, Inc. regarding your translation of this work, please contact us at https://open.bible/contact-us.\nThis translation is made available to you under the terms of the\nCreative Commons Attribution Share-Alike license 4.0.\nYou have permission to share and redistribute this Bible translation in any format and to make reasonable revisions and adaptations of this translation, provided that:\nYou include the above copyright and source information.\nIf you make any changes to the text, you must indicate that you did so in a way that makes it clear that the original licensor is not necessarily endorsing your changes.\nIf you redistribute this text, you must distribute your contributions under the same license as the original.\nPictures included with Scriptures and other documents on this site are licensed just for use with those Scriptures and documents.\nFor other uses, please contact the respective copyright owners.\nNote that in addition to the rules above, revising and adapting God's Word involves a great responsibility to be true to God's Word. See Revelation 22:18-19.\n2025-05-01\nHTML generated with Haiola by eBible.org 8 Aug 2026 from source files dated 1 May 2025\n^\n© 1988, 2006, 2020 Biblica"
+ },
+ "origin": "primary",
+ "fullTextAvailable": true,
+ "books": 66,
+ "verses": 31103,
+ "citation": "Agbenya La. © Biblica, Inc. CC BY-SA 4.0.",
+ "features": {
+  "strongs": false,
+  "footnotes": true,
+  "poetry": true,
+  "supplied": true,
+  "redLetter": false
+ }
+}

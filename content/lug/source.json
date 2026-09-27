@@ -1,0 +1,47 @@
+{
+ "id": "src:lug",
+ "type": "scripture",
+ "sourceType": "scripture",
+ "sourceFamily": "biblical",
+ "title": "Luganda Bible (Biblica)",
+ "abbreviation": "LUG",
+ "language": "lg",
+ "languageName": "Luganda",
+ "script": "Latn",
+ "direction": "ltr",
+ "witness": null,
+ "translation": {
+  "id": "lug",
+  "name": "Luganda Bible (Biblica)",
+  "abbreviation": "LUG",
+  "language": "lg",
+  "translator": "Biblica",
+  "edition": "Bayibuli Entukuvu, Endagaano Enkadde nʼEndagaano Empya",
+  "date": "1984–2014",
+  "publisher": "Biblica, Inc."
+ },
+ "rights": "CC-BY-SA-4.0",
+ "rightsNote": "CC-BY-SA-4.0 per the eBible.org package copyright page; attribute Biblica, Inc..",
+ "canonicalStatus": {
+  "protestant": "canonical (66)"
+ },
+ "provenance": {
+  "upstream": "https://ebible.org/Scriptures/lug_usfm.zip",
+  "upstreamProject": "eBible.org (Haiola USFM export)",
+  "fetchedAt": "2026-09-27",
+  "sha256": "2a79761883e06f68a867eed19eb6bd6997c5e659492c467384748434c77fd423",
+  "license": "Biblica® Bayibuli Entukuvu, Endagaano Enkadde nʼEndagaano Empya ekwatiddwa ku katambi™\n^\nBiblica® Bayibuli Entukuvu, Endagaano Enkadde nʼEndagaano Empya ekwatiddwa ku katambi™\nBiblica® Bayibuli Entukuvu, Endagaano Enkadde nʼEndagaano Empya ekwatiddwa ku katambi™\nGanda: Biblica® Bayibuli Entukuvu, Endagaano Enkadde nʼEndagaano Empya ekwatiddwa ku katambi™ (Bible) of Uganda\ncopyright © 1984, 1986, 1993, 2014 Biblica, Inc.\nLanguage: Luganda\nContributor: Biblica, Inc.\nOmulimu guno gusaasaanyizibwa ekitongole ekiyitibwa Attributions-Share Alike 4.0 nga bakozesa Layisinsi (CC BY-SA). Okulaba Layisinsi, genda ku mukutu: http://creativecommons.org/licenses/by-sa/4‪.0 oba weereza ebbaluwa eri Creative Commons, P. O. Box 1866, Mountain View, CA 94042, USA.\nBiblica ® linnya ery’obwannannyini eryawandiisibwa Biblica, Inc, okukozesa erinnya Biblica ® omuntu alina okusaba olukusa okuva eri Biblica, Inc. Ng’ogoberera ebiragiro bya Layisinsi CC BY-SA, oyinza okukubisaamu n’osaasaanya omulimu nga togukyusizzakyusizza kasita oba nga teweetantadde kukyusa linnya lya Biblica ®. Nga waliwo omulimu gw’osimbuddemu okukozesa, olina okulaga enkyukakyuka zookoze era omulimu ogwo gwogereko bwoti: “Omulimu gwa Biblica, Inc ogwasookera ddala osobola okugufuna ate nga gwa bwereere ku www.biblica.com ne open.bible.”\nEkirango ky’obwannannyini kirina okulagibwa ku mutwe oba olupapula lw’omulimu olubeerako obwannannyini bwe buti:\nBiblica® Bayibuli Entukuvu, Endagaano Enkadde nʼEndagaano Empya ekwatiddwa ku katambi™\nObwannannyini© 1984, 1986, 1993, 2014 bwa Biblica, Inc.\nBiblica® Open Luganda Contemporary Bible™\nCopyright © 1984, 1986, 1993, 2014 by Biblica, Inc.\n“Biblica” Linnya ery’obwannannyini eryawandiisibwa Biblica mu Amerika era nga balina n’ekkakkalabozo, Inc. Bwaweebwa olukusa okulikozesa.\n“Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.\nNaawe omulimu gw’osimbudde mu gwa Biblica olina okugusaasaanya ng’okozesa layisinsi yeemu (CC BY-SA).\nBwoba oyagala okutegeeza Biblica, Inc ku mulimu gwabwe gw’ovvuunudde, tusaba otusange ku mukutu https://open.bible/contact-us.\nThis work is made available under the Creative Commons Attribution-ShareAlike 4‪.0 International License (CC BY-SA). To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4‪.0 or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\nBiblica® is a trademark registered by Biblica, Inc., and use of the Biblica® trademark requires the written permission of Biblica, Inc. Under the terms of the CC BY-SA license, you may copy and redistribute this unmodified work as long as you keep the Biblica® trademark intact. If you modify a copy or translate this work, thereby creating a derivative work, you must remove the Biblica® trademark. On the derivative work, you must indicate what changes you have made and attribute the work as follows: “The original work by Biblica, Inc. is available for free at www.biblica.com and open.bible.”\nNotice of copyright must appear on the title or copyright page of the work as follows:\nBiblica® Bayibuli Entukuvu, Endagaano Enkadde nʼEndagaano Empya ekwatiddwa ku katambi™\nObwannannyini© 1984, 1986, 1993, 2014 bwa Biblica, Inc.\nBiblica® Open Luganda Contemporary Bible™\nCopyright © 1984, 1986, 1993, 2014 by Biblica, Inc.\n“Biblica” Linnya ery’obwannannyini eryawandiisibwa Biblica mu Amerika era nga balina n’ekkakkalabozo, Inc. Bwaweebwa olukusa okulikozesa.\n“Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.\nYou must also make your derivative work available under the same license (CC BY-SA).\n‪If you would like to notify Biblica, Inc. regarding your translation of this work, please contact us at https://open.bible/contact-us.\nThis translation is made available to you under the terms of the\nCreative Commons Attribution Share-Alike license 4.0.\nYou have permission to share and redistribute this Bible translation in any format and to make reasonable revisions and adaptations of this translation, provided that:\nYou include the above copyright and source information.\nIf you make any changes to the text, you must indicate that you did so in a way that makes it clear that the original licensor is not necessarily endorsing your changes.\nIf you redistribute this text, you must distribute your contributions under the same license as the original.\nPictures included with Scriptures and other documents on this site are licensed just for use with those Scriptures and documents.\nFor other uses, please contact the respective copyright owners.\nNote that in addition to the rules above, revising and adapting God's Word involves a great responsibility to be true to God's Word. See Revelation 22:18-19.\n2025-05-10\nHTML generated with Haiola by eBible.org 8 Aug 2026 from source files dated 10 May 2025\n^\n© 1984, 1986, 1993, 2014 Biblica"
+ },
+ "origin": "primary",
+ "fullTextAvailable": true,
+ "books": 66,
+ "verses": 31104,
+ "citation": "Bayibuli Entukuvu. © Biblica, Inc. CC BY-SA 4.0.",
+ "features": {
+  "strongs": false,
+  "footnotes": true,
+  "poetry": true,
+  "supplied": true,
+  "redLetter": false
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "id": "src:kik",
+ "type": "scripture",
+ "sourceType": "scripture",
+ "sourceFamily": "biblical",
+ "title": "Gĩkũyũ Bible (Biblica)",
+ "abbreviation": "KIK",
+ "language": "ki",
+ "languageName": "Gĩkũyũ",
+ "script": "Latn",
+ "direction": "ltr",
+ "witness": null,
+ "translation": {
+  "id": "kik",
+  "name": "Gĩkũyũ Bible (Biblica)",
+  "abbreviation": "KIK",
+  "language": "ki",
+  "translator": "Biblica",
+  "edition": "Kiugo Gĩtheru Kĩa Ngai",
+  "date": "2013",
+  "publisher": "Biblica, Inc."
+ },
+ "rights": "CC-BY-SA-4.0",
+ "rightsNote": "CC-BY-SA-4.0 per the eBible.org package copyright page; attribute Biblica, Inc..",
+ "canonicalStatus": {
+  "protestant": "canonical (66)"
+ },
+ "provenance": {
+  "upstream": "https://ebible.org/Scriptures/kik_usfm.zip",
+  "upstreamProject": "eBible.org (Haiola USFM export)",
+  "fetchedAt": "2026-09-27",
+  "sha256": "6f709571e023afdcb649fa57567f98feaa10111130856f1a7f294fefadb62351",
+  "license": "Biblica® Kiugo Gĩtheru Kĩa Ngai Kĩhingũre\n^\nBiblica® Kiugo Gĩtheru Kĩa Ngai Kĩhingũre\nBiblica® Kiugo Gĩtheru Kĩa Ngai Kĩhingũre\nGikuyu: Biblica® Kiugo Gĩtheru Kĩa Ngai Kĩhingũre (Bible) of Kenya\ncopyright © 2013 Biblica, Inc.\nLanguage: Kikuyu (Gikuyu)\nContributor: Biblica, Inc.\nWĩra ũyũ ũheanĩtwo na ũndũ wa rũtha rwa biacara rwa Creative Commons Attribution-ShareAlike 4‪.0 International License (CC BY-SA). Ũngĩenda kuona kobĩ ya rũtha rũrũ rwa biacara, rora rũrenda-inĩ rwa: http://creativecommons.org/licenses/by-sa/4‪.0, kana ũtũme marũa kũrĩ: Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\nBiblica® nĩ mũhũri wa biacara wandĩkithĩtio nĩ Biblica, Inc., kũhũthĩra mũhũri wa biacara wa Biblica® kũbataraga marũa ma gwĩtĩkĩrio kuuma kũrĩ Biblica, Inc. Kuumana na rũtha rwa biacara rwa CC BY-SA, no ũkobie kana ũtambie wĩra ũyũ ũtarĩ mũgarũre, ĩndĩ ndũkagarũre rũri rwa biacara rwa Biblica®. Ũngĩgarũra kana ũkobie wĩra ũyũ, na tondũ wa ũguo ũtuĩke nĩ wĩra mwerũ uumanĩte na ũcio-rĩ, no nginya weheria mũhũri wa biacara wa Biblica®. Wĩra-inĩ ũcio mwerũ no nginya wonanie nĩ maũndũ marĩkũ ũgarũrĩte, na ũtarĩrie wĩra-inĩ ũcio ta ũũ: “Wĩra wa kĩhumo warĩ wa Biblica, Inc. na ũheanĩtwo tũhũ ng’enda-inĩ cia www.biblica.com na open.bible.”\nKĩmenyitha kia Mwene-wĩra no nginya kĩandĩkwo iratathi rĩa kĩongo kĩa wĩra kana rĩa ũhoro wa Mwene-wĩra ta ũũ:\nBiblica® Kiugo Gĩtheru Kĩa Ngai Kĩhingũre™\nKĩmenyithia kĩa Mwene-wĩra © 2013 nĩ Biblica, Inc.\nBiblica® Open Kikuyu Holy Word of God™\nCopyright © 2013 by Biblica, Inc.\n“Biblica” nĩ mũhũri wa biacara wandĩkithĩtio wabici-inĩ ya United States Patent and Trademark Office nĩ Biblica, Inc. Ũhũthĩrĩtwo na rũtha.\n“Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.\nNo nginya wĩtĩkĩrie wĩra ũcio mwerũ ũgarũrĩte ũheanwo na ũndũ wa rũtha rwa biacara rũu rwa CC BY-SA.\nŨngĩenda kũmenyithia Biblica, Inc. ũhoro wĩgiĩ ũtaũri waku wa wĩra ũyũ-rĩ, twandĩkĩre rũrenda-inĩ rwa: https://open.bible/contact-us.\nThis work is made available under the Creative Commons Attribution-ShareAlike 4‪.0 International License (CC BY-SA). To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4‪.0 or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\nBiblica® is a trademark registered by Biblica, Inc., and use of the Biblica® trademark requires the written permission of Biblica, Inc. Under the terms of the CC BY-SA license, you may copy and redistribute this unmodified work as long as you keep the Biblica® trademark intact. If you modify a copy or translate this work, thereby creating a derivative work, you must remove the Biblica® trademark. On the derivative work, you must indicate what changes you have made and attribute the work as follows: “The original work by Biblica, Inc. is available for free at www.biblica.com and open.bible.”\nNotice of copyright must appear on the title or copyright page of the work as follows:\nBiblica® Kiugo Gĩtheru Kĩa Ngai Kĩhingũre™\nKĩmenyithia kĩa Mwene-wĩra © 2013 nĩ Biblica, Inc.\nBiblica® Open Kikuyu Holy Word of God™\nCopyright © 2013 by Biblica, Inc.\n“Biblica” nĩ mũhũri wa biacara wandĩkithĩtio wabici-inĩ ya United States Patent and Trademark Office nĩ Biblica, Inc. Ũhũthĩrĩtwo na rũtha.\n“Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.\nYou must also make your derivative work available under the same license (CC BY-SA).\n‪If you would like to notify Biblica, Inc. regarding your translation of this work, please contact us at https://open.bible/contact-us.\nThis translation is made available to you under the terms of the\nCreative Commons Attribution Share-Alike license 4.0.\nYou have permission to share and redistribute this Bible translation in any format and to make reasonable revisions and adaptations of this translation, provided that:\nYou include the above copyright and source information.\nIf you make any changes to the text, you must indicate that you did so in a way that makes it clear that the original licensor is not necessarily endorsing your changes.\nIf you redistribute this text, you must distribute your contributions under the same license as the original.\nPictures included with Scriptures and other documents on this site are licensed just for use with those Scriptures and documents.\nFor other uses, please contact the respective copyright owners.\nNote that in addition to the rules above, revising and adapting God's Word involves a great responsibility to be true to God's Word. See Revelation 22:18-19.\n2025-05-07\nHTML generated with Haiola by eBible.org 8 Aug 2026 from source files dated 7 May 2025\n^\n© 2013 Biblica"
+ },
+ "origin": "primary",
+ "fullTextAvailable": true,
+ "books": 66,
+ "verses": 31104,
+ "citation": "Kiugo Gĩtheru Kĩa Ngai. © Biblica, Inc. CC BY-SA 4.0.",
+ "features": {
+  "strongs": false,
+  "footnotes": true,
+  "poetry": true,
+  "supplied": true,
+  "redLetter": false
+ }
+}
