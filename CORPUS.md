@@ -48,11 +48,32 @@ Conclusion for the oral archive: **none of the six named archives exist as sourc
 - Cover artwork and carousel copy files were removed September 17, 2026; covers and featured cards are now generated (`src/ui/cover.js`, `src/data/featured.js`).
 - `seedNotes` in `corpus.js` — two demo notes with fixed dates. Demo user data; label as such in the seed spec and exclude from any real account.
 
-### 1.4 Concepts (8 curated + 6,782 computed, 3,724 browsed)
+### 1.4 Concepts (8 curated + 6,782 computed, 3,623 browsed)
 
 **Computed ontology (Sept 18, 2026)** — `content/concepts/` built by `scripts/ingest/concepts.mjs` (`npm run ingest:concepts`): 6,782 nodes from Nave’s and Torrey’s headings merged on slug (5,045 with verse lists) and Easton’s entries (4,055 definitions; 1,126 Easton-only nodes for people, places and things Nave’s does not head). Each node carries a lexical profile from the KJV Strong’s tags (3,082 nodes; lemmas weighted by inverse verse frequency, stop-list plus a 1.2% ceiling), typed edges — Nave’s see-also, co-occurrence (≥3 shared verses and Jaccard ≥0.02, or ≥12 shared), shared leading lemma — and mentions in the installed works by chapter (unigram/bigram of the head name; generic words and names under four letters skipped; 3,759 nodes). Rights: derived from public-domain and CC BY-SA sources; the method and counts are in `content/concepts/source.json`. Nothing computed is interpretation; the curated eight remain a labelled layer with `[FOUNDER]` definitions pending.
 
-**The browse rule (app-side, `src/data/ontology.js`).** Easton's contributes a dictionary, so 3,058 of the 6,782 nodes are proper names, places and objects with a single passage and no edge — 3,223 nodes had no edge at all and the median node had one link. Browsing (`conceptIndex()`) therefore shows the 3,724 that **connect to something, recur across five or more verses, or carry a lemma**; median links rise from 1 to 7, and 3,082 carry Hebrew and Greek. This is presentation, not deletion: `ontologyIndex()` still holds all 6,782, so search, the verse panel and every `#/concept/<id>` link reach every node, the letter pages say how many they set aside and link to the dictionaries, and 94% of what is set aside is already a headword in a dictionary we ship. It lives in the app rather than in this corpus because saved notes carry concept ids — a re-derivation that renumbered them would orphan somebody's research. Locked by `tests/concepts.test.mjs`.
+**The lexical profile (rescored 28 Sept 2026).** A concept's Hebrew and Greek used to be chosen by count × IDF,
+with every lemma appearing in more than 1.2% of verses thrown away and a hand-written stop list on top. All three
+mechanisms pushed the same way — toward the rarest word rather than the concept's own. The 1.2% cut discarded
+`kôhên` for Priest (653 verses) and `melek` for King (1,922), the exact words those concepts are about, and the stop
+list removed `ʼĕlôhîym`, `Yᵉhôvâh`, `theós` and `Iēsoûs` outright for being common. What was left was whatever was
+strangest: **1,053 of 3,082 concepts (34%) led with a lemma the King James never renders with the concept's own
+word** — Church printed `Tsîyôwn`, Israel and Priest printed `ʼAhărôwn`, Malice printed `Shâʼûwl`.
+
+Frequency is no longer a disqualification. A lemma speaks for a concept when it covers at least a tenth of that
+concept's verses *and* appears there at least four times more often than in Scripture at large — share × lift, the
+same measure `concept-names.mjs` uses on a translation, for the same reason: count alone finds the biggest thing and
+rarity alone finds the strangest, and only the two together find the right one. Two things still disqualify:
+grammatical particles and narrative filler, which carry no subject in any context; and a proper noun, which speaks
+only for the concept it names (`lemma-kind.json` — Paul keeps `Paûlos`, Church passes over `Tsîyôwn`).
+
+Where nothing clears the floors a concept carries **no profile**, which is the honest answer for one spanning four
+thousand verses: "Jesus, The Christ" has no Greek word, and Church, Israel and Miracles have none either. Profiles
+fell from 3,082 to **2,746** and browsed concepts from 3,724 to **3,623**; concepts leading with somebody else's
+name fell from 1,053 to **0**. Node ids and verse counts are unchanged by the re-derivation — checked before the
+commit, because ids are what saved notes point at. Locked by `tests/lemma-kind.test.mjs`.
+
+**The browse rule (app-side, `src/data/ontology.js`).** Easton's contributes a dictionary, so 3,058 of the 6,782 nodes are proper names, places and objects with a single passage and no edge — 3,223 nodes had no edge at all and the median node had one link. Browsing (`conceptIndex()`) therefore shows the 3,623 that **connect to something, recur across five or more verses, or carry a lemma**; median links rise from 1 to 7, and 2,746 carry Hebrew and Greek. This is presentation, not deletion: `ontologyIndex()` still holds all 6,782, so search, the verse panel and every `#/concept/<id>` link reach every node, the letter pages say how many they set aside and link to the dictionaries, and 94% of what is set aside is already a headword in a dictionary we ship. It lives in the app rather than in this corpus because saved notes carry concept ids — a re-derivation that renumbered them would orphan somebody's research. Locked by `tests/concepts.test.mjs`.
 
 
 `messiah`, `creator`, `judgment`, `covenant`, `restoration`, `deliverer`, `king`, `izwi`. Definitions are short curated prose without citations. Under the domain model, `uMsindisi`, `uMdali`, `uMgwebo`, `iSiVumelwano` are **Titles/terms in isiZulu** paired with English concepts; the pairing itself is a Relationship that needs evidence (a lexical citation). `izwi` carries an honest note that its relationships are editorial prompts. See `SEED_GRAPH.md`.
