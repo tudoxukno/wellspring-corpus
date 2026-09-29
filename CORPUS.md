@@ -48,6 +48,27 @@ Conclusion for the oral archive: **none of the six named archives exist as sourc
 - Cover artwork and carousel copy files were removed September 17, 2026; covers and featured cards are now generated (`src/ui/cover.js`, `src/data/featured.js`).
 - `seedNotes` in `corpus.js` — two demo notes with fixed dates. Demo user data; label as such in the seed spec and exclude from any real account.
 
+### 1.3b UBS semantic dictionaries (12,842 Strong's numbers)
+
+`content/ubs-domains/` built by `scripts/ingest/ubs-domains.mjs` from the United Bible Societies' open release
+([ubsicap/ubs-open-license](https://github.com/ubsicap/ubs-open-license), **CC BY-SA 4.0**): the Semantic Dictionary
+of Biblical Hebrew (7,941 entries) and the UBS Dictionary of the Greek New Testament. Per Strong's number we keep
+the lemma and up to three meanings, each with its semantic domain, first five glosses and short definition —
+3.5 MB in 15 blocks by Strong's thousand, covering **93% of the lemmas the concepts use**. The sources are 24 MB
+and 15 MB; references, valencies, collocations and images are not kept.
+
+Shown on the word-study page above Strong's own definition, each named, because which lexicon a definition came
+from is part of what it means. Strong's is 1890 and glosses in the idiom of its day; this is a working
+lexicographer's. Share-alike travels with it: anything derived carries the same licence, and the attribution is
+printed where the definition is.
+
+**Not an edge type, deliberately.** 2,526 concepts carry a domain on their leading lemma and 294 domains hold more
+than one concept — 319,114 pairs. But the largest are *Names of People* (683 concepts), *Names of Locations* (299)
+and *Names of Groups* (104). A bucket that size is a category, not a connection, and joining concepts by it repeats
+exactly what `docs/CONCEPT-EDGES-MEASUREMENT.md` records for the cross-references: a measure that is not
+distinctiveness finds the frequent thing. The domain is shown as a label on the word, where it says something true
+and small.
+
 ### 1.4 Concepts (8 curated + 6,782 computed, 3,623 browsed)
 
 **Computed ontology (Sept 18, 2026)** — `content/concepts/` built by `scripts/ingest/concepts.mjs` (`npm run ingest:concepts`): 6,782 nodes from Nave’s and Torrey’s headings merged on slug (5,045 with verse lists) and Easton’s entries (4,055 definitions; 1,126 Easton-only nodes for people, places and things Nave’s does not head). Each node carries a lexical profile from the KJV Strong’s tags (3,082 nodes; lemmas weighted by inverse verse frequency, stop-list plus a 1.2% ceiling), typed edges — Nave’s see-also, co-occurrence (≥3 shared verses and Jaccard ≥0.02, or ≥12 shared), shared leading lemma — and mentions in the installed works by chapter (unigram/bigram of the head name; generic words and names under four letters skipped; 3,759 nodes). Rights: derived from public-domain and CC BY-SA sources; the method and counts are in `content/concepts/source.json`. Nothing computed is interpretation; the curated eight remain a labelled layer with `[FOUNDER]` definitions pending.

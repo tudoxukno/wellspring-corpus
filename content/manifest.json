@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-27",
+ "generatedAt": "2026-09-29",
  "packages": [
   {
    "id": "kjv",
@@ -10,6 +10,8 @@
    "language": "en",
    "rights": "public-domain",
    "origin": "primary",
+   "direction": "ltr",
+   "script": "Latn",
    "features": {
     "strongs": true,
     "footnotes": true,
@@ -548,7 +550,7 @@
     "redLetter": false
    },
    "books": 66,
-   "verses": 31091,
+   "verses": 31087,
    "bookIds": [
     "Gen",
     "Exod",
@@ -646,7 +648,7 @@
     "redLetter": false
    },
    "books": 66,
-   "verses": 31104,
+   "verses": 31103,
    "bookIds": [
     "Gen",
     "Exod",
@@ -1636,7 +1638,7 @@
     "redLetter": false
    },
    "books": 66,
-   "verses": 31107,
+   "verses": 31103,
    "bookIds": [
     "Gen",
     "Exod",
@@ -4433,6 +4435,17 @@
     "hebrew": 8674,
     "greek": 5523
    }
+  },
+  {
+   "id": "ubs-domains",
+   "kind": "lexicon",
+   "title": "UBS Semantic Dictionaries of Biblical Hebrew and the Greek New Testament",
+   "abbreviation": "UBS",
+   "family": "reference",
+   "language": "en",
+   "rights": "CC-BY-SA-4.0",
+   "rightsNote": "© United Bible Societies. Semantic Dictionary of Biblical Hebrew (SDBH) and UBS Dictionary of the Greek New Testament, released under Creative Commons Attribution-ShareAlike 4.0 International. Share-alike: anything derived from this data carries the same licence.",
+   "citation": "United Bible Societies, Semantic Dictionary of Biblical Hebrew and UBS Dictionary of the Greek New Testament. CC BY-SA 4.0."
   },
   {
    "id": "concepts",
