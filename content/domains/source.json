@@ -1,0 +1,12 @@
+{
+ "id": "src:domains",
+ "type": "index",
+ "sourceType": "reference",
+ "title": "Semantic domains, by domain",
+ "abbreviation": "Domains",
+ "language": "en",
+ "rights": "CC-BY-SA-4.0",
+ "rightsNote": "© United Bible Societies. Derived from the Semantic Dictionary of Biblical Hebrew and the UBS Dictionary of the Greek New Testament, CC BY-SA 4.0. Share-alike: this index carries the same licence.",
+ "citation": "United Bible Societies, Semantic Dictionary of Biblical Hebrew and UBS Dictionary of the Greek New Testament. CC BY-SA 4.0.",
+ "derivedFrom": "content/ubs-domains (scripts/ingest/ubs-domains.mjs)"
+}
