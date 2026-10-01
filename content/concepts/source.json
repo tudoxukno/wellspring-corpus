@@ -16,6 +16,12 @@
   "withVerses": 5045,
   "withDefinition": 4055,
   "withLemmas": 2746,
-  "withWorks": 4156
+  "withWorks": 4156,
+  "typed": 927,
+  "multiIndex": 244,
+  "singleIndex": 4801,
+  "definitionOnly": 1275,
+  "thin": 1361,
+  "withBroader": 341
  }
 }

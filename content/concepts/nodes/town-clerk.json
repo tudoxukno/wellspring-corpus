@@ -1,1 +1,1 @@
-{"id":"town-clerk","name":"Town Clerk","aliases":[],"sources":["nave"],"topics":["nave:town-clerk"],"groups":[],"definition":null,"lemmas":[],"verses":["Acts.19.35"],"related":[],"works":[]}
+{"id":"town-clerk","name":"Town Clerk","aliases":[],"sources":["nave"],"topics":["nave:town-clerk"],"types":[],"standing":"single-index","indexes":["nave"],"thin":true,"groups":[],"definition":null,"lemmas":[],"verses":["Acts.19.35"],"witnesses":["n"],"agreed":0,"broader":[],"narrower":[],"related":[],"works":[]}
