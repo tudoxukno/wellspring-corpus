@@ -1,0 +1,11 @@
+{
+ "id": "src:renderings",
+ "type": "measurement",
+ "sourceType": "computed",
+ "title": "How each Bible renders a lemma",
+ "abbreviation": "Renderings",
+ "language": "mul",
+ "rights": "Derived; each edition keeps its own licence — see content/concepts/glossary/<pkg>.json",
+ "note": "For each Strong’s lemma, the word each Bible uses most in the verses the King James tags with it, with the count and the number of verses. A measurement of the text, not a lexical claim: a word here is what that Bible says in those verses, which is why it needs no second witness. The glossary in src/data/names.js is the separate, confirmed layer and does carry one.",
+ "derivedFrom": "content/concepts/glossary (scripts/ingest/concept-names.mjs)"
+}
